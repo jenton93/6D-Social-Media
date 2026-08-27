@@ -8,7 +8,7 @@ pillar: point-of-view
 target_keyword: event crew booking
 source: director voice note, Aug 2026
 author: Jenton Hollingum
-publish_date: ⛔
+publish_date: on hold — publishes with the site
 meta_title: Why we don't book crew from a list | 6D Group
 meta_description: A booking system can tell you someone can operate a desk. It can't tell you whether they can talk to a client, or spot a problem before it becomes one.
 voice_check: pass — approved by client 27 Aug 2026
@@ -20,7 +20,12 @@ voice_check: pass — approved by client 27 Aug 2026
 > Confirmed not identifiable — it's a pattern across many shows, not one
 > client, and the post now says so.
 >
-> Author: Jenton Hollingum. Set the publish date and it's ready to go.
+> **Author: Jenton Hollingum. Finished — held until the site is live**, since
+> there's nowhere to put it yet.
+>
+> The **director post can go out now** without waiting: it was written to work
+> with no link. Publish it, then re-promote properly when the blog goes up —
+> that's two bites at the same material, not a wasted one.
 
 ---
 
@@ -132,7 +137,7 @@ doesn't click should still have got something.*
 
 ---
 
-### LinkedIn — company page *(Slot A, Thursday)*
+### LinkedIn — company page *(Slot A)* — hold until the blog is live
 
 Three people, all booked onto the same show, all fine on paper.
 
@@ -157,7 +162,7 @@ New post on why we hand pick crew for every event 👇
 
 ---
 
-### LinkedIn — director *(first person, in the week)*
+### LinkedIn — director *(first person)* — ✅ **PUBLISHABLE NOW, no link needed**
 
 Jenton Hollingum
 
@@ -170,13 +175,14 @@ You need someone who's good with a client. Someone who spots problems. Someone
 quiet who works through the list without being asked. They're rarely the same
 person, and there's no field on a booking form for any of it.
 
-Wrote up why we still pick crew by hand, even though it's slower.
+So we still pick crew by hand for every event. It's slower, and on a big one
+it costs me a couple of hours I'd rather spend elsewhere.
 
-⛔ *link*
+I've never regretted it once.
 
 ---
 
-### Instagram *(carousel, 6 frames)*
+### Instagram *(carousel, 6 frames)* — publishable now; drop the "link in bio"
 
 1. **"Three people. Same show. All fine on paper."**
 2. **Ticks every box.** Knows the kit. Done the size. Worked the room.
@@ -196,7 +202,7 @@ stronger if we have one.*
 
 ---
 
-### Facebook *(warmer, plainer, link last)*
+### Facebook — hold until the blog is live
 
 There's a version of hiring event crew that works like a search filter — who's
 free, who's certified, what do they cost.
