@@ -23,8 +23,7 @@ voice_check: draft 2, rewritten as what we offer, not what events are
 
 # What we do
 
-Six kinds of event, six departments, and you can take one department or all of
-them.
+Six kinds of event, six departments.
 
 *All six sections are the same length and weight, by request. Nothing here
 signals which we do most of.*

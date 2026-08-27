@@ -5,7 +5,7 @@ type: home
 job: verify          # primary, someone checking we're real. Secondary: cold
 target_keyword: event production company london
 meta_title: 6D Group, technical production for large-scale events
-meta_description: Set and staging, lighting, sound, video, power and content for large-scale events. Take one department or all six. Ten years, every job from a recommendation.
+meta_description: Production management for large-scale events. Set and staging, lighting, sound, video, power and content. Ten years, and every job came from a recommendation.
 og_image: og-home.jpg
 primary_cta: Talk to us about a show
 voice_check: draft, not yet read aloud
@@ -23,20 +23,32 @@ voice_check: draft, not yet read aloud
 # Big shows. The same people, every time.
 
 Technical production for large-scale events. Set and staging, lighting, sound,
-video, power and content. Take one department or all six.
+video, power and content.
 
 **[Talk to us about a show]**
 
-<!-- Why this works: says what we do and who for in one line, no slogan, no
-     era-setting. "Take one department or all six" puts pick-and-mix above the
-     fold, which no competitor offers. -->
+<!-- Plain statement of the specialism, not a slogan. The site's first job is
+     letting someone confirm we're real, so the hero should tell them what we
+     do in three seconds rather than make a claim they have to evaluate.
+     "Production management" rather than "technical production": it's the
+     actual specialism and it's the harder thing to copy.
+
+     Pick-and-mix has come out of the hero. It was appearing here, in the
+     departments block, on What we do, on the services overview and on all six
+     department pages. Stated that often it reads as anxious rather than
+     generous. It now lives properly in one place, on the services page, and
+     the six separate department pages demonstrate it without announcing it.
+
+     Alternative hero if this reads too flat: "Big shows, run by the people
+     who quoted them." Says more, but it's a claim rather than a fact, and it
+     has to be earned further down the page anyway. -->
 
 ---
 
 ## Proof strip *(immediately under the hero, before any description)*
 
 **Ten years.** Every job from a recommendation.
-**Six departments.** Take one or all of them.
+**Six departments.** Set, lighting, sound, video, power, content.
 **One quote**, however many you take.
 
 <!-- Scale without headcount, per §4. Every figure is true and checkable, and
@@ -101,9 +113,7 @@ that help.
 **Content**: the material that plays on the screens, made by the people
 running them.
 
-Take one. Take all six. It's one quote and one crew chief either way, and
-taking more of them often costs less than buying them separately, because the
-crew and the transport are shared.
+One quote and one crew chief, however many of them you take.
 
 <!-- Order: Set & Staging and Video first, they win the first job. Lighting
      third, carrying the origin line. Power and Content called out because

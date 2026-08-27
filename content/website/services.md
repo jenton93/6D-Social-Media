@@ -103,10 +103,7 @@ Having both means someone who knows how it gets made is in the room when it's
 being designed. On a tight get-in that's usually the difference between a
 build that lands and one that runs into the small hours.
 
-### Can I take just this?
-
-Yes, and set and staging is where most first jobs with us start.
-
+Most first jobs with us start here.
 ### How it works
 
 *Same block as the services overview.*
@@ -162,10 +159,7 @@ This is the same argument the rest of the site makes about crew, applied to
 kit. Something will fail. What matters is whether there's a second one already
 racked up and running.
 
-### Can I take just this?
-
-Yes, and video is one of the two departments most often taken first.
-
+One of the two departments clients most often come to us for first.
 ### How it works
 
 *Same block as the services overview.*
@@ -213,11 +207,6 @@ find out weeks later when the edit arrives.
 
 Since we're often making the post-event content as well, we'd rather it looked
 right in the first place.
-
-### Can I take just this?
-
-Yes.
-
 ### How it works
 
 *Same block as the services overview.*
@@ -263,11 +252,6 @@ argument is much easier when it's one company having it with itself.
 
 ⛔ *Any rigging qualifications worth naming here? Same logic as BS7909 on the
 power page: checkable and not universal.*
-
-### Can I take just this?
-
-Yes.
-
 ### How it works
 
 *Same block as the services overview.*
@@ -324,11 +308,7 @@ into it. That sounds obvious. It isn't how most shows are resourced, which is
 why power gets ordered to a number somebody guessed in week two and never
 revisited.
 
-### Can I take just this?
-
-Yes. It's one of the departments most often taken on its own, usually by
-someone who's been let down on it before.
-
+Often taken on its own, usually by someone who's been let down on it before.
 ### How it works
 
 *Same block as the services overview.*
@@ -390,11 +370,8 @@ with a new version, the person fixing it is already in the room.
 It's also why the post-event edit is any good. We were there, we know which
 moment mattered, and we already have the footage.
 
-### Can I take just this?
-
-Yes, and some clients do. One takes content from us and nothing else, for an
-event we don't otherwise touch.
-
+One client takes content from us and nothing else, for an event we don't
+otherwise touch.
 ### How it works
 
 *Same block as the services overview.*
