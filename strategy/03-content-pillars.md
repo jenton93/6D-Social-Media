@@ -190,8 +190,9 @@ pillar that answers it, and it currently doesn't exist.
 The argument in Pillar 3 wins the debate. This one proves the depth is real —
 without ever disclosing a payroll.
 
-- **How a crew gets picked.** ← *the best single piece of content available*
-  Not bench size — selection method. We don't put people we don't know into
+- **"Crew are hand picked for the event."** ← *the best line and the best
+  piece of content available.* Use the phrase verbatim — "hand picked" is the
+  exact opposite of "allocated". Not bench size, selection method. We don't put people we don't know into
   critical roles. After that it's composition: client-facing, problem-solver,
   knows the venue, knows this client's event, works well with the others.
   **Every one of those is something a booking system structurally can't hold**,

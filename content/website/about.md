@@ -61,8 +61,8 @@ convincing.*
 One of us is on every show. Not a project manager allocated the week before —
 whoever quoted it, in the room, start to finish.
 
-Behind that is a crew we build per show. We don't put people we don't know
-into critical roles, and we don't book from a list of who's free.
+**Crew are hand picked for the event.** We don't put people we don't know into
+critical roles, and we don't book from a list of who happens to be free.
 
 What we're actually looking for is harder to write down than a kit
 qualification: someone client-facing, someone who solves problems, someone who

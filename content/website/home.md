@@ -134,7 +134,7 @@ the same crew next time.
 One of us is on every show. Not a project manager assigned the week before —
 the person who quoted it, in the room, for the whole thing.
 
-### And we don't book crew from a list
+### Crew are hand picked for the event
 
 We don't put people we don't know into critical roles. That one doesn't bend.
 

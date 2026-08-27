@@ -536,9 +536,15 @@ It works for three reasons:
    *yes, that's the difference between the good shows and the bad ones* —
    because they've been on both
 
-**"We don't put people we don't know in critical roles"** is the single best
-sentence available to us. It's a policy, not a claim — concrete, testable, and
-it answers the resilience objection more directly than any headcount could.
+**The phrase is yours: "crew are hand picked for the event."**
+
+Use it verbatim. "Hand picked" is the precise opposite of "allocated", it's
+four words, and it says the whole thing. It's the kind of line a marketing
+department spends a fortnight failing to write.
+
+Pair it with the policy: **"we don't put people we don't know in critical
+roles."** That's not a claim, it's a rule — concrete, testable, and it answers
+the resilience objection more directly than any headcount could.
 
 And the line that carries it: **a form can tell you someone can operate a
 desk. It can't tell you whether they'll spot the problem before it becomes
