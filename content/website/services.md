@@ -42,52 +42,47 @@ buying them separately, because the crew and the transport are shared.
 
 # Set & Staging, /services/set-and-staging
 
-*Front door page. Along with Video, this carries the SEO.*
+## Drawn and built in the same building
 
-## The physical build
+Most staging is either designed by one company and built by another, or drawn
+by someone who's never had to make it. We do both in house, which means the
+thing on the drawing is the thing that turns up, and if it can't be built the
+conversation happens at the drawing stage rather than in the loading bay.
 
-Stages, sets, decking, drapes, scenic, rigging. The thing everyone in the room
-looks at for eight hours.
+### What we do
 
-### The problem it solves
+- **In-house drawing office.** Design, technical drawings, and the load and
+  build detail behind them
+- **In-house workshop.** We make it ourselves
+- **CNC**, for anything that needs to be precise or repeated
+- **Custom build** to your design or ours
+- **Large format print, from 30cm to 30m.** Both ends of that. A lectern panel
+  and a full-width backdrop come off the same process
+- **Stock decking** in 4, 6 and 8ft lengths by 1, 2, 3 and 4ft, so most stage
+  shapes come out of stock rather than out of a fabrication budget
 
-You've got a room with the wrong shape, a client with a design that assumed a
-different room, and a get-in window that closes before the doors open.
-`‹ASSUMED, replace with the version you'd actually say to a producer›`
+### Why the two together matter
 
-### What you get
+A drawing office without a workshop produces designs that get value-engineered
+by whoever ends up building them. A workshop without a drawing office builds
+what it's sent, including the bits that were never going to work.
 
-⛔ *Concrete deliverables. What's included as standard, design drawings, load
-calculations, build crew, on-site management, strike?*
+Having both means someone who knows how it gets made is in the room when it's
+being designed. On a tight get-in that's usually the difference between a
+build that lands and one that runs into the small hours.
 
-### How it runs
+### Can I take just this?
 
-Site visit and survey → design and drawings → sign-off → build schedule →
-get-in → show → strike. `‹ASSUMED›`
-
-⛔ *Typical lead time from brief to get-in?*
+Yes, and set and staging is where most first jobs with us start.
 
 ### How pricing works
 
-*Same block on all six pages.*
-
-Every event is quoted individually. The room, the get-in window and the crew
-days move the number more than the kit list does.
-
-Taking more departments often costs less than buying them separately. The crew
-and the transport are shared, so six departments on one contract can come in
-under the same six bought from three suppliers. That's the practical reason to
-consolidate, not a sales argument.
-
-But it only works if you're free not to. Take one department and it's priced
-as one, with no penalty for the five you didn't take.
-
-We're not the cheapest quote you'll get. What we'd rather do is show you what's
-in ours, and what's been left out of the others.
+*Same block as the other five pages.*
 
 ### Questions we get asked
 
-⛔ *Three or four real ones, from the questions bank.*
+⛔ *Three real ones. Likely: "can you build to our designer's drawings?", "how
+late can we change the artwork?", "what's the lead time on a custom build?"*
 
 ---
 ---
