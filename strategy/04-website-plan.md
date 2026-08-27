@@ -113,8 +113,12 @@ out. So the page explains **how pricing works**:
 > But it only works if you're free not to. Take one department and it's priced
 > as one, with no penalty for the five you didn't take.
 >
-> We're not the cheapest quote you'll get. What we'd rather do is show you what's
-> in ours, and what's been left out of the others.
+> We quote for the show you've described, including the parts that are easy
+> to leave off: rehearsal time, crew numbers, spares, and the get-in hours the
+> venue will actually give you.
+>
+> If our number comes in higher than another, it's usually one of those. Ask
+> both of us what's included, and the difference explains itself.
 
 **The shared-crew point is the important one and I had it wrong first time.**
 Departments don't cost the same whether you take one or six: taking more can
@@ -142,7 +146,7 @@ Show it instead:
 | Don't write | Write |
 |---|---|
 | "We deliver value for money" | "Our quote includes the rehearsal day. Check whether the others do" |
-| "Competitive pricing" | "We're not the cheapest quote you'll get" |
+| "Competitive pricing" | "Ask both of us what's included, and the difference explains itself" |
 | "Exceptional service as standard" | "The spares travel with us. You'll never be billed for a projector we didn't need to use" ⛔ *if true* |
 | "Trusted by leading brands" | "1,400 delegates, 14-hour get-in, crew of 22" |
 

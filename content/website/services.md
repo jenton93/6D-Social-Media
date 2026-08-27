@@ -38,6 +38,20 @@ of transport on your budget.
 And it's simpler. One supplier to brief, one invoice, and nobody arguing about
 whose problem it is when something goes wrong at 4pm.
 
+### How pricing works
+
+*This block is the same on all six department pages.*
+
+Every event is quoted individually. The room, the get-in window and the crew
+days move the number more than the kit list does.
+
+We quote for the show you've described, including the parts that are easy to
+leave off: rehearsal time, crew numbers, spares, and the get-in hours the
+venue will actually give you.
+
+If our number comes in higher than another, it's usually one of those. Ask
+both of us what's included, and the difference explains itself.
+
 ---
 ---
 
