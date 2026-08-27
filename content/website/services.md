@@ -174,24 +174,60 @@ questions]*
 
 # Power, /services/power
 
-*One of the two departments most clients source separately, so this page has a
-job the others don't: explaining why it shouldn't be separate.*
+*One of the two departments most clients source separately. This page has a job
+the others don't: explaining why it shouldn't be.*
 
-## Distribution and supply, on the same contract
+## Distribution and supply, on the same contract as everything else
 
 Power is usually somebody else's problem. Which means when it's wrong, it's
 also somebody else's problem, and you're the one standing in the room.
 
-⛔ *What we actually provide, distro, generators, cabling, testing,
-certification?*
+### What we do
+
+- **BS7909 electricians.** The standard for temporary electrical systems at
+  events, and what venues and insurers look for. Not everyone supplying event
+  power works to it
+- **Power designed around fuel, not just capacity.** Generators sized and
+  staged for the load they'll actually see rather than the worst case, so
+  they're not idling at a fraction of capacity for three days burning diesel
+  ⛔ *confirm I've described "farming generators" correctly*
+- **Distribution with RCBOs throughout.** Every distro, not just where the
+  regulations insist
+- **Power logging** where it's needed
+- **Post-event analytics**: what the event actually drew, when, and where
+
+### Why the analytics matter more than they used to
+
+Corporate clients are increasingly asked to report the energy and carbon
+footprint of their events, and most of them have no idea what a show actually
+consumed. "We hired a 250kVA generator" isn't an answer.
+
+Logged power gives them a real figure. It also tells us how to size the next
+one, which usually means a smaller generator and less fuel.
+
+⛔ *Is this something clients ask for already, or are we ahead of them? Changes
+whether it's a selling point or an explanation.*
 
 ### Why it matters that it's us
 
 The people specifying the power are the people who know what's being plugged
-into it. That sounds obvious. It's not how most shows are resourced.
-`‹ASSUMED›`
+into it. That sounds obvious. It isn't how most shows are resourced, which is
+why power gets ordered to a number somebody guessed in week two and never
+revisited.
 
-*[Same structure]*
+### Can I take just this?
+
+Yes. It's one of the departments most often taken on its own, usually by
+someone who's been let down on it before.
+
+### How pricing works
+
+*Same block as the other five pages.*
+
+### Questions we get asked
+
+⛔ *Three real ones. Likely: "how much power do I actually need?", "do we need
+a generator or will the house supply do?", "what happens if it fails?"*
 
 ---
 ---

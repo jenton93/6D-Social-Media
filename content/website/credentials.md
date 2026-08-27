@@ -51,6 +51,12 @@ same day.
   event.** ⛔ *Confirm this is true, procurement teams search for that exact
   term, and it's one of the most commonly requested items*
 
+## Standards
+
+- **BS7909** , temporary electrical systems for entertainment and related
+  purposes. Our electricians work to it.
+- ⛔ *Anything else held: 18th Edition, PAT, IPAF, PASMA, working at height?*
+
 ## Accreditations
 
 ⛔ *Which of these are held? PSA (Production Services Association),

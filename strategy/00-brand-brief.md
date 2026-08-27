@@ -940,6 +940,11 @@ thing standing in the way is paperwork we haven't published.
 The credentials pack is only as good as what we actually hold. Tell me which
 of these exist, and I'll build the page around them:
 
+**Already established**
+- **BS7909 electricians** , the standard for temporary electrical systems at
+  events. A real, checkable credential and exactly what procurement and venues
+  look for. It belongs on the power page *and* in the credentials pack
+
 **Certain to be required**
 - [ ] Company registration number and registered address
 - [ ] VAT number
