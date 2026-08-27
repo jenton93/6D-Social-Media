@@ -88,6 +88,63 @@ The event-type split serves the smaller audience and can wait for evidence.
 The service split serves the larger one *and* the differentiator. Split later
 where the search data justifies it.
 
+### Pricing: don't publish numbers, but don't go silent either
+
+**No published prices.** Agencies and end clients pay different rates — that's
+how the industry works, not something to apologise for. Publishing one number
+means either showing the trade rate to direct clients and losing the margin,
+or showing the direct rate to agencies and reading as expensive to the 90%.
+Neither is survivable.
+
+But the reason to say *something* still stands. A reader who finds nothing
+about price assumes the worst rather than assuming it's negotiable, and a
+producer who can't tell whether we're in their range doesn't enquire to find
+out — they move on. So the page explains **how pricing works** instead:
+
+> **How we price**
+>
+> Every event is quoted individually — the room, the get-in window and the
+> crew days move the number more than the kit list does.
+>
+> Departments are priced separately, so taking one costs the same as taking
+> one out of six.
+>
+> Rates differ for agencies and trade against direct clients, as they do
+> across the industry.
+>
+> We're not the cheapest quote you'll get. What we'd rather do is show you
+> what's in ours and what's been left out of the others.
+
+That last line is the value position stated confidently, and it does the
+qualifying job a price range would have done — someone shopping purely on
+price self-selects out, which is the outcome we wanted anyway.
+
+**Also add: what drives the cost.** Room and venue constraints, get-in and
+strike windows, crew days, rehearsal time, whether content is being made.
+A producer reading that can estimate roughly where they'd land, and — more
+importantly — sees that we understand what actually makes a show expensive.
+
+### ⚠️ "Value for money" must be shown, never said
+
+The positioning is value, not price. But *"we deliver value for money"* is
+unfalsifiable, every competitor says it, and it's exactly the kind of claim
+`01-voice-and-tone.md` §2 bans.
+
+Show it instead:
+
+| Don't write | Write |
+|---|---|
+| "We deliver value for money" | "Our quote includes the rehearsal day. Check whether the others do" |
+| "Competitive pricing" | "We're not the cheapest quote you'll get" |
+| "Exceptional service as standard" | "The spares travel with us. You'll never be billed for a projector we didn't need to use" ⛔ *if true* |
+| "Trusted by leading brands" | "1,400 delegates, 14-hour get-in, crew of 22" |
+
+**"Cheapest quote, most expensive show"** is the argument, and it's already in
+the content pillars. What gets left off a quote to win it — rehearsal time,
+crew numbers, spares, contingency, the get-in hours nobody budgeted — is
+something a producer has been burned by and will recognise instantly. That's a
+blog post, a director post, and a paragraph on the services overview.
+
 ### Managing the copy burden on six service pages
 
 Copy is still the bottleneck, so the six pages get written to **one tight
@@ -99,7 +156,7 @@ The problem it solves         two or three sentences
 What you get                  bullets
 How it runs                   the relevant slice of the six steps
 Can I take just this?         YES — the pick-and-mix answer, same on all six
-What it costs                 a range or how pricing works
+How pricing works             no numbers — see the pricing section above
 Questions we get asked        three, from the questions bank
 Work                          two examples
 ```
@@ -210,9 +267,7 @@ Structure:
 2. The problem it solves — described so precisely the reader thinks "that's us"
 3. What you get — deliverables, concrete
 4. How it runs — timeline, stages, who's involved
-5. What it costs, or how pricing works. **Say something.** A range, a "from",
-   a "typical projects run £X–£Y". Refusing to discuss price is the single
-   biggest cause of drop-off on B2B service sites
+5. **How pricing works — not what it costs.** See the section below
 6. Proof specific to this service
 7. FAQ — the real objections, answered honestly
 8. Contact

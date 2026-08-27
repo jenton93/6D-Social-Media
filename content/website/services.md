@@ -64,14 +64,20 @@ get-in → show → strike. `‹ASSUMED›`
 
 ⛔ *Typical lead time from brief to get-in?*
 
-### What it costs
+### How pricing works
 
-⛔ **Say something here.** A range, a "from", or a typical figure. Refusing to
-discuss price is the single biggest cause of drop-off on a B2B service site,
-and the reader assumes the worst rather than assuming it's negotiable.
+*No numbers — agencies and direct clients pay different rates, and publishing
+one figure damages whichever side sees the wrong one. This block is the same
+on all six pages:*
 
-Even *"most set builds we do run between £X and £Y depending on the room"* is
-enough. It qualifies people in and out before either of you spends time.
+Every event is quoted individually. The room, the get-in window and the crew
+days move the number more than the kit list does.
+
+Departments are priced separately, so taking one costs the same as taking one
+out of six.
+
+We're not the cheapest quote you'll get. What we'd rather do is show you
+what's in ours, and what's been left out of the others.
 
 ### Questions we get asked
 
@@ -102,9 +108,9 @@ finds out until the back row can't read a slide. `‹ASSUMED›`
 
 ⛔ *Stages.*
 
-### What it costs
+### How pricing works
 
-⛔ *A range, or how pricing works.*
+*Same block as above.*
 
 ### Questions we get asked
 
@@ -140,9 +146,9 @@ and most conference lighting is designed as the former›`
 
 ⛔ *Stages.*
 
-### What it costs
+### How pricing works
 
-⛔ *A range.*
+*Same block as above.*
 
 ---
 ---
