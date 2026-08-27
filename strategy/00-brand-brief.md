@@ -1145,9 +1145,12 @@ One place it belongs explicitly: the **About page**, in something close to
 these words. It's disarming, it's unusual for a supplier to say, and it makes
 everything else on the page read as more honest.
 
-⛔ *A director post on this would work — the honest version of "we don't win
-everything, and we don't want to". Needs an example of a job we turned down or
-pointed elsewhere, or it's just a nice sentiment.*
+**The example exists: T2RL.** Three years of set and staging at the QEII, the
+event moved to a venue contractually tied to its in-house supplier, we reviewed
+their spec and quoted anyway, lost the year — and now deliver the whole event.
+Drafted at `content/website/work-t2rl.md` with a director post.
+
+That turns the principle from a sentiment into a thing that happened.
 
 ---
 

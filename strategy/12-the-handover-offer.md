@@ -18,7 +18,16 @@ It also directly addresses the demand we already know exists: clients leave
 the building, don't get the same service, and come back asking. This meets
 them *before* the disappointment rather than after it.
 
-Three things need settling first. The second one matters most.
+**And it's already been proven once.** T2RL — three years of set and staging
+at the QEII, moved venue, contract tied them to the in-house supplier. We
+reviewed the spec, quoted, didn't win it. This year we're delivering the whole
+event rather than one department (`content/website/work-t2rl.md`).
+
+That's not a hypothetical business case any more. It's a worked example, and
+it's the strongest argument for making this a standing offer rather than an
+occasional favour.
+
+Three things still need settling.
 
 ---
 
@@ -100,6 +109,22 @@ delivered for.* Free work consumes the scarcest resource in the business, and
 an uncapped offer becomes a job nobody scheduled.
 
 ---
+
+## The T2RL pattern, generalised
+
+What actually happened is worth naming, because it's repeatable:
+
+1. We knew what the event needed, because we'd delivered it
+2. The client moved somewhere we weren't going to win
+3. We gave them the record and the review anyway, and quoted so they had a
+   comparison
+4. We lost the year
+5. **They came back for more than they'd bought before** — the whole event,
+   not one department
+
+Step 5 is the return, and note that it's *larger* than what was lost. A client
+who has been away and come back buys with more conviction than one who never
+left.
 
 ## Why this is worth doing even when it wins nothing
 
