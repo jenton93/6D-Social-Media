@@ -10,8 +10,8 @@ voice_check: draft
 
 ## Tell us about the show
 
-The room, the date, and what's worrying you about it. That's usually enough to
-have a useful conversation.
+The room, the date, and the idea. That's usually enough to have a useful
+conversation.
 
 You'll get a reply from the person who'd be running it.
 

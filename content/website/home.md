@@ -203,7 +203,7 @@ crew of 22 · three days on site*
 
 ## Getting started
 
-Tell us about the show, the room, the date, and what's worrying you about it.
+Tell us about the show. The room, the date, and the idea.
 You'll get a reply from the person who'd be running it, usually the same day.
 
 > ⛔ **Confirm before publishing: is same-day always true?** Only promise what

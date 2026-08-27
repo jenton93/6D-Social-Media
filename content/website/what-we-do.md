@@ -126,7 +126,7 @@ this.*
 
 ## Tell us about the show
 
-The room, the date, and what's worrying you about it.
+The room, the date, and the idea.
 
 **[Talk to us about a show]**
 
