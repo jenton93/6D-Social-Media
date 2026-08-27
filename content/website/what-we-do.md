@@ -97,13 +97,21 @@ somebody still has to make it work if it rains.
 
 ## Install
 
-Permanent and semi-permanent systems: video, lighting, sound and power
-installed to stay.
+The smallest part of what we do, and worth explaining rather than expanding.
 
-⛔ *A different business from live events, with a different buyer and possible
-service-contract revenue. Tell me how much you do and whether you want more,
-because if it's a growth area it needs its own page rather than a section
-here.*
+Permanent and semi-permanent systems: video, lighting, sound and power
+installed to stay. What's different is where we're coming from. We install
+from a live events base, so the room works when you actually run an event in
+it.
+
+That sounds obvious. It isn't what usually happens. Plenty of rooms are
+installed to a spec that's technically correct and then falls over the first
+time someone runs a real show in there, because nobody specifying it had ever
+had to. ⛔ *A concrete example of what gets missed would land this: rigging
+points, control position, power for a temporary rig, sightlines?*
+
+So: fewer installs than most integrators do, specified by people who'll be
+standing in the room at 6am when it's in use.
 
 ---
 
