@@ -3,6 +3,7 @@ id: 202603-blog-01
 title:
 slug:
 type: answer                  # answer | case-study | opinion | guide
+job:                          # nudge | cold | verify — see 10-the-three-jobs.md
 pillar: answers
 target_keyword:
 search_intent:                # what is the person typing this actually trying to do?

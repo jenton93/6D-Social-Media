@@ -2,6 +2,7 @@
 id: 202603-li-01              # YYYYMM-<channel>-<nn>, permanent
 channel: linkedin-company     # linkedin-company | linkedin-director | instagram | facebook
 author:                       # director name, if applicable
+job:                          # nudge | cold | verify — see 10-the-three-jobs.md
 pillar: answers               # answers | proof | point-of-view | people
 format: text                  # text | image | carousel | reel | video | story
 slot: B                       # A (blog promo) | B | C

@@ -2,25 +2,44 @@
 
 Social, blog and website, run as one system: content is chosen from analytics,
 written to sound like a person wrote it, and reviewed monthly against whether
-it produced enquiries.
+it produced work.
+
+**It's doing three jobs, not one** (`strategy/10-the-three-jobs.md`):
+
+| | Job | Audience | Speed |
+|---|---|---|---|
+| **1** | **Nudge** — show existing clients the departments they aren't buying | Dozens | Weeks |
+| **2** | **Cold** — become known to agencies nobody has recommended us to | Hundreds | 6–12 months |
+| **3** | **Verify** — prove we're real to someone mid-decision, and get us past their finance team | Dozens | **Immediate** |
+
+Every page and post declares its job. They succeed on different timescales and
+judging one by another's yardstick is how content plans get abandoned.
 
 **Channels:** LinkedIn (6D Group Ltd + directors) · Instagram (@6dgroupuk) ·
 Facebook (6D Group Ltd) · 6d-group.com
 
 ---
 
-## ⚠️ Start here
+## ⚠️ Start here — and it isn't the content
 
-Two things block everything else, and both need you rather than me:
+**Job 3 first.** Clients who experience the service at the QEII Centre ask us
+to support them at other venues, and their event manager can't get us past
+finance because there's nothing to point at. That's work already won on merit
+and lost on paperwork.
 
-1. **`strategy/00-brand-brief.md`** — what we sell, who buys it, who we're
-   up against. Public sources give nothing (the site is a holding page, the
-   socials are gated). Without this, every headline and every line of website
-   copy is a guess.
-2. **`strategy/questions-bank.md`** — 20 questions clients actually ask, in
-   their words. This alone is a year of blog posts and most of the website.
+1. **Assemble the credentials pack** — company number, VAT, public and
+   employers' liability certificates, H&S policy, RAMS, accreditations, T&Cs.
+   Highest-value task in the plan. A blog post can't get a supplier through
+   procurement; an insurance certificate can
+2. **Build `/credentials` and the phase-1 site** (`strategy/04-website-plan.md`)
+3. **Ask ten years of clients for reviews.** Never been done, easiest win
+   available, and reviews matter competitively in this niche
 
-The rest of the repo is built and ready to run on top of those two.
+Then the content, which still needs two things only you can supply:
+
+4. **`strategy/00-brand-brief.md`** — the remaining ⛔ sections
+5. **`strategy/questions-bank.md`** — 20 questions clients actually ask, in
+   their words. A year of blog posts and most of the website
 
 ---
 
@@ -53,6 +72,7 @@ strategy/
   07-90-day-roadmap.md     Sequenced plan with honest expectations
   08-profile-buildout.md   Filling in the LinkedIn/IG/Facebook pages properly
   09-director-linkedin.md  Director posts — the biggest reach lever we have
+  10-the-three-jobs.md     Nudge / Cold / Verify — the organising framework
 
 calendar/content-calendar.csv   The schedule
 templates/                      Front-matter templates for every content type

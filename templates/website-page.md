@@ -9,6 +9,7 @@ og_image:                     # 1200x630
 primary_cta:
 internal_links_out:
 voice_check:
+job:                          # nudge | cold | verify
 ---
 
 # <H1 — plain, descriptive>

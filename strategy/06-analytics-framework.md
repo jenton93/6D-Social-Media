@@ -75,6 +75,12 @@ Each component is normalised 0–100 against the trailing 90-day median for
 that channel and format, so a LinkedIn carousel is compared to other LinkedIn
 carousels — not to a blog post.
 
+**Never compare scores across jobs.** A Nudge piece reaches a few dozen
+people and may sell a lighting package; a Cold piece reaches thousands and
+sells nothing for six months; a Verify piece is never attributed at all
+(`10-the-three-jobs.md`). Normalise within channel, format **and job** — and
+when a piece underperforms, the first question is which job it was doing.
+
 **Bands**
 - **80+ — Scale it.** Repurpose to two other formats, run it as paid, write
   the sequel.
