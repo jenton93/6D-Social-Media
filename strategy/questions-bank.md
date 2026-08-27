@@ -13,7 +13,9 @@ the website FAQ, and the objection-handling on every service page.
 >
 > Never close this file. Every time someone asks something, it goes in.
 
-**Status:** ⛔ awaiting review by Jenton and Christian.
+**Status:** ⛔ awaiting review by Jenton and Christian. **One real question
+added so far (2a)** — that one produced a post immediately. More like it,
+please.
 
 ---
 
@@ -23,6 +25,7 @@ the website FAQ, and the objection-handling on every service page.
 |---|---|---|---|
 | 1 | "Can you just do the video? We've got the rest covered." | Enquiry | The pick-and-mix post. **Highest priority** — it's the differentiator |
 | 2 | "What do you need from me to quote this?" | Enquiry | A genuinely useful post, and it makes the next quote easier |
+| 2a | **"Why do you need a rough schedule now?"** ← *real, from Jenton* | Enquiry | **Drafted: `202609-blog-03`.** Crew and kit timings drive the price more than the kit list does. The best kind of question — mildly irritating to be asked, with a good reason behind it |
 | 3 | "How much notice do you need?" | Enquiry | Lead times, honestly. Including what changes when it's shorter |
 | 4 | "We've already designed it — will you work to someone else's drawings?" | Enquiry | Reassurance for agencies with in-house creative |
 | 5 | "Can you work alongside the venue's in-house team?" | Enquiry | Directly relevant to the QEII-type relationship |
