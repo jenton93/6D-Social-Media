@@ -47,9 +47,11 @@ Set and staging, lighting, sound, video, power and content.
 
 ## Proof strip *(immediately under the hero, before any description)*
 
-**Ten years.** Every job from a recommendation.
+**10 years.** Of word of mouth. 6D Group's foundations are built on reputation
+& recommendation.
 **Six departments.** Set, lighting, sound, video, power, content.
-**One quote**, however many you take.
+**1 quote.** Whether you want full production, or to fill a single aspect of
+your event. We can provide it.
 
 <!-- Scale without headcount, per §4. Every figure is true and checkable, and
      "every job from a recommendation" is the strongest line on the page, nobody can manufacture it. -->
@@ -87,23 +89,31 @@ big?" before anyone has to ask.*
 
 ## Who we work with
 
-Agencies and in-house AV teams, mostly. Usually when a show has got bigger
-than what you'd normally handle on your own.
+### Agencies, in-house teams & events professionals
 
-That isn't a failure of an in-house team. It's a Tuesday in September. The
-question is just who you call, and whether they'll still be the same people
-when you call again in March.
+We don't just work directly for event organisers. A large arm of our business
+is in supporting existing AV Teams & event agencies.
 
-Conferences, awards and large corporate events, most often in central London
-venues, working alongside the in-house team rather than around them.
-`‹ASSUMED›`
+When a show starts to grow beyond your team's experience base, or when a
+technical requirement leaves you scratching your head, that's the time to call
+us! This isn't a failure or lack of skill, it's a gap that needs to be filled
+by a team with the experience & knowledge to deliver it. Making that
+challenging, tricky event just another Wednesday.
+
+So whether it's partnering up to grow a relationship of event support, or just
+fulfilling that one off show, we'll pick up the phone and help you through it.
+
+<!-- Jenton's rewrite, 27 Aug. Warmer and more direct than the draft it
+     replaced, and it names the reader instead of describing them. "That's the
+     time to call us!" keeps its exclamation mark on purpose: it's how he
+     talks, and one of them on a page reads as a person rather than a brand. -->
 
 ---
 
 ## Six departments. Take what you need.
 
-Most suppliers want the whole show or nothing. We'd rather you took the bits
-that help.
+Over the past 10 years, we've found suppliers wanting to manage the entire
+show, or just their single area of expertise. We decided to buck the trend.
 
 **Set & Staging**: the physical build.
 **Video**: screens, playback, cameras.
@@ -113,7 +123,23 @@ that help.
 **Content**: the material that plays on the screens, made by the people
 running them.
 
-One quote and one crew chief, however many of them you take.
+Just want our skillset in complex video delivery and LED? Sure.
+
+Already have a video production team you know and trust, but have struggled to
+integrate a large format print & set/stage supplier? Then we can provide it.
+
+Want the entire production managed? Then spoil yourself, and we'll look after
+it all.
+
+Having a wealth of experience across all sectors, but being able to fill any
+combination (and speak your team's language whilst doing it), means we fit into
+your production delivery rather than sitting alongside it.
+
+<!-- Jenton's rewrite, 27 Aug. One word changed: the original ended "helps us
+     seamlessly fit into your production delivery". "Seamless" is on the banned
+     list in 01-voice-and-tone.md §2, it's the single most common word in
+     event-supplier copy and it's the one a producer's eye slides straight off.
+     The rest is his, verbatim. Say the word and it goes back. -->
 
 <!-- Order: Set & Staging and Video first, they win the first job. Lighting
      third, carrying the origin line. Power and Content called out because
@@ -128,21 +154,36 @@ One quote and one crew chief, however many of them you take.
 
 ## The people on your show
 
-One of us is on every show. Not a project manager assigned the week before,
-the person who quoted it, in the room, for the whole thing.
+### We get it. You want the person you know.
+
+Not a project manager assigned the week before. Not the new starter playing
+catchup.
+
+You want the person who quoted it, the person who flagged that pinch point,
+the person who said it would work if you do that one specific thing. You want
+them in the room, on the build.
 
 ### Crew are hand picked for the event
 
 We don't put people we don't know into critical roles.
 
 After that it's about what the team needs rather than who's available. Every
-room has someone you trust in it. Someone who's good with a client. Someone
-who solves problems. Someone quiet who works through the list without being
-asked. Those are different people, and a team needs all of them.
+room has someone you trust in it. Someone who's a great communicator. Someone
+who's a problem solver. Someone who's the quiet thinker who works through the
+list of jobs.
 
-None of that is on a booking form. A form can tell you someone can operate a
-desk. It can't tell you how they'll be with your client at 4pm when the
-running order moves.
+Those are different people, and a team needs all of them.
+
+None of that is on a booking form.
+
+We've been there, when you have that gut feeling you can't leave the room,
+because you're not 100% sure of the team. We won't accept that for our
+clients. The best kit, the perfect prep, the extra rig time is great. But it's
+the team that make an event successful.
+
+<!-- Jenton's rewrite, 27 Aug, verbatim. The last paragraph is the strongest
+     thing on the page. It's the only place we admit to having been on the
+     other side of it, and that's what makes the rest believable. -->
 
 <!-- The "every large show has a moment, a projector dies, a truck is late"
      opener has moved to a blog post. It's an argument, and the homepage's job

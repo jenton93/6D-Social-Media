@@ -85,7 +85,7 @@ show", because the old one promised people the section doesn't introduce.
 
 **One consequence worth knowing.** The Verify job (`10-the-three-jobs.md`)
 partly depends on someone finding real people behind the company. With no
-faces or names on the site, that job moves almost entirely to **LinkedIn** —
+faces or names on the site, that job moves almost entirely to **LinkedIn**:
 the company page and both director profiles. Anyone checking us out will go
 there next.
 
