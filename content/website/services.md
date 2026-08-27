@@ -348,11 +348,12 @@ that's where most shows come unstuck.
   they send. We make it work on the screen without changing what they wanted
   to say
 - Formats, aspect ratios and codecs sorted before the session starts
-- **Speaker preview.** We sit down with speakers before they go on, run
-  their slides on the system they'll actually be presenting on, and make the
-  changes there and then. It's the difference between a presenter walking on
-  confident and a presenter finding out mid-talk that their build doesn't
-  animate
+- **Speaker preview**, usually run from an office or a room away from the
+  show, so nobody's waiting for a gap in the schedule to get on stage. Speakers
+  sit down with us, we go through the deck on a setup that matches what's in
+  the main room, and we make the changes there and then. It's the difference
+  between a presenter walking on confident and a presenter finding out mid-talk
+  that their build doesn't animate
 
 ### Why it matters that it's one team
 
