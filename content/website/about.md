@@ -6,17 +6,27 @@ job: verify
 voice_check: client-edited 27 Aug 2026. Jenton's version
 ---
 
-> **Client-edited.** This is Jenton's wording and it stands as written.
-> Two open questions at the bottom.
+> **Client-edited.** Jenton's wording, and it stands as written.
+>
+> ⛔ *"That's changing. You're reading the website." is my line, not yours.
+> It's there because the paragraph now describes something that has stopped
+> being true, and pretending otherwise would read oddly on a website. It also
+> heads off the obvious thought. Plainer alternative if it's too dry:
+> "That's changing now, which is why this exists." Or cut it and let the
+> tense do the work.*
 
 # About
 
 ## We started as a lighting company
 
 Ten years ago, doing shows for people who'd been recommended us by someone else
-who'd worked with us. That's still how it works, every job we've ever had came
-from a recommendation. In ten years we never advertised, had a website, or even
-a business card.
+who'd worked with us. That's still how it works. Every job we've ever had came
+from a recommendation.
+
+For the first ten years we never advertised, had a website, or even a business
+card.
+
+That's changing. You're reading the website.
 
 The lighting turned into set and staging, then video, then sound, power and the
 content that plays on the screens. Not because we set out to be a full-service
