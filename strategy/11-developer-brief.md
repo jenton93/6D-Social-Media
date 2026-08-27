@@ -31,20 +31,24 @@ start, and each is a lookup rather than a piece of writing.
 
 ## Scope — recommended for launch
 
-Eight pages, not the fourteen in the January brief. Copy is the bottleneck and
-a half-finished site recreates the exact problem we're solving. Six thin pages
-also rank worse than one strong one.
-
 ```
-/                     Home
-/what-we-do           Six event types as sections on one page
-/services             Six departments as sections on one page
-/how-we-work          The six steps
-/work                 Case studies
-/about                ← add this. Missing from the January brief
+/                      Home
+/what-we-do            Six event types as sections on ONE page
+/services              Overview
+  /lighting  /sound  /video  /set-and-stage  /power  /content
+/how-we-work           The six steps
+/work                  Case studies
+/about                 ← add this. Missing from the January brief
 /contact
-/credentials          Footer link
+/credentials           Footer link
 ```
+
+The six **service** pages stay separate — they're what makes pick-and-mix real,
+and agencies buy departments rather than shows. The six **event types** become
+sections on one page for launch and split later if search data justifies it.
+
+Each service page uses the same repeating template, so it's six fill-ins
+rather than six blank pages.
 
 **Build the navigation with room for phase 2** — individual event-type pages,
 individual service pages, and trade hire — so none of it is retro-fitted.

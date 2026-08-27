@@ -367,8 +367,18 @@ consequential choice in the whole plan.
 ## Clients
 
 **QEII Live** (in-house AV team at the QEII Centre) · **Dancing Squirrel** ·
-**Evolution International** · **Select Brief** · **Aztec** (crew supply — see
-§5c)
+**Evolution International** · **Select Brief** · **Hemming Group** (end
+client — **Content only**) · **Aztec** (crew supply — see §5c)
+
+**Hemming Group is the proof that pick-and-mix works**, and it's the most
+useful single client example in the brief. An end client buying one department
+and nothing else demonstrates that each department stands on its own
+commercially — which is why the six service pages need to exist separately
+(`04-website-plan.md`), and it's the strongest possible content for the
+Content page if they'll allow it.
+
+It also shows the entry point isn't always set & staging or video. Content can
+be the front door too, which widens where new relationships can start.
 
 Exactly the buyer profile described in §2: in-house AV teams and agencies.
 QEII Live in particular is a strong credential — a major London conference

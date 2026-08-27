@@ -45,64 +45,72 @@ Any page that doesn't serve one of these two jobs is a page we don't need yet.
 
 ## Sitemap — recommended
 
-The January brief had 14+ pages. I'd cut it to eight for launch, and here's
-the reasoning before the structure.
+**Revised.** My first cut consolidated the six service pages onto one page to
+save copy. That was wrong once I understood why they were split: the six
+service pages exist to make **pick and mix** real. Agencies buy departments,
+not shows.
 
-**Copy is the bottleneck, and it has been for eight months.** A 14-page site
-needs twelve substantial pages of writing from the two people with the least
-time in the business. A site that's perpetually 70% finished is exactly what
-"they don't really exist" looks like — which is the problem we're solving, so
-building something that recreates it would be a poor trade.
+The proof is **Hemming Group** — an end client who uses us for Content and
+nothing else. If there's no Content page, there's nothing for a buyer like
+that to land on, and the one genuinely differentiating thing about the
+business is invisible.
 
-There's also an SEO argument, not just a capacity one: **six thin pages rank
-worse than one strong one.** Splitting "what we do" into six pages before
-there's enough to say on each produces six pages Google treats as thin
-content. Split them later, when there's real material and real search data
-saying which ones matter.
+So the six service pages stay. What gets consolidated instead is the event
+types, which are positioning rather than transaction.
 
 ```
-/                     Home
-/what-we-do           Six event types, as sections on one page
-/services             Six departments, as sections on one page
-/how-we-work          The six steps
-/work                 Case studies
-/about                ← missing from the January brief. See below
+/                      Home
+/what-we-do            Six event types as sections on ONE page
+/services              Overview — the pick-and-mix argument
+  /lighting
+  /sound
+  /video
+  /set-and-stage
+  /power
+  /content
+/how-we-work           The six steps
+/work                  Case studies
+/about                 ← missing from the January brief. See below
 /contact
-/credentials          Footer link
+/credentials           Footer link
 ```
 
-**Phase 2, once there's evidence:** split out individual event-type pages,
-starting with the two that matter commercially. Then services. Then trade
-hire. Building the navigation now with room for all of it costs nothing.
+### Why services split and event types don't
 
-### ⚠️ The brief has no About page, and that's the biggest gap in it
+| | Service pages | Event-type pages |
+|---|---|---|
+| Audience | **Agencies and in-house teams — 90% of revenue** | End clients — 10% |
+| Job | Transactional. Land, understand, buy this one thing | Positioning. "Do they do my kind of event?" |
+| Supports | Pick and mix, and the second sale (Job 1) | Cold search |
+| Search intent | "event content production", "conference lighting hire" | "conference production company" |
 
-The site's primary job is proving the company is real
-(`10-the-three-jobs.md`, Job 3). About is *the* page that does that — ten
-years, every job from a recommendation, the directors named and photographed,
-the crew behind them.
+The event-type split serves the smaller audience and can wait for evidence.
+The service split serves the larger one *and* the differentiator. Split later
+where the search data justifies it.
 
-A brochure site with no About page reads as a company that doesn't want to say
-who it is, which is the opposite of the required effect. **If one page had to
-be perfect, it's this one.**
+### Managing the copy burden on six service pages
 
-### On weighting the six event types
+Copy is still the bottleneck, so the six pages get written to **one tight
+repeating template**, not six unique pieces of writing:
 
-Don't give all six equal billing. Corporate conferences and awards are the
-business; Festivals and Install are real but smaller. A site that presents six
-equal specialisms reads as a company claiming everything, which reads as a
-company specialising in nothing — and that's precisely the impression we can't
-afford.
+```
+What this is                  one sentence
+The problem it solves         two or three sentences
+What you get                  bullets
+How it runs                   the relevant slice of the six steps
+Can I take just this?         YES — the pick-and-mix answer, same on all six
+What it costs                 a range or how pricing works
+Questions we get asked        three, from the questions bank
+Work                          two examples
+```
 
-Order them by what we actually do most of, and let the depth of each section
-reflect it. ⛔ *Rough percentages would help here.*
+Same skeleton six times, filled in. That's a fill-in-the-gaps exercise rather
+than six blank pages, and it's the difference between finishing and not.
 
-### Keep portfolio and blog separate
-
-The January brief had them combined. They're doing different jobs: `/work` is
-case studies proving capability, `/blog` is a weekly publication feeding the
-content plan. Combining them now makes an awkward split later, and it costs
-nothing to separate at build time.
+**Every service page answers "can I take just this one?" explicitly and
+prominently.** That's the whole reason the pages exist. Hemming Group is the
+evidence it works, and if they'll allow it, saying so on the Content page is
+worth more than any amount of description.
 
 ### The sixes
 
@@ -111,26 +119,15 @@ and it gives the site a structure that isn't accidental. Use it — but let it
 be noticed rather than explained. A line anywhere saying "notice a theme?"
 kills it instantly.
 
-### ⚠️ The event-type pages matter more than the service pages
+### Cross-linking
 
-This wasn't in my earlier draft and it's the more important half of the site,
-because **it's how buyers actually think and search.**
+Every event-type section links to the departments it typically uses; every
+service page links back to the event types it's used on. That's how a reader
+who arrived for one thing discovers the other five.
 
-A producer with a conference to deliver searches "conference production
-company", not "lighting hire". They arrive with an event, not a shopping list
-of departments. So:
+### On Festivals and Install
 
-- **Event-type pages carry the SEO and the conversion.** Each one targets a
-  real search with buying intent behind it
-- **Service pages carry the second sale** — the existing client who came for
-  set and video and doesn't know about the other four (`10-the-three-jobs.md`,
-  Job 1). They're also where a technical reader goes to check depth
-- Every event-type page links to the departments it typically uses; every
-  service page links back to the event types it's used on
-
-If time is short, **build the event-type pages first.**
-
-Note also that **Festivals** and **Install** are new information — the brief
+Note that **Festivals** and **Install** are new information — the brief
 had corporate conferences and awards as the main event type. Install in
 particular is a different business with different buyers and, potentially,
 recurring revenue. ⛔ *Worth saying how much of the business each of the six
