@@ -45,6 +45,35 @@ sound, video, power and content. Take one department or all six.
 
 ---
 
+## Credits strip
+
+*Logos or names, under the proof strip. Answers "can you handle something this
+big?" before anyone has to ask.*
+
+**QEII Centre** · **Britain's Got Talent** ⛔ · **Boomtown** ⛔ ·
+**Hemming Group** · **Dancing Squirrel** · **T2RL**
+
+> ⛔ **Two things before this can go live.**
+>
+> **1. Written permission per name.** "I'm sure we can" isn't it. QEII Live
+> and Dancing Squirrel are white-label relationships — being named as their
+> supplier says something about *their* business, not only ours. It's usually
+> a yes and it's a two-line email, but send it before Will builds the page.
+>
+> **2. Broadcast and festival names carry contractual restrictions.**
+> Productions at that level commonly restrict suppliers announcing
+> involvement, and the names are trademarks. Check the contracts. If it's a
+> no, *"a primetime Saturday-night entertainment show"* and *"a
+> 60,000-capacity independent festival"* carry nearly all the weight with none
+> of the risk.
+>
+> **3. Be precise about scope.** If we supply one department into a chain of
+> suppliers, "we do Britain's Got Talent" overstates it — and everyone in this
+> industry knows how those chains work. An inflated claim is the kind of thing
+> that gets noticed and repeated in a market this small.
+
+---
+
 ## Who we work with
 
 Agencies and in-house AV teams, mostly. Usually when a show has got bigger

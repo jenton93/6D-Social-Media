@@ -364,38 +364,81 @@ consequential choice in the whole plan.
 
 ---
 
-## Clients
+## Clients and credits
 
-**QEII Live** (in-house AV team at the QEII Centre) · **Dancing Squirrel** ·
-**Evolution International** · **Select Brief** · **Hemming Group** (end
-client — **Content only**) · **Aztec** (crew supply — see §5c)
+### Nameable (subject to confirmation)
 
-**Hemming Group is the proof that pick-and-mix works**, and it's the most
-useful single client example in the brief. An end client buying one department
-and nothing else demonstrates that each department stands on its own
-commercially — which is why the six service pages need to exist separately
-(`04-website-plan.md`), and it's the strongest possible content for the
-Content page if they'll allow it.
+| | | |
+|---|---|---|
+| **QEII Live** | In-house AV team, QEII Centre | Venue credential — major London conference venue |
+| **Dancing Squirrel** | Agency | |
+| **Hemming Group** | End client — **Content only** | The pick-and-mix proof |
+| **T2RL** | ⛔ *type?* | |
+| **Evolution International** | Agency | ⛔ *nameable?* |
+| **Select Brief** | Agency | ⛔ *nameable?* |
+| **Aztec** | Crew supply | Not a relationship we're growing (§5c) |
 
-It also shows the entry point isn't always set & staging or video. Content can
-be the front door too, which widens where new relationships can start.
+### The scale credits
 
-Exactly the buyer profile described in §2: in-house AV teams and agencies.
-QEII Live in particular is a strong credential — a major London conference
-venue is the kind of name that ends an argument about whether we can handle
-scale.
+**Boomtown** and **Britain's Got Talent.**
 
-> **⚠️ Permission first.** Telling me these is not the same as being able to
-> publish them, and in a white-label trade relationship that distinction
-> matters commercially. Get an explicit yes or no from each, in writing,
-> before any of them appears in public content. Some will happily be named and
-> a couple may co-market; assume none of them will until they've said so.
->
-> Where the answer is no, the work still becomes content — anonymised, with
-> the numbers and constraints kept. See §2.
+These change what's possible on the site. A household-name television show and
+one of the UK's largest festivals answer the "can you handle something this
+big?" question in a way no anonymised delegate count can. They're the single
+most valuable proof assets in the brief.
+
+**Three cautions, and they matter.**
+
+**1. "I'm sure we can" is not permission.** Get it in writing, per client,
+before anything is published. That applies most to the trade relationships —
+QEII Live and Dancing Squirrel are white-label arrangements where being named
+as their supplier reveals something about *their* business, not just ours.
+It's usually a yes, and it's a two-line email. Send it before Will builds
+the page, not after.
+
+**2. Broadcast and major festivals usually restrict supplier publicity.**
+Productions at that level commonly have contractual clauses on suppliers
+announcing involvement, and the show names and logos are trademarks. Using
+"Britain's Got Talent" or a logo without sign-off from the production company
+is a real risk, not a technicality — and the downside is out of proportion to
+the benefit.
+
+The safe version, if permission isn't forthcoming: **describe the work, don't
+name the brand.** *"A primetime Saturday-night entertainment show for a major
+UK broadcaster"* and *"a 60,000-capacity independent festival"* carry nearly
+all the weight and carry no risk. ⛔ *Check the contracts before deciding.*
+
+**3. Be precise about scope.** If we supply one department or crew into a
+chain of suppliers on BGT, then "we do Britain's Got Talent" overstates it.
+Everyone in this industry knows how those chains work, and an inflated claim
+is exactly the kind of thing that gets noticed and repeated in a market this
+small. The reputational cost of being caught stretching is far higher than
+whatever the stretch buys.
+
+The accurate version is still excellent: *"we supply ⛔ to the team delivering
+Britain's Got Talent"* tells a producer everything they need to know about
+whether we can cope.
+
+### ⚠️ Use them for scale, not for positioning
+
+Boomtown and BGT are entertainment and broadcast. The business is corporate
+conferences and awards (§2). Leading with the entertainment credits would
+attract the wrong enquiries and muddy what we're actually selling.
+
+So they answer one specific question — **"can you handle something this
+big?"** — and they belong wherever that question gets asked: a credits strip,
+the About page, the Festivals section. They don't belong in the hero, and they
+don't define what we do.
+
+The QEII Centre is the more strategically valuable name, even though it's the
+less famous one, because it's *the* credential for the work we actually want
+more of.
 
 ⛔ Still open:
-- Are these four the bulk of the business, or the top of a longer tail?
+- What exactly do we do on Boomtown and BGT, and via whom?
+- Do those contracts permit us to say so?
+- Is T2RL an agency, an end client or a venue?
+- Are these the bulk of the business, or the top of a longer tail?
 - Which of them would likely agree to be named, and which definitely wouldn't?
 - Which other venues do we work in regularly? Venue-specific content performs
   unusually well here, because producers search for the building by name
