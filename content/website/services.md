@@ -94,33 +94,60 @@ in ours, and what's been left out of the others.
 
 # Video, /services/video
 
-*Front door page.*
-
 ## Screens, playback and cameras
 
-⛔ *One line on what's covered. LED, projection, PPU, IMAG, recording,
-streaming?*
+### Designed before it's specified
 
-### The problem it solves
+The screen size comes from the room, not from the budget. That means working
+out the actual viewing distance from the back row, the resolution that
+requires, and whether the content will hold up at that size.
 
-Screen size gets picked from a budget rather than from the room, and nobody
-finds out until the back row can't read a slide. `‹ASSUMED›`
+- **Colour space**, so the brand colours are the brand colours, and so the
+  screens, the cameras and the content agree with each other
+- **Resolution**, worked back from viewing distance rather than picked from a
+  spec sheet
+- **Viewing distance and sightlines**, which decide the screen before anything
+  else does
 
-### What you get
+Getting this wrong is the most common fault we're asked to fix on a show
+somebody else specified: a screen that's the right price and the wrong size,
+in a room where the back third can't read a slide.
 
-⛔ *Deliverables.*
+### The kit
 
-### How it runs
+- **LED**
+- **Analog Way switchers**, top of the range
+- **Fibre transmission**
 
-⛔ *Stages.*
+We don't usually lead with a kit list, but this is a technical reader and
+these are checkable. If you know what an Analog Way rack costs, you know what
+we're prepared to put on a show.
+
+### Redundancy as standard
+
+Not as an upgrade, not as a line item you can decline. Standard.
+
+⛔ *What that means in practice would land this section: backup switcher,
+duplicate playback machines, redundant fibre paths, spare LED tiles on site?
+One specific example beats the word "redundancy" ten times over.*
+
+This is the same argument the rest of the site makes about crew, applied to
+kit. Something will fail. What matters is whether there's a second one already
+racked up and running.
+
+### Can I take just this?
+
+Yes, and video is one of the two departments most often taken first.
 
 ### How pricing works
 
-*Same block as above.*
+*Same block as the other five pages.*
 
 ### Questions we get asked
 
-⛔ *From the questions bank.*
+⛔ *Three real ones. Likely: "how big does the screen need to be?", "can you
+work with our content?", "what happens if a projector or a panel fails
+mid-session?"*
 
 ---
 ---
