@@ -83,7 +83,7 @@ One stand for an exhibitor, or forty stands for the organiser.
 
 Short, high-stakes, and usually built to someone else's creative concept.
 
-- Build to your designer's drawings, or ours
+- Built to your designer's drawings, or ours
 - An early answer on what the room will and won't allow
 - Single-day builds and short lead times
 - Set, video, lighting and content delivered together
