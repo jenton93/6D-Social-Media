@@ -2,25 +2,22 @@
 page: What we do
 url: /what-we-do
 type: overview
-job: cold            # secondary: verify
+job: cold
 target_keyword: conference production company london
-voice_check: draft, read aloud before approving
+voice_check: draft 2, rewritten as what we offer, not what events are
 ---
 
-> **Nothing blank.** `‹ASSUMED›` = my best guess, correct it. ⛔ = a fact I
-> can't invent. Six sections on one page for launch; split into separate pages
-> later if search data justifies it.
+> **Draft 2.** The first version described what a conference or a product
+> launch is, to people who run them for a living. Rewritten so each section
+> says what we bring to that kind of show.
 >
-> ⛔ **Order and depth should follow revenue.** Right now conferences and
-> awards are written long and the rest short, on the assumption that reflects
-> the business. Tell me if it doesn't. Six equal sections would read as a
-> company claiming everything, which reads as a company specialising in
-> nothing.
+> `‹ASSUMED›` = correct it. ⛔ = a fact I can't invent.
+>
+> ⛔ **Order and depth should follow revenue.** Conferences and awards are
+> written longest on the assumption that reflects the business. Six equal
+> sections would read as a company claiming everything.
 
 # What we do
-
-Large-scale events, mostly for agencies and in-house AV teams, usually when a
-show has grown past what you'd normally handle on your own.
 
 Six kinds of event, six departments, and you can take one department or all of
 them.
@@ -29,82 +26,71 @@ them.
 
 ## Conferences
 
-The core of what we do.
+We run the technical side of large conferences, or whichever part of it you
+need covering.
 
-Multi-day, multi-room, a running order that changes at 4pm, and a get-in
-window that closes before the first delegate arrives. Plenary in the main
-auditorium, breakouts running simultaneously, presenters arriving with content
-that doesn't match the template.
+- **Production management across the whole show**, including the rooms we
+  aren't supplying. One schedule, one point of contact, one person who knows
+  where everything is
+- **Set, staging, video, lighting, sound and power**, together or separately
+- **Multiple rooms running at once**: plenary, breakouts, catering spaces,
+  registration
+- **Speaker and content handling**: we take what presenters send, get it into
+  the right format, and have it ready in the room `‹ASSUMED›`
+- **Rehearsals**, and someone senior in the room when the running order moves
+- **The get-in planned around the venue's window**, not around ours
 
-⛔ *Largest conference delivered, delegates, rooms, get-in hours, crew.*
-
-What usually matters most: the get-in schedule, the rehearsal time, and
-whether someone senior is in the room when the running order moves.
-`‹ASSUMED›`
-
-**Typically:** Set & Staging · Video · Lighting · Sound · Power · Content
-
----
+⛔ *Largest conference delivered: delegates, rooms, get-in hours, crew.*
 
 ## Awards
 
-A conference that has to look like television, on a tighter schedule and with
-a room full of people who've been drinking.
+Awards need to look like television and run to a curfew, so we build and crew
+them accordingly.
 
-Trophy moments, walk-ons, VT playback, a host who improvises, and a hard stop
-because the venue has a curfew. `‹ASSUMED›`
+- **Set and staging** built for the camera position as much as the room
+- **Show-calling and playback**: VTs, walk-ons, stings, trophy moments
+- **Lighting designed for camera**, not just for the audience `‹ASSUMED›`
+- **Content made in-house**, so the graphics and the screens are the same team
+- **A hard-stop schedule** that accounts for a room that's been drinking since
+  seven
 
-⛔ *A named or anonymised example.*
-
-**Typically:** Set & Staging · Lighting · Video · Sound · Content
-
----
+⛔ *An example, named or anonymised.*
 
 ## Exhibitions
 
-Stands, feature areas and show-floor builds, worked around a venue's own rules
-about when you can be in the hall and what you can hang from.
+- Stand builds and organiser feature areas
+- Power distribution across a hall
+- Video and lighting within a venue's rigging rules
+- Working inside the hall's build and break windows
 
-⛔ *What we actually do here, exhibitor stands, organiser features, or both?*
-
-**Typically:** Set & Staging · Lighting · Video · Power
-
----
+⛔ *Do we do exhibitor stands, organiser features, or both?*
 
 ## Product launches
 
-Short, high-stakes, and usually agency-led with a creative concept that was
-designed before anyone measured the room.
-
-⛔ *One line on what we bring to these.*
-
-**Typically:** Set & Staging · Video · Lighting · Content
-
----
+- Build to someone else's creative concept, and tell you early where the room
+  won't allow it
+- Short lead times and single-day builds
+- Content produced alongside the technical delivery
+- ⛔ *anything else specific here*
 
 ## Festivals
 
-⛔ *This is where Boomtown sits. What do we actually supply, and can we say so?
-See `00-brand-brief.md`, festival contracts often restrict supplier
-publicity.*
+- Power distribution and supply across a site
+- Staging, lighting and sound outdoors
+- Kit that's specified for weather and for a site with no walls
 
-Outdoor, weather-dependent, and a power distribution problem before it's
-anything else. `‹ASSUMED›`
-
-**Typically:** Power · Lighting · Sound · Set & Staging
-
----
+⛔ *This is where Boomtown sits. What do we actually supply, and do the
+contracts allow us to say so?*
 
 ## Install
 
-Permanent and semi-permanent installation.
+Permanent and semi-permanent systems: video, lighting, sound and power
+installed to stay.
 
-⛔ *This is a different business from live events, different buyer, different
-sales cycle, and potentially recurring revenue from service contracts. Worth
-telling me how much of it you do and whether you want more, because if it's
-a growth area it deserves its own page rather than a section here.*
-
-**Typically:** Video · Lighting · Sound · Power
+⛔ *A different business from live events, with a different buyer and possible
+service-contract revenue. Tell me how much you do and whether you want more,
+because if it's a growth area it needs its own page rather than a section
+here.*
 
 ---
 
@@ -114,3 +100,15 @@ Most large events are two or three of the above at once. Tell us about the
 room and the date and we'll tell you what it needs.
 
 **[Talk to us about a show]**
+
+---
+
+### Why this version is different
+
+The first draft explained what each event type involves. Our reader runs these
+for a living, so that reads as either padding or, worse, as being talked down
+to.
+
+Everything here now answers one question instead: **what do we actually do on
+a show like yours?** It's also more useful, because it's the list a producer
+scans to work out whether we cover the gap they've got.
