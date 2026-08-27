@@ -115,3 +115,18 @@ analytics/    metrics-log.csv · monthly-review.md
 - Mark assumptions `‹ASSUMED›` and hard gaps `⛔`. **Never hand back a blank
   template** — copy stalled for eight months that way. Write it through and
   let them correct
+
+### ⚠️ Context is not content
+
+Most of what the directors say is **background so you understand the
+business**, not material to publish. Client stories especially: knowing how a
+relationship developed is what lets you write everything else accurately — it
+doesn't mean the relationship gets written up.
+
+**Default to treating it as context.** Before drafting anything client-facing
+from something a director has told you, ask whether they want it published.
+The T2RL story was drafted as a case study when it was an explanation of how
+the business works, and it had to be pulled.
+
+Voice notes are the exception — those are given as raw material and are meant
+to become content.

@@ -8,15 +8,26 @@ voice_check: n/a
 # ⛔ DO NOT PUBLISH
 
 **Client instruction, 27 Aug 2026: "The T2RL story can't go out yet, if
-ever."**
+ever."** And, importantly: *"I was giving context of how the business works."*
+
+This was **background, not a case study.** It was told to explain how the
+handover offer plays out in practice, not offered as something to publish.
+Drafting it as website copy was a misread.
 
 Not the website, not LinkedIn, not a cut-down, not anonymised. Anonymising
 doesn't help — the venue and the timeline identify it to anyone in this
 market.
 
-Kept here because it's the clearest internal illustration of why the handover
-offer works, and because the position may change. **It does not change without
-Jenton or Christian saying so explicitly.**
+Kept here because of what it teaches internally, which is genuinely a lot:
+
+- The handover offer already works — it isn't a theory
+- A client who leaves and comes back buys **more** than they bought before
+- Venue in-house contracts can lock us out regardless of the relationship
+- "Relationship over single event" is demonstrated, not aspirational
+
+All of that shapes strategy. None of it needs publishing to be useful.
+
+**Position doesn't change without Jenton or Christian saying so explicitly.**
 
 Everything below is a draft that was written before that decision. It is
 reference material only.
