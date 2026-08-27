@@ -17,9 +17,11 @@ voice_check: pass — approved by client 27 Aug 2026
 > **APPROVED — ready to publish.** Cornerstone post, drafted from the
 > 27 Aug voice note. Raw transcript at `content/raw/`.
 >
-> Three optional checks before it goes live, none blocking: is the
-> countdown-timer CEO identifiable (change a detail if so), swap `⛔` author
-> for a name, and set the publish date.
+> Confirmed not identifiable — it's a pattern across many shows, not one
+> client, and the post now says so.
+>
+> Two things before it goes live: swap `⛔` author for a name, and set the
+> publish date.
 
 ---
 
@@ -109,12 +111,16 @@ change. We already know what you liked and what you didn't, so we're not
 asking. The questions are already answered.
 
 One speaker likes their notes on the right-hand side. Another wants them on
-the left. The CEO doesn't like a countdown timer — but he needs a countdown
+the left. A CEO doesn't want a countdown timer — but he needs a countdown
 timer, because without one he runs over, and he doesn't want to be visibly
 watched on time.
 
-So you find the middle ground. Somebody on that team knows to do it, because
-they were there last year.
+I've lost count of the times a CEO has told us they want something, or don't
+want something, and meant precisely the opposite. That's not a criticism.
+They're thinking about the speech, not the clock.
+
+So you find the middle ground. Somebody on that team already knows to do it,
+because they were there last year.
 
 You don't get that from a list.
 

@@ -16,6 +16,7 @@ more in here than one post can use.
 | Repeat events: what we change, what we keep | Case-study framing for a returning client |
 | "Someone you trust in every room" | Website copy, and a services-page line |
 | Above £5–15m you can't operate without process | Careful — reads as a dig. Positive version: what scale costs a client |
+| **"CEOs who say they want something and mean the opposite"** | **Own director post — and probably the most shareable idea in here.** True, funny, universally recognised by anyone who's run a show, and it makes a serious point about reading a room rather than taking a brief literally. Needs three or four real examples; the countdown timer is one |
 
 ---
 
