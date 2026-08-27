@@ -77,6 +77,12 @@ Banned: em dashes, "in today's…", "it's not just X, it's Y", delve, leverage,
 seamless, robust, elevate, unlock, "that's where we come in", "here's the
 thing", rule-of-three with three equal-length items, emoji bullets.
 
+**Register: quiet.** Ten years of being understated is how existing clients
+know us, and they are the ones who recommend us. A loud site would read as out
+of character to the people the business actually runs on. State facts, don't
+make claims, and let the reader draw the conclusion. The exception is the
+directors' own phrasing, which stays as they said it.
+
 **Every piece is read aloud before publishing** and logged `voice_check: pass`.
 
 ## The method that makes this work
