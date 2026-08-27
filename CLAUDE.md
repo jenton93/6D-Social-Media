@@ -59,7 +59,10 @@ mix, the handover offer, and why turning work down is fine.
    Explain *how* pricing works instead
 6. **Never name a client without written permission.** Trade work is
    white-label. Check Boomtown and BGT contracts before either is used
-7. **Never use stock photography.** Real shows only
+7. **The T2RL story is not publishable** — not the site, not LinkedIn, not
+   anonymised. See `content/raw/INTERNAL-t2rl-do-not-publish.md`. Only Jenton
+   or Christian can change that
+8. **Never use stock photography.** Real shows only
 
 ## Voice (`strategy/01-voice-and-tone.md` — read it in full before writing)
 

@@ -1,20 +1,27 @@
 ---
-page: T2RL case study
-url: /work/t2rl
-type: case-study
-job: verify
+status: INTERNAL — DO NOT PUBLISH
 client: T2RL
-permission: ⛔ needed in writing before publishing
-voice_check: draft — read aloud
+url: none — not a website page
+voice_check: n/a
 ---
 
-> **The flagship case study.** It proves the handover offer, the fit
-> principle, and pick-and-mix growth, in one client, with a result.
->
-> ⚠️ **One thing must not go in it** — see the note at the bottom.
->
-> ⛔ Dates read as 2022–2024 at the QEII, moved venue 2025, full event 2026.
-> Confirm before publishing.
+# ⛔ DO NOT PUBLISH
+
+**Client instruction, 27 Aug 2026: "The T2RL story can't go out yet, if
+ever."**
+
+Not the website, not LinkedIn, not a cut-down, not anonymised. Anonymising
+doesn't help — the venue and the timeline identify it to anyone in this
+market.
+
+Kept here because it's the clearest internal illustration of why the handover
+offer works, and because the position may change. **It does not change without
+Jenton or Christian saying so explicitly.**
+
+Everything below is a draft that was written before that decision. It is
+reference material only.
+
+---
 
 ---
 

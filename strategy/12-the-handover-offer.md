@@ -18,14 +18,14 @@ It also directly addresses the demand we already know exists: clients leave
 the building, don't get the same service, and come back asking. This meets
 them *before* the disappointment rather than after it.
 
-**And it's already been proven once.** T2RL — three years of set and staging
-at the QEII, moved venue, contract tied them to the in-house supplier. We
-reviewed the spec, quoted, didn't win it. This year we're delivering the whole
-event rather than one department (`content/website/work-t2rl.md`).
+**It has already worked once**, with a client who left, was helped anyway, and
+came back buying more than they'd bought before.
 
-That's not a hypothetical business case any more. It's a worked example, and
-it's the strongest argument for making this a standing offer rather than an
-occasional favour.
+⛔ **That example is not publishable** — see
+`content/raw/INTERNAL-t2rl-do-not-publish.md`. Internally it's the strongest
+argument for making this a standing offer rather than an occasional favour.
+Externally we have nothing to point at yet, which is a real constraint on how
+this gets marketed.
 
 Three things still need settling.
 
@@ -110,9 +110,9 @@ an uncapped offer becomes a job nobody scheduled.
 
 ---
 
-## The T2RL pattern, generalised
+## The pattern, generalised *(internal)*
 
-What actually happened is worth naming, because it's repeatable:
+Worth naming, because it's repeatable even though the example can't be told:
 
 1. We knew what the event needed, because we'd delivered it
 2. The client moved somewhere we weren't going to win
@@ -137,19 +137,20 @@ Two returns beyond the immediate one:
   them" is a story people tell. In a market this small, told stories are how
   every job has arrived for ten years
 
-## As content
+## As content — with the proof removed
 
-This is Job 1 and Job 3 at once, and it's genuinely publishable — nobody else
-offers it.
+The offer itself is still publishable. The story that proves it isn't, so
+anything written has to stand on the idea alone:
 
 - **A page or section:** *"Moving to a new venue?"* — the offer, plainly
-  stated
-- **A post:** the value of having a written record of your own event, and how
-  few clients do
-- **A director post:** why we help clients who aren't currently paying us.
-  Slight risk of sounding self-congratulatory — the version that works is
-  practical and unsentimental, about how this market actually operates rather
-  than about us being generous
+  stated. Works fine with no case study behind it
+- **A post:** how few clients have a written record of their own event, and
+  what that costs them when they move. Generic enough to carry no client
+  detail
+- **A director post:** why we help clients who aren't currently paying us
 
-⛔ *Decide the QEII Live conversation before any of this is published. It
-would be a poor way for them to find out.*
+⚠️ **The third one is the risk.** Without an example it's self-congratulation,
+and with the only real example off-limits there's nothing to anchor it. Either
+find a different one — a job pointed elsewhere, a quote we advised someone not
+to accept — or leave it unwritten. A claim about our own generosity with
+nothing behind it is worse than silence.

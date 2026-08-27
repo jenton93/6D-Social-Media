@@ -1145,12 +1145,12 @@ One place it belongs explicitly: the **About page**, in something close to
 these words. It's disarming, it's unusual for a supplier to say, and it makes
 everything else on the page read as more honest.
 
-**The example exists: T2RL.** Three years of set and staging at the QEII, the
-event moved to a venue contractually tied to its in-house supplier, we reviewed
-their spec and quoted anyway, lost the year — and now deliver the whole event.
-Drafted at `content/website/work-t2rl.md` with a director post.
+⛔ **A director post on this still needs an example**, and the obvious one is
+off-limits (`content/raw/INTERNAL-t2rl-do-not-publish.md`, not publishable).
 
-That turns the principle from a sentiment into a thing that happened.
+So: a different job we turned down, pointed elsewhere, or advised someone
+against — or the post doesn't get written. Without an example it's a nice
+sentiment, and nice sentiments are what everyone else posts.
 
 ---
 
