@@ -21,8 +21,7 @@ voice_check: draft, read aloud
 
 A CEO once told us he didn't want a countdown timer.
 
-He also runs over. Every time. And he doesn't want to be sat there being
-visibly watched on time, which is the actual objection, not the timer.
+He also runs over. Every time.
 
 So he needed a countdown timer. He just needed one that didn't feel like being
 told off.
