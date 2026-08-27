@@ -16,6 +16,10 @@ voice_check: draft 2, rewritten as what we offer, not what events are
 > ⛔ **Order and depth should follow revenue.** Conferences and awards are
 > written longest on the assumption that reflects the business. Six equal
 > sections would read as a company claiming everything.
+>
+> **No client names on this page.** It's about what we do in each space, not
+> who we've done it for. Credits live on the work page and the homepage strip,
+> which also keeps every permission question off this page entirely.
 
 # What we do
 
@@ -75,12 +79,21 @@ them accordingly.
 
 ## Festivals
 
-- Power distribution and supply across a site
-- Staging, lighting and sound outdoors
-- Kit that's specified for weather and for a site with no walls
+Two different jobs, and we do both.
 
-⛔ *This is where Boomtown sits. What do we actually supply, and do the
-contracts allow us to say so?*
+**Production crew and management into large public festivals.** We supply the
+people rather than the whole show: crew who've worked sites at that scale, and
+production management that slots into an existing structure without needing to
+run it.
+
+**Corporate events in a festival format, delivered end to end.** Recognition
+and reward events built as a festival rather than a dinner. Multiple stages or
+areas, an outdoor or semi-outdoor site, and all six departments if you want
+them.
+
+The second is closer to a conference than to a music festival, and it's worth
+saying so: the delegates are your people, the running order still matters, and
+somebody still has to make it work if it rains.
 
 ## Install
 
