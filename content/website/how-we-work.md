@@ -35,8 +35,13 @@ the photographs. `‹ASSUMED›`
 Yours and ours. The people who'll be in the room on the day, not just the
 people signing it off.
 
-This is where we find out about the presenter who won't use a lectern and the
-sponsor who's expecting a logo nobody mentioned. `‹ASSUMED›`
+This is where we find out about the presenter who won't use a lectern, the
+sponsor expecting a logo nobody mentioned, and the CEO who doesn't want a
+countdown timer but needs one — because without it he runs over, and he
+doesn't want to be visibly watched on time.
+
+On a repeat event most of that is already known, which is the main argument
+for keeping the same crew on a client's shows.
 
 ## 3. Site visit
 

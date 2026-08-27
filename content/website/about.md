@@ -64,10 +64,15 @@ whoever quoted it, in the room, start to finish.
 **Crew are hand picked for the event.** We don't put people we don't know into
 critical roles, and we don't book from a list of who happens to be free.
 
-What we're actually looking for is harder to write down than a kit
-qualification: someone client-facing, someone who solves problems, someone who
-knows the building, someone who did this client's show last year, and people
-who work well together. A booking form doesn't have fields for any of that.
+What we're looking for is harder to write down than a kit qualification. In
+every room there's someone you trust, someone who's good with the client, and
+someone who solves problems. They're rarely the same person, and a booking
+form has no field for any of it.
+
+The crew are an extension of whoever's been behind your event for the last
+three months — or five years. On a repeat show that's the whole point: the
+things that worked last year happen again, the things that didn't get changed,
+and nobody has to ask you the same questions twice.
 
 ⛔ *Per-show crew figure for a recent job — T2RL is 40. Never an annual total.*
 

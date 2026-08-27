@@ -138,14 +138,15 @@ the person who quoted it, in the room, for the whole thing.
 
 We don't put people we don't know into critical roles. That one doesn't bend.
 
-After that it's about what the team needs, not what's available. Is someone
-client-facing? Is there a problem-solver in there? Someone who knows this
-venue? Someone who did this client's event last year? Will these particular
-people work well together?
+After that it's about what the team needs rather than who's available.
 
-None of that is on a booking form. A form can tell you someone can operate a
+Every room has someone you trust in it. Someone who's good with a client.
+Someone who solves problems. Someone quiet who works through the list without
+being asked. Those are different people, and a team needs all of them.
+
+None of it is on a booking form. A form can tell you someone can operate a
 desk. It can't tell you whether they'll spot the problem before it becomes
-one, or whether they'll muck in when the schedule slips at 4pm.
+one, or how they'll be with your client at 4pm when the running order moves.
 
 That's the difference between forty people on site and a team of forty.
 
