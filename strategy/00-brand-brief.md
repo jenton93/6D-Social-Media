@@ -596,18 +596,91 @@ credentials come before the copy.** Not because content doesn't matter, but
 because a blog post cannot get a supplier through procurement and a public
 liability certificate can.
 
-### It also settles the "sounding small" question
+### The real objection is backup, not paperwork
 
-§4 covers not wanting to sound small. This is exactly where that bites — and
-it clarifies what the real risk was.
+I had this wrong earlier and it's worth correcting properly, because getting
+it wrong would have produced a website that clears procurement and still loses
+the job.
 
-Finance asking *"are these people a real company?"* is a legitimacy question
-wearing a size question's clothes. It isn't answered by implying a bigger
-team. It's answered by **documentation**: company number, VAT registration,
-insurance cover, accreditations, policies, named clients, a real address.
+Your correction:
 
-A credentials page is the honest, verifiable, permanent answer to the
-sounding-small problem, and it's better than any amount of careful wording.
+> *"It's more we look like a one man band (which we kinda are). End clients
+> don't know we are small — they know they got really good service. But they
+> look at the likes of Aztec, Encore etc and feel because they are big they
+> have backup with them."*
+
+So there are **two separate objections**, and they need different answers:
+
+| Objection | Asked by | Answered by |
+|---|---|---|
+| "Are these a real, insurable company we can set up as a supplier?" | Finance / procurement | Documentation. The credentials pack |
+| **"If this goes wrong, is there anyone behind them?"** | The event manager, and their own instinct | **Not documentation.** See below |
+
+The second one is the harder and more valuable of the two. A perfect
+credentials page does nothing for it. It's a question about **resilience** —
+depth, redundancy, what happens on the day when something fails — and size is
+being used as a proxy for it.
+
+### Why the proxy is wrong — and this is the argument
+
+Your counter, and it's the strongest piece of positioning in the whole brief:
+
+> *"In reality it's just a numbers game at that size. They allocate a PM who
+> may or may not be at their event, might not be the same next time. They're
+> allocated a tech by a crew booker who is just plugging a gap and may or may
+> not be any good. Kit is pushed based on what they have in stock. And it's
+> all about margin."*
+
+That reframes the entire comparison. The client believes they're buying
+**backup**. What they're actually buying is **allocation** — and allocation is
+not the same thing:
+
+| What size feels like it buys | What it actually delivers |
+|---|---|
+| A team behind your event | A PM assigned from a pool, who may not be on site |
+| Continuity | A different PM next time, and a different tech |
+| The best person for your show | Whoever the crew booker had free that week |
+| The right kit | What's on the shelf, specified from stock |
+| Security | A margin target |
+
+**Backup isn't headcount. Backup is whether the person who knows your show is
+the person standing in the room when it goes wrong.** By that definition we
+have more of it than they do, not less — and that's a claim we can make
+honestly and defend in detail.
+
+### What actually answers "is there anyone behind you"
+
+The argument above wins the debate, but we still have to show the depth is
+real. Three things do that, and none of them require disclosing a payroll:
+
+1. **The crew bench.** A regular, named, trusted freelance crew is how this
+   entire industry resources large shows — every agency producer knows that.
+   The difference is ours are chosen and repeat, theirs are allocated by a
+   booker filling a gap. **Name them, show them, say how long we've worked
+   together.** This is the single most convincing Job 3 content available and
+   it doesn't exist yet
+2. **Kit and redundancy.** What we own, what spares travel, what the plan B is
+   on critical kit. Concrete, checkable, reassuring
+3. **Continuity, evidenced.** Named clients over multiple years with the same
+   people running it. Ten years of rehiring *is* the resilience proof — nobody
+   rebooks a supplier who left them exposed
+
+### ⚠️ Two cautions on using this argument
+
+**1. Know who it's for.** This argument lands with **end clients** — who are
+currently ~10% of business. Agencies and in-house AV teams already live in
+this world; telling them how crew booking works is telling them their own job.
+For the 90%, the argument isn't "the big firms allocate badly", it's "we're
+the depth you don't have this month". Don't aim the wrong one at the wrong
+reader.
+
+**2. Attack the model, never the names.** Do not write posts naming Aztec or
+Encore. This is a small market, people move between these companies, and some
+of them cross-hire. Naming them reads as bitter, invites a reply, and costs
+relationships. Describe the *structure* — pooled PMs, gap-filling crew
+bookers, stock-led kit specs, margin targets — and every reader who's been
+through it will supply the names themselves. It's more persuasive that way
+and it costs nothing.
 
 ### It also unlocks the suppressed 10%
 

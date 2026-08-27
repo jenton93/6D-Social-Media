@@ -105,15 +105,24 @@ needs to exist.
 
 | Reader | Wants | Gets |
 |---|---|---|
-| **The professional** — producer, event manager | Can they handle a show like mine? | Case studies with real numbers, crew counts, get-in complexity, named team, kit |
+| **The professional** — producer, event manager | Can they handle a show like mine, **and is there anyone behind them if it goes wrong?** | Case studies with real numbers, crew counts, get-in complexity, **the named crew bench**, redundancy and spares, kit |
 | **The finance/procurement person** | Are they a real, insurable company? | Company number, VAT, PL and EL insurance, accreditations, RAMS, policies, T&Cs |
 
 The second reader never contacts us. They just say no, and we never find out.
 That's why `/credentials` is a main-navigation page and a single downloadable
 supplier pack — see `04-website-plan.md`.
 
+**⚠️ Documentation answers only half of it.** The finance question is *"are
+they a real company?"* and paperwork settles that. The event manager's question
+is *"if this goes wrong, is anyone behind them?"* — and no certificate answers
+that. They're using the size of Aztec or Encore as a proxy for resilience.
+Countering it needs the crew bench, the redundancy and the continuity record
+made visible (`00-brand-brief.md` §5a, `03-content-pillars.md` Pillar 4).
+
 **What it looks like**
 - The credentials page and supplier information pack
+- **The crew bench, named** — the depth behind the core team, and how long
+  we've worked together. Currently missing, and the highest-value gap
 - Anonymised case studies that prove scale: delegates, halls, get-in hours,
   crew on site, screen area
 - A named senior team with real track records

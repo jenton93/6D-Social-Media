@@ -81,17 +81,49 @@ kit are ours to talk about without asking anyone.
 
 What's wrong with how large events get resourced.
 
-There's a real position here and it's worth stating plainly:
+### The central argument: backup isn't headcount
 
-- Scale isn't kit. Everyone has the same catalogue. Scale is whether the
-  person running it has done one this size before
-- The consistency problem: big suppliers can absolutely do the show, but you
-  get whoever's free that week, and the standard moves with them
+Clients buy size because it feels like **backup**. What size actually delivers
+is **allocation** — and those are different things:
+
+- A PM assigned from a pool, who may not be on site, and won't be the same one
+  next time
+- A tech booked by a crew booker filling a gap, who may or may not be any good
+- Kit specified from what's on the shelf, not from what the room needs
+- A margin target underneath all of it
+
+**Backup is whether the person who knows your show is standing in the room
+when it goes wrong.** By that definition we have more of it, not less.
+
+This is the spine of the pillar. Everything else here is a variation on it:
+
+- Who is actually running your event — the person who sold it, or whoever was
+  free that week?
+- How your tech got booked, and why nobody asked whether they'd done a show
+  like yours
+- Why your kit list matches a warehouse stock sheet rather than your room
+- Scale isn't kit. Everyone has the same catalogue. Scale is whether the person
+  running it has done one this size before
 - Needing help on a big one isn't a failure of an in-house team — pretending
   otherwise is how shows get into trouble in week one instead of week four
-- Cheapest quote, most expensive show: what gets left off a quote to win it
+- Cheapest quote, most expensive show: what gets left off to win it
 - Why "full service, end to end" usually means "we'd rather you didn't take
   just the lighting"
+
+### ⚠️ Two rules for this pillar
+
+**Attack the model, never the names.** Never write a post naming Aztec, Encore
+or 4Wall. Small market, people move between these firms, and some of them
+cross-hire. Naming reads as bitter, invites a reply and costs relationships.
+Describe the *structure* — pooled PMs, gap-filling crew bookers, stock-led kit
+specs — and every reader who's lived it supplies the names themselves. More
+persuasive, and it costs nothing.
+
+**Know which reader it's for.** The allocation argument lands with **end
+clients** (~10% of business). Agencies and in-house AV teams already live in
+this world — explaining crew booking to them is explaining their own job. For
+the 90%, the version that works is *"we're the depth you don't have this
+month"*, not *"the big firms allocate badly"*.
 
 **This is the pillar that generates reach**, and it's native to the directors'
 personal profiles rather than the company page. It has to be arguable — if
@@ -117,21 +149,36 @@ enquiry value should be high. Don't judge it on impressions.
 
 ---
 
-## Pillar 4 — People and kit *(~10%)*
+## Pillar 4 — The crew and the kit *(~15%)*
 
-Who turns up, and what's in the warehouse.
+Who turns up, and what's behind them.
 
-Small pillar, disproportionate effect — because "the same people every time"
-is the core promise and this is where we prove it. If the crew are anonymous,
-the promise is just a claim.
+**Upgraded from 10%.** This stopped being a personality pillar the moment the
+real objection turned out to be *"is there anyone behind you?"*. This is the
+pillar that answers it, and it currently doesn't exist.
 
-- Crew profiles: who they are, what they've done, how long they've been here
-- The warehouse: prep, testing, what a kit check looks like
-- Load-out at 2am. Unglamorous, honest, and it's what people quietly respect
-- New kit in, with a reason it was bought rather than a spec sheet
+The argument in Pillar 3 wins the debate. This one proves the depth is real —
+without ever disclosing a payroll.
 
-Native home is Instagram and Facebook. Never staged — a mediocre photo of a
-real get-in beats a good photo of a stock handshake.
+- **The crew bench.** Named, regular, trusted freelancers, and how long we've
+  worked together. A deep repeat bench is how this entire industry resources
+  large shows; the difference is ours are chosen, theirs are allocated. This is
+  the single most convincing Job 3 content available to us
+- **Redundancy.** What spares travel, what the plan B is on critical kit, what
+  we carry that you'll never see. Concrete and checkable
+- **Continuity, evidenced.** The same people on the same client's shows across
+  years. Ten years of rehiring is the resilience proof — nobody rebooks a
+  supplier who left them exposed
+- The warehouse: prep, testing, what a kit check actually looks like
+- Load-out at 2am. Unglamorous, and it's what people quietly respect
+- New kit in, with the reason it was bought rather than a spec sheet
+
+Native home is Instagram and Facebook for the texture, but **the crew bench
+and redundancy material belongs on the website too** — it's Job 3, and a
+producer weighing us against a larger firm needs to find it.
+
+Never staged. A mediocre photo of a real get-in beats a good photo of a stock
+handshake.
 
 ---
 
@@ -145,7 +192,7 @@ At 1 blog + ~3 company-page social posts per week. Director posts
 | How big shows go together | 2 | 4 | 4 |
 | Proof | 1 | 3 | 3 |
 | Point of view | 1 | 4 | 5 |
-| People and kit | 0 | 1–2 | 0 |
+| The crew and the kit | 0–1 | 2 | 0 |
 
 ---
 
