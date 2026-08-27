@@ -131,14 +131,22 @@ the same crew next time.
      "is anyone behind you?" without describing how anyone else operates —
      which matters, because Aztec is a client. -->
 
-We work with the same crew we've used for years — people we've chosen, not
-people a booker found on the day. On a large show that's a team of ⛔ *number*
-on site, and you'll recognise most of them from the last one.
+One of us is on every show. Not a project manager assigned the week before —
+the person who quoted it, in the room, for the whole thing.
 
-> ⛔ **This is the most persuasive sentence on the page and I need two numbers
-> for it:** roughly how many regular freelance crew you call on, and the crew
-> size on a typical large show. It's the answer to "is anyone behind you?" —
-> which is the objection that actually loses jobs.
+Behind that is a crew we choose per show rather than fill from a rota, and
+who mostly come back to the same clients because they already know the room.
+On T2RL this month that's **40 people on site**. `‹ASSUMED — swap in whichever
+show you'd rather quote›`
+
+> **Note:** we deliberately don't quote a total crew number. A hundred names
+> across a year reads as a pool, which is precisely the thing we're arguing
+> against. Per-show numbers answer the real question — *can you handle
+> something the size of mine?* — and they're checkable.
+>
+> ⛔ *One number would sharpen this: of the freelancers you use, how many are
+> the regulars you call first? That's the honest bench and it's a far better
+> figure than 100.*
 
 ---
 

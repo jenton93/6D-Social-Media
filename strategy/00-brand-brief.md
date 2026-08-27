@@ -483,6 +483,52 @@ I had this wrong in an earlier draft and it's now removed everywhere.
 and in a market this small that story travels. The rule is *silence on
 headcount*, not fiction about it.
 
+### ⚠️ Never publish an annual crew count
+
+Your own observation, and it's right:
+
+> *"Regular crew is hard — we probably use 100 different names over the year.
+> Some shows there may be 1 or 2. T2RL in a couple of weeks is 40 crew. But
+> 100 crew looks like a numbers game."*
+
+It does. On paper, "a pool of 100 freelancers" is indistinguishable from
+exactly the model we're arguing against — and publishing it makes the other
+side's case for them.
+
+**The fix is to change the unit. Scale is per show, not per year.**
+
+| Don't say | Say |
+|---|---|
+| "We work with over 100 crew" | "**Crew of 40 on site**" |
+| "A large freelance network" | "22 on the floor, three days" |
+| Anything annual | Anything about *this* show |
+
+"Crew of 40" answers the only question a producer is actually asking — *can
+you handle something the size of mine?* — and it does it with a number that's
+checkable and impressive. The annual figure answers nothing good.
+
+### So what does continuity actually rest on?
+
+If the bench is 100 names, "the same people every time" needs to be precise
+about *which* people, or it isn't true and a producer will know it isn't.
+
+Three things are genuinely constant, and they're enough:
+
+1. **A director is on every show.** Jenton or Christian. That's the real
+   continuity guarantee — not the crew, the person running it. It's also the
+   thing the large operators categorically cannot offer, because their PM is
+   allocated
+2. **A core of regulars.** ⛔ *Of the 100 names, how many do most of the work —
+   the ones you call first, who've done twenty shows with you?* That smaller
+   number is the honest bench, and it's far more meaningful than 100
+3. **Continuity per client.** The same crew go back to the same client's
+   shows, because they already know the room and the running order. ⛔
+   *Confirm this is how it works in practice*
+
+**The claim to make is 2 and 3, not "the same 100 people".** Something like:
+*"The person who quoted your show runs it. The crew who did your last one do
+your next one."* Both true, neither requiring a bench count.
+
 ### How to sound the right size without saying anything untrue
 
 The resolution is straightforward, and it's how the industry already works:
@@ -497,6 +543,7 @@ honest vocabulary for scale here:
 
 | Say this | Not this |
 |---|---|
+| "A crew of 40 on site" | any annual or total crew figure |
 | "A crew of 28 across a four-day get-in" | anything about payroll |
 | "Grown 50% a year since 2020" | "we're a small team" |
 | "£1m of production delivered last year" | "just the two of us" |

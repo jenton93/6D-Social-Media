@@ -58,13 +58,16 @@ how long he's been doing it*
 portrait — it's more in keeping with everything else here, and it's more
 convincing.*
 
-Behind us is a crew we've worked with for years. Not people a booker found on
-the day — the same faces, chosen, who've done your kind of show before and
-will probably do your next one.
+One of us is on every show. Not a project manager allocated the week before —
+whoever quoted it, in the room, start to finish.
 
-⛔ *Two numbers needed: roughly how many regular freelance crew you call on,
-and the crew size on a typical large show. This is the paragraph that answers
-"is there anyone behind you?" — the objection that actually costs jobs.*
+Behind that is a crew chosen per show rather than filled from a rota, and who
+mostly go back to the same clients because they already know the building and
+the running order. On a large conference that's ⛔ *number* people on site.
+
+⛔ *One number would help: of the freelancers you use across a year, how many
+are the regulars you call first? Don't publish the annual total — a hundred
+names reads as a pool, which argues the opposite of what we want.*
 
 ---
 

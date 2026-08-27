@@ -28,13 +28,15 @@ Technical requirements, brand and sign-off checklist:
 - [ ] **Exact green hex** — the signage photographs as cyan under its LEDs,
       so I can't sample it. Also the logo as SVG with transparency
 
-### Two numbers — the most valuable gap on the list
-- [ ] Roughly how many regular freelance crew you call on
-- [ ] Crew size on a typical large show
+### Crew numbers — the most valuable gap on the list
+- [ ] **Per-show crew figures** for two or three recent jobs (T2RL is 40)
+- [ ] Of the ~100 freelancers used across a year, **how many are the regulars
+      you call first?**
 
-*This is the paragraph that answers "is there anyone behind you?" — the
-objection that actually costs jobs. It's currently the weakest part of the
-site and the cheapest to fix.*
+*Never publish the annual total — a hundred names reads as a pool, which is
+the model we're arguing against. Per-show numbers answer the real question.
+This is the paragraph that addresses "is there anyone behind you?", the
+objection that actually costs jobs.*
 
 ### Three shows
 - [ ] For each: event type, delegates, rooms, get-in hours, crew, **and the
