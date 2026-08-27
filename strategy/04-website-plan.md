@@ -51,13 +51,25 @@ thirty-page site that's half-written, and half-written is what always happens.
   slogan. If someone read only this line they should understand the business.
 - Proof immediately after — logos, a number, a named result. Before any
   description of our process.
-- Three services, one line each, linking out.
+- Three services, one line each, linking out. **Set & Staging and Video lead**
+  — they're the front door and where the business is strongest. Lighting,
+  Sound, Power and Content follow, and the page should make clear they can be
+  taken separately or together (pick and mix) rather than as a fixed bundle.
 - One case study, in full, on the homepage.
 - A short "how it works" — 3 steps, what actually happens.
 - Contact block. Repeated at the bottom.
 
 ### Service pages *(the most commercially important pages on the site)*
-One per service. Structure:
+
+Six pages, one per department. **Set & Staging and Video get built and written
+first** — they carry the SEO and win the first job. The other four still get
+proper pages, because they're the second sale and existing clients land on
+them.
+
+Every service page needs a line making the pick-and-mix explicit: this can be
+taken on its own, or with any of the other five, on one contract.
+
+Structure:
 1. What this is, in one sentence
 2. The problem it solves — described so precisely the reader thinks "that's us"
 3. What you get — deliverables, concrete
@@ -70,14 +82,23 @@ One per service. Structure:
 8. Contact
 
 ### About
-Not a history. Why the business exists, who runs it, what we believe about
-the work, and photos of actual people. This page is read almost entirely by
-people deciding whether to trust us with money.
+Not a history — but the origin belongs here. **6D started as a lighting
+company**, and that's the kind of specific, unfakeable detail that earns
+trust with a technical reader. Say it plainly.
+
+Then: who runs it, what we believe about how big shows should be resourced,
+and photos of actual people. This page is read almost entirely by producers
+deciding whether to trust us with their reputation, so the senior team being
+visible and named matters more here than anywhere else on the site.
 
 ### Work / case studies
-Format for each: Client and context → the problem → what we did → what
-happened, with numbers → a quote. 400–800 words. Three at launch is enough;
-zero is not.
+Format for each: context → the problem → what we did → what happened, with
+numbers → a quote. 400–800 words. Three at launch is enough; zero is not.
+
+**Most of these will be anonymised**, because trade work is white-label. Write
+them as *"a 1,600-delegate financial services conference, three halls, 11-hour
+get-in"*. For this audience the numbers and the constraints are the proof —
+the logo never was. Where a client has agreed to be named, name them.
 
 ### Contact
 Form with the fewest possible fields (name, email, one message box, and a

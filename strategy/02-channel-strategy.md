@@ -13,6 +13,22 @@
 > Everything above is organic-first. No paid until we have three months of
 > scored organic data telling us which pieces are worth putting money behind.
 
+**⚠️ This is a trade audience — 90% of business comes from in-house AV teams
+and agencies.** That makes LinkedIn, company page and directors together,
+effectively the only channel that can generate enquiries.
+
+Instagram and Facebook still earn their place, but their job is **credibility,
+reassurance and crew recruitment** — not leads. A producer who's about to
+trust us with a 2,000-delegate show will look us up, and what they find has to
+look like a working production company. Score both on Tier 2 and Tier 3 only
+(`06-analytics-framework.md`) and don't panic when they produce no enquiries.
+That isn't failure; it's the job they were given.
+
+The upside of a trade audience: the market is small and knowable. There are
+only so many event agencies and in-house AV teams in the UK. **A hundred
+followers who are the right hundred is a complete result** — judge reach by
+who, never by how many.
+
 ---
 
 ## Cadence

@@ -7,6 +7,11 @@ the monthly diagnosis can compare output share against enquiry share.
 with a show that's got bigger than what they can deliver on their own. They
 know the job. Write to a peer — no explaining what a truss is.
 
+**90% of business is trade** (in-house AV teams and agencies), so there is no
+beginner audience to serve. Nothing gets written for an end client who needs
+the basics explained. If a piece would make a working production manager roll
+their eyes, it doesn't go out.
+
 ---
 
 ## Pillar 1 — How big shows actually go together *(~40%)*
@@ -60,9 +65,15 @@ advantage: **every show gets photographed anyway.** The assets already exist.
   these outperforms five polished wins, and in a market that sells reliability
   it's the most credible thing we can publish
 
-⛔ Blocked on: which clients, venues and shows can be named publicly. Get the
-permissions list sorted early — it's the difference between "a conference for
-a financial services client" and something people actually remember.
+**⚠️ Most of this work can't be named.** Trade work is white-label — the
+agency's client may not know we were there. Default to **anonymised with the
+specifics kept**: *"1,600 delegates, three halls, 11-hour get-in"* proves more
+to this audience than a logo ever did, and needs nobody's permission.
+
+Get a named/not-named decision on the record per client, once. Where the
+answer is no, the show still becomes content — it just loses the name, not the
+numbers. And publish our own side freely: crew, warehouse, prep, load-outs and
+kit are ours to talk about without asking anyone.
 
 ---
 
@@ -85,6 +96,24 @@ There's a real position here and it's worth stating plainly:
 **This is the pillar that generates reach**, and it's native to the directors'
 personal profiles rather than the company page. It has to be arguable — if
 nobody in the industry could disagree with it, it isn't a point of view.
+
+---
+
+## The second sale — a job that cuts across the pillars
+
+Because of pick-and-mix, a defined slice of the calendar isn't aimed at
+strangers. It's aimed at **people who are already clients** and don't know we
+do the other four departments.
+
+They came for set & staging or video. They don't know we started as a lighting
+company. Roughly one piece a month should exist purely to close that gap —
+what a department does, what changes when it's on the same contract as the
+rest, and who runs it.
+
+It reads as Pillar 1 content, but it's written for a reader who has already
+bought once. Tag it `second_sale: true` in front matter so its performance can
+be tracked separately — the audience is small, so reach will look poor and
+enquiry value should be high. Don't judge it on impressions.
 
 ---
 
