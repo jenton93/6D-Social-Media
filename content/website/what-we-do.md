@@ -49,15 +49,28 @@ need covering.
 
 ## Awards
 
-Awards need to look like television and run to a curfew, so we build and crew
-them accordingly.
+Awards need to look like television, so we build and crew them accordingly.
 
 - **Set and staging** built for the camera position as much as the room
 - **Show-calling and playback**: VTs, walk-ons, stings, trophy moments
-- **Lighting designed for camera**, not just for the audience `‹ASSUMED›`
+- **Lighting designed for camera**, not just for the audience
 - **Content made in-house**, so the graphics and the screens are the same team
-- **A hard-stop schedule** that accounts for a room that's been drinking since
-  seven
+- **A load-out that starts while the party is still going**
+
+### That last one is most of the job
+
+The show ends and the room doesn't empty. Everyone moves into the foyer for
+the after party, and the load-out starts in the main room with a few hundred
+people still in the building.
+
+So the strike gets planned like part of the show rather than something that
+happens afterwards. Which routes the crew use, what can come down while
+there's still noise next door and what has to wait, where the trucks sit, and
+how the whole thing stays quiet and safe enough that nobody in the foyer
+notices it's happening.
+
+Get that wrong and you're either finishing at four in the morning or you're
+the reason the party moved on early.
 
 ⛔ *An example, named or anonymised.*
 
