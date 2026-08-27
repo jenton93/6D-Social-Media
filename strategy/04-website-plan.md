@@ -239,8 +239,8 @@ But be careful about taking the *look*. A site that reads as a third example
 of the same thing makes the choice between the three feel arbitrary, and White
 in particular has a decade of published proof to lose that comparison against.
 
-The good news is the brand already separates itself: **black ground, green
-accent, white space, Audiowide display type.** That's a more distinctive
+The good news is the brand already separates itself: **black ground, cyan
+accent (#008EAA), white space, Audiowide display type.** That's a more distinctive
 starting point than either reference site. Lean on it rather than moderating
 it toward the category norm.
 

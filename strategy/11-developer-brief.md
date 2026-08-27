@@ -60,18 +60,17 @@ departments, and the technical reader checking depth.
 
 **Trade hire** comes later — build the navigation with room for it now.
 
-**Brand:** green and black on white. **Audiowide** for display/logo, **Arimo**
-for body. Both Google Fonts.
-⛔ *Exact green hex needed — the unit signage photographs as cyan under its
-LEDs, so I can't sample it reliably.*
+**Brand:** cyan and black on white. **#008EAA**, sampled from the round logo.
+**Audiowide** for display/logo, **Arimo** for body. Both Google Fonts. Full
+palette, including the accessible variants, in `content/brand/README.md`.
 
 **Contact:** +44 20 4583 8080 · Info@6d-group.com
 
 **Note on the reference sites** (whitepd.com, redeventproduction.co.uk): take
 the structure, not the styling. Both are direct competitors, and a site that
 looks like a third version of the same thing makes the choice between them
-feel arbitrary. The black/green/Audiowide combination is already more
-distinctive than either — lean on it.
+feel arbitrary. The black/cyan/Audiowide combination is already more
+distinctive than either, lean on it.
 
 ---
 

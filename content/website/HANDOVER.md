@@ -23,8 +23,12 @@ Technical requirements, brand and sign-off checklist:
 ## Before it goes to Will
 
 ### Five-minute lookups
-- [ ] **Exact green hex**, the signage photographs as cyan under its LEDs,
-      so I can't sample it. Also the logo as SVG with transparency
+- [x] ~~Exact brand hex~~ **Resolved: #008EAA.** It's a cyan, not a green. The
+      signage wasn't lying. Sampled from the round logo, palette written up in
+      `content/brand/README.md`
+- [ ] **The logo as SVG.** `Logo Round.svg` and `Logo Sheet.ai` are in
+      SharePoint under Business Info. Both need to land in `content/brand/`,
+      because Will needs a vector, not a 256px PNG
 
 *(Company registration, VAT, insurance and policies: Will already has these.)*
 
