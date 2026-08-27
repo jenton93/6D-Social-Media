@@ -78,7 +78,7 @@ website copy for three pages and four queued posts. Raw transcripts go in
 strategy/     00 brand brief · 01 voice · 02 channels · 03 pillars
               04 website · 05 blog · 06 analytics · 07 roadmap
               08 profiles · 09 director LinkedIn · 10 three jobs
-              11 developer brief · questions-bank.md
+              11 developer brief · 12 handover offer · questions-bank.md
 content/      website/ (copy pack + HANDOVER) · blog/ · social/ · raw/
 calendar/     content-calendar.csv
 analytics/    metrics-log.csv · monthly-review.md
