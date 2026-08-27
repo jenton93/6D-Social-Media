@@ -45,22 +45,20 @@ Stock is what every competitor uses and it's instantly recognisable to anyone
 in this industry, which makes it worse than nothing: it says either that we
 have no work of our own to show, or that we think the reader won't notice.
 
-**So the design scales to the library.** Build it for the number of good
-photographs that actually exist, and grow it. §5 is the shot list.
+**Decided: six photographs, used large.** That's what exists, and it's a
+better site than twenty small ones would make. But it only works if all six are
+good, because at this count there is nowhere for a weak one to hide. Every image
+is above the fold of something.
 
-**Placeholders in a mockup are a different thing** and they're fine. The design
-direction page uses generated abstract blocks so the layout can be judged with
-something in the frame, each marked "Placeholder". They're abstract rather than
-stock on purpose: stock carries a licence, and it would make the mockup look
-better than the site can launch, which is a bad footing for a design decision.
-They live in `content/brand/placeholders/` and that folder gets deleted once the
-shot list is filled.
+Two rules hold it together:
 
-⛔ **The one thing I need before this can be finalised: how many usable
-photographs exist right now?** Not "we've got loads on a hard drive
-somewhere", an actual count of shots you'd be happy to put in front of a
-producer. If it's under fifteen, the first version of the site uses fewer,
-bigger images and we fill it out over the first six months.
+1. **No image appears small.** Full width, or full bleed. An image below about
+   half the viewport starts to look like decoration
+2. **No page carries two.** Break either rule and six starts to read as a
+   shortage rather than a choice
+
+⛔ **The six photographs themselves.** The SharePoint folder returns 403 to
+this session, so they need attaching to the chat directly. §5 says which six.
 
 ---
 
@@ -174,49 +172,67 @@ isn't in a hurry reads as a company that isn't in a hurry.
 
 ---
 
-## 5. The shot list
+## 5. The six, and where each one goes
 
-Roughly thirty photographs makes the site work properly. Here is what they're
-for, in the order they matter.
+With six, the decision that matters isn't which pictures to take. It's which
+ones to leave out.
 
-### Essential, the site is weak without these
-
-| # | Shot | Where it goes | Tier |
+| # | The shot | Where it lives | Clearance |
 |---|---|---|---|
-| 1 | **The hero.** A room from the back or high side, lit, before doors. Wide, dark, with depth. The single most important image on the site | Home hero, full bleed | 1 or 2 |
-| 2-4 | **Three case study leads.** The room from the audience position, or the build mid-way. One per show | Case studies | 2 or 3 |
-| 5-10 | **One per department.** Close and specific, not six wide shots of stages: a distro board with the RCBOs visible · a truss corner with motors · the CNC cutting or a large print coming off · a desk under worklight · an LED wall from an angle showing the seam · the speaker preview room set up | Department grid | 1 |
-| 11 | **The workshop, wide.** Proves there are premises and a build capability behind the hire | About | 1 |
-| 12 | **A build in progress with crew in it.** People working, scale visible. Backs and mid-distance, no posed faces | Home or About | 1 |
+| **01** | **The room, before doors.** From the back or the high side, lit, wide, with depth in it. The one that decides whether a producer keeps reading | Home hero, full bleed | Tier 1 or 2 |
+| **02** | **The build, with crew in it.** People working, mid-distance, nobody posed. Scale without a number, and nobody's permission needed | Home, full-width band | Tier 1 |
+| **03** | **Show one.** The room from the audience position, or the build mid-way | Home, and the Work page | Tier 2 or 3 |
+| **04** | **Show two.** A different room and a different scale. If one is a conference, make this an awards night | Work page | Tier 2 or 3 |
+| **05** | **Show three.** Different again. The three together are the range argument, so don't shoot three versions of the same evening | Work page | Tier 2 or 3 |
+| **06** | **The workshop, wide.** Premises, tooling, stock. The only photograph on the site that isn't of an event | About, and the top of Set & Staging | Tier 1 |
 
-### Strongly wanted
+### Why the departments get none
 
-| # | Shot | Where |
-|---|---|---|
-| 13-18 | **A second per department**, so the service pages aren't sharing with the grid | Service pages |
-| 19-22 | **Get-in and load-out.** Trucks, empty room, cases. Nobody photographs this and it's the most honest thing we do | Blog, social, How we work |
-| 23-25 | **Detail shots.** Stock panel edges, a rack, a cable run dressed properly. Small, quiet, and they say "these people care" faster than a sentence can | Anywhere needing texture |
-| 26-30 | **The same room, three times.** Empty, mid-build, finished. Used as a sequence this is the strongest single thing we could publish, and it's free: it's three photos from one fixed position on one job | Home or a case study |
+Six small photographs of six dark rooms all look like the same show. They would
+consume the entire library to say less than the words already say, and they
+would put every image below the size where it does any work.
 
-**That last one is worth doing deliberately on the next show.** Same spot,
-same phone, three times across the day. Nobody in the industry publishes it
-and it explains the entire business without a word of copy.
+The grid is stronger typographic anyway. A producer reading it is scanning for
+whether we cover their gap, and a list answers that faster than a picture does.
 
-### How to actually get these
+### Why the workshop earns a slot ahead of a fourth show
+
+It's doing a different job from the other five. The others prove we deliver
+shows. The workshop proves there's a business behind them: premises, tooling,
+stock, people who were there on a Tuesday. For the verify job, that's worth
+more than another room full of chairs.
+
+Don't tidy it. A tidied workshop looks like a showroom; a working one looks
+like a company.
+
+### Reuse is fine
+
+Shot 03 appears on the home page and the Work page. Shot 06 on About and on Set
+& Staging. Nobody reads two pages of a supplier site closely enough in one
+sitting to notice, and it's much better than padding with a weaker seventh
+image.
+
+### How to get them
 
 Most of this is a phone in the right hand at the right moment, not a
 photographer. Modern phones are fine in dark rooms, and a slightly grainy real
 photo beats a polished stock one every time.
 
-- **On the next three shows**, one person takes ten minutes at three points:
-  empty room, mid-build, and after the room is lit before doors
-- **One hour in the workshop** covers shots 5-10 and 11 in a single session
-- **Shoot wider than you think**, and shoot the same thing with and without
-  anything branded in frame, so a Tier 3 shot always has a Tier 1 twin
+- **Shots 01, 02 and 03 come off one show.** Three moments, ten minutes each:
+  mid-build with crew in frame, then after the room is lit before doors from
+  the back or a high side, then from the audience position once it's running
+- **Shoot each one twice**, with and without anything branded in frame. The
+  clean version is Tier 1 and can go up tomorrow
+- **Shot 06 is one hour in the workshop**, any day
+- **Shots 04 and 05 come from the archive**, deliberately different from each
+  other and from 03. If nothing there is usable, plan them into the next two
+  jobs rather than compromising
 
-⛔ **A proper photographer for one day on one large show** is the single
-highest-value spend on this whole project, and it would produce most of the
-essential list at a quality nothing else gets close to. Worth pricing.
+**One extra worth doing, and it's free.** The same room from one fixed spot,
+three times in a day: empty, mid-build, finished. Thirty seconds each, from a
+position you're standing in anyway. Nobody in this industry publishes it and it
+explains the whole business without a word of copy. If it comes off it replaces
+shots 01 and 02 and becomes the best thing on the site.
 
 ---
 
@@ -227,23 +243,32 @@ Being honest about this, because it's the way this project fails.
 The copy has been sitting waiting since January. If the design now waits on a
 photo library, the site doesn't launch this year either.
 
-**So the build is designed to launch at three photographs and improve.** The
-layout uses fewer, larger images at low count and more, smaller ones as the
-library grows, with no redesign in between. Will should build the image slots
-so that adding a photograph later is a WordPress upload, not a layout change.
+**So Will should build the image slots so that swapping or adding a photograph
+later is a WordPress upload, not a layout change**, and the site launches on
+whatever is ready on the day.
 
-Launching with three real photographs and adding to it is better than waiting
-for thirty. It is very much better than launching with stock.
+If only four exist when it's time to go, drop shots 04 and 05 and run one case
+study instead of three. Do not pad the gap with a weaker image, and do not pad
+it with stock.
+
+**Placeholders in a mockup are a different thing** and they're fine. The design
+direction page uses generated abstract blocks so the layout can be judged with
+something in the frame, each marked "Placeholder". They're abstract rather than
+stock on purpose: stock carries a licence, and it would make the mockup look
+better than the site can launch. They live in `content/brand/placeholders/` and
+that folder gets deleted once the real six are in.
 
 ---
 
 ## 7. What I need to finish this
 
-- ⛔ **A count of usable photographs that exist today**, and ideally a look at
-  them. It determines the layout
+- ⛔ **The six photographs.** Attached to the chat rather than SharePoint,
+  which this session can't reach
 - ⛔ **The logo as SVG** (`content/brand/README.md`)
-- ⛔ **A decision on the photographer day**, because if it's a yes the design
-  should be built around what that day will produce
+- ⛔ **A decision on a photographer for one day on one large show.** Six
+  photographs is a low enough bar that a phone will do it, so this is now
+  optional rather than load-bearing. Still the highest-quality option if the
+  budget is there
 - ⛔ **Permission for two or three Tier 3 shots**, same conversation as the
   client naming permissions that are already outstanding
 
