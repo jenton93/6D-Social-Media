@@ -42,10 +42,17 @@ reads as a pool, which is the model we're arguing against.*
 
 ### Three shows: a photograph and six numbers each
 
-The photograph matters most. It proves the show happened at that scale faster
-than a paragraph can, and it's the first thing a producer looks at.
+**The photographs arrived on 27 August.** Fifteen of them, indexed in
+`content/photos/README.md`, with six chosen and nine held in reserve. Two
+things changed as a result:
 
-Then, rough is fine:
+- **The numbers are now the blocker, not the pictures.** Six per show, and
+  rough is fine
+- **Every photograph needs client permission before it goes up.** All fifteen
+  identify a client, two carry another photographer's credit, and one shows a
+  recognisable public figure. Six emails, one per client, is the whole job
+
+What's still needed per show, and rough is fine:
 
 1. Event type and roughly who for
 2. People in the room
@@ -57,9 +64,11 @@ Then, rough is fine:
 **No story about how difficult it was.** It wasn't, and framing routine work
 as a struggle undersells it.
 
-**Pick:** one large conference, one that shows a different kind of room, and
-the content-only client. T2RL makes a fourth, and it hasn't happened yet, so
-the photography can be planned rather than reconstructed.
+**The pick is already made by the photographs:** an awards night, a cabaret-set
+conference, and a foyer build. Between them that's three genuinely different
+rooms rather than three versions of the same evening. T2RL makes a fourth and it
+hasn't happened yet, so that one can be photographed to a plan rather than
+reconstructed, including the clean unbranded twin of every frame.
 
 ### Permissions, send these emails now, not after the build
 - [ ] QEII Live, Dancing Squirrel, Hemming Group, T2RL, written OK to name

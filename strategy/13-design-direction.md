@@ -45,6 +45,11 @@ Stock is what every competitor uses and it's instantly recognisable to anyone
 in this industry, which makes it worse than nothing: it says either that we
 have no work of our own to show, or that we think the reader won't notice.
 
+**Fifteen photographs arrived on 27 August.** They're better than this plan
+assumed, and they moved the blocker: the constraint is no longer whether
+photographs exist, it's that every one of them needs permission before it can be
+published. Full inventory and permission tracking in `content/photos/README.md`.
+
 **Decided: six photographs, used large.** That's what exists, and it's a
 better site than twenty small ones would make. But it only works if all six are
 good, because at this count there is nowhere for a weak one to hide. Every image
@@ -66,46 +71,63 @@ this session, so they need attaching to the chat directly. §5 says which six.
 
 The naming rule (`CLAUDE.md`, rule 6) is usually read as a rule about text. It
 isn't. **A wide shot of a branded set identifies the client as clearly as
-writing their name.** So every photograph sorts into one of three tiers before
-it goes anywhere near the site.
+writing their name.**
 
-### Tier 1 · Unattributable. Use freely, no permission needed
+### The three tiers
 
-Nothing in frame identifies whose show it is.
+**Tier 1, unattributable.** Nothing in frame says whose show it is. Crew on a
+build, truss and motors, distro and cable runs, the workshop, a dark room before
+doors with the screens blank, detail shots. No permission needed.
 
-- Crew working a build. Truss going up, deck going down, a person on a ladder
-- Rigging and structure. Truss corners, motors, bridles, points
-- The back of house. Distro, cable runs, a rack, a comms position
-- The workshop. CNC cutting, panels stacked, a print coming off
-- A dark room from the back before doors, screens blank or showing colour bars
-- Detail. A desk under worklight, a fixture, a connector panel
+**Tier 2, identifiable but unbranded.** A stage with screens lit but showing no
+readable content, a room of people from behind, recognisable venue
+architecture. One line to the client before publishing.
 
-**This tier is the workhorse, and it happens to be the most on-brand material
-we have.** Black rooms, cool light, people working. It's what the business
-actually looks like, it needs no clearance, and it's the stuff nobody else
-bothers to shoot because it isn't glamorous. That's exactly why it reads as
-real.
+**Tier 3, attributable.** Logos, branded content on screen, a set carrying an
+identity. Written permission, same as naming.
 
-### Tier 2 · Identifiable but generic. Worth a quick check
+### What the actual library turned out to be
 
-A full stage, screens lit but showing no branding or readable content. A room
-full of people from behind. Recognisable venue architecture.
+**All fifteen photographs are Tier 3.** There is not one Tier 1 frame in the
+set. That's the finding that matters, and it isn't a criticism of the
+photographs, which are good. It's that the plan assumed a stock of
+unattributable material to launch on, and there isn't any.
 
-Usually fine. Send it to the client with a one-line "happy for us to use this?"
-before publishing. Most say yes and it takes a minute.
+Two further issues on top:
 
-### Tier 3 · Attributable. Written permission, same as naming
+- **Two frames carry another photographer's credit.** Being the production
+  company on the job does not give us the right to publish their photograph.
+  Separate permission, separate person, usually granted for a credit line. Don't
+  crop the credit out
+- **One frame shows a recognisable public figure** whose presence at that event
+  is itself newsworthy. Different question again, and we don't need the image:
+  it says nothing about our work that the other fourteen don't. Leaving it out
+  makes the question disappear
 
-Logos, branded content on screen, a set carrying an identity, anything where a
-reader could say whose show it was.
+### What to do about it
 
-Same process as naming a client, and worth doing for two or three, because
-Tier 3 shots are the ones that prove scale most convincingly.
+**Clear six, not fifteen.** One email per client, naming the event and attaching
+the frame, asking for "the website and social media" rather than "marketing
+use". The narrower ask gets the faster yes. Roughly half an hour of someone's
+afternoon, and if one comes back no there are nine reserves and the layout
+doesn't change.
 
-**Practical note for whoever is shooting: a lot of Tier 3 becomes Tier 1 by
-moving three feet or shooting a moment earlier.** The same stage, framed
-before content goes up, or shot from the side to lose the screen, is clean.
-Get in the habit of taking both.
+**Don't anonymise instead of asking.** Blurring a logo on a set a producer would
+recognise anyway looks worse than asking. This industry is small, people know
+whose show that was, and a blurred client reads as a supplier who didn't ask.
+The permission is cheaper and it strengthens the relationship rather than
+risking it.
+
+### The habit that makes this a one-off problem
+
+**Every one of the fifteen was shot after the branding went up.** The same
+rooms, photographed an hour earlier or from three feet to the side, would have
+been publishable the day they were taken.
+
+From now on, shoot everything twice: once with the branding in frame and once
+without. The clean twin costs nothing, and it's the difference between a photo
+library you can use and one you have to negotiate for. That habit is worth more
+than any single photograph on the list.
 
 ---
 
@@ -147,12 +169,18 @@ rather than the space getting forced onto the image.
 
 `#008EAA` is used for eyebrows, rules, one word in a headline, and links.
 Never as a background field, never as a tint over a photo. It appears rarely
-enough that it means something when it does. Everything else is black, white
-and the photographs.
+enough that it means something when it does.
 
-The photography helps here: a lot of what we shoot already has cool blue-white
-light in it, so the accent belongs to the pictures rather than being applied
-on top of them.
+**The real library made this rule load-bearing rather than tasteful.** The
+photographs run red, magenta, purple, teal and blue, and no two share a palette.
+That's not a flaw, it's what the work looks like: every client brings their own
+brand colour and we light the room to it.
+
+Black is the only ground that lets those images sit on one page without
+fighting. On white, or on any tinted section, the set would read as a jumble.
+And any cyan placed near a photograph competes with whatever that show's colour
+happened to be, so the accent stays on the type and the rules, well away from
+the pictures.
 
 ### Type
 
@@ -174,103 +202,103 @@ isn't in a hurry reads as a company that isn't in a hurry.
 
 ## 5. The six, and where each one goes
 
-With six, the decision that matters isn't which pictures to take. It's which
-ones to leave out.
+Picked for **range rather than quality**. Six near-identical stages would make a
+smaller-looking company than six different rooms.
 
-| # | The shot | Where it lives | Clearance |
+| # | The photograph | Why this one | Where it lives |
 |---|---|---|---|
-| **01** | **The room, before doors.** From the back or the high side, lit, wide, with depth in it. The one that decides whether a producer keeps reading | Home hero, full bleed | Tier 1 or 2 |
-| **02** | **The build, with crew in it.** People working, mid-distance, nobody posed. Scale without a number, and nobody's permission needed | Home, full-width band | Tier 1 |
-| **03** | **Show one.** The room from the audience position, or the build mid-way | Home, and the Work page | Tier 2 or 3 |
-| **04** | **Show two.** A different room and a different scale. If one is a conference, make this an awards night | Work page | Tier 2 or 3 |
-| **05** | **Show three.** Different again. The three together are the range argument, so don't shoot three versions of the same evening | Work page | Tier 2 or 3 |
-| **06** | **The workshop, wide.** Premises, tooling, stock. The only photograph on the site that isn't of an event | About, and the top of Set & Staging | Tier 1 |
+| **01** | Full room from the back, several hundred people, motor trade conference | The only audience shot in the set. People are the fastest proof the company is real, and the near-black foreground is exactly where the headline goes | Home hero |
+| **02** | Empty keynote stage, wide LED and star cloth, tech conference | The best photograph here and the only properly shot empty room. Shows the build rather than the event, which is what a producer is buying | Home, full-width band |
+| **03** | Awards night, wide LED, trophies in the foreground | Covers awards and dinners in one image, and the trophies explain it without a caption | Home, and Work |
+| **04** | Cabaret room, wide LED, star cloth, finance conference | The most on-palette image we have, and the only room set at tables. Illustrates the round-tables point on What we do | Work |
+| **05** | Foyer, printed wall, people arriving | The only shot that isn't a stage. Foyer, registration and breakout build is real work and nothing else shows it | Work |
+| **06** | Large-format 3D letters outside a Westminster venue, daylight | The closest thing to workshop proof. Fabrication rather than hire, and the only daylight frame, which stops the site looking like it only works after dark | About, and Set & Staging |
+
+Nine reserves are held back and indexed in `content/photos/README.md`. They
+cover us if a permission comes back no, and they're the stock for service pages,
+blog and social as the site grows.
 
 ### Why the departments get none
 
 Six small photographs of six dark rooms all look like the same show. They would
-consume the entire library to say less than the words already say, and they
-would put every image below the size where it does any work.
+consume the entire library to say less than the words already say, and would put
+every image below the size where it does any work.
 
 The grid is stronger typographic anyway. A producer reading it is scanning for
 whether we cover their gap, and a list answers that faster than a picture does.
 
-### Why the workshop earns a slot ahead of a fourth show
-
-It's doing a different job from the other five. The others prove we deliver
-shows. The workshop proves there's a business behind them: premises, tooling,
-stock, people who were there on a Tuesday. For the verify job, that's worth
-more than another room full of chairs.
-
-Don't tidy it. A tidied workshop looks like a showroom; a working one looks
-like a company.
-
 ### Reuse is fine
 
-Shot 03 appears on the home page and the Work page. Shot 06 on About and on Set
-& Staging. Nobody reads two pages of a supplier site closely enough in one
-sitting to notice, and it's much better than padding with a weaker seventh
-image.
-
-### How to get them
-
-Most of this is a phone in the right hand at the right moment, not a
-photographer. Modern phones are fine in dark rooms, and a slightly grainy real
-photo beats a polished stock one every time.
-
-- **Shots 01, 02 and 03 come off one show.** Three moments, ten minutes each:
-  mid-build with crew in frame, then after the room is lit before doors from
-  the back or a high side, then from the audience position once it's running
-- **Shoot each one twice**, with and without anything branded in frame. The
-  clean version is Tier 1 and can go up tomorrow
-- **Shot 06 is one hour in the workshop**, any day
-- **Shots 04 and 05 come from the archive**, deliberately different from each
-  other and from 03. If nothing there is usable, plan them into the next two
-  jobs rather than compromising
-
-**One extra worth doing, and it's free.** The same room from one fixed spot,
-three times in a day: empty, mid-build, finished. Thirty seconds each, from a
-position you're standing in anyway. Nobody in this industry publishes it and it
-explains the whole business without a word of copy. If it comes off it replaces
-shots 01 and 02 and becomes the best thing on the site.
+03 appears on the home page and on Work. 06 on About and on Set & Staging.
+Nobody reads two pages of a supplier site closely enough in one sitting to
+notice, and it beats padding with a weaker seventh image.
 
 ---
 
-## 6. What happens if the photos don't arrive
+## 5a. What the library is missing
 
-Being honest about this, because it's the way this project fails.
+Every one of the fifteen is the same moment in the job: the room, finished,
+before or during the event. There is **no workshop, no build, no crew, no
+get-in, no cable, no distro, no truss going up, nobody on a ladder.**
 
-The copy has been sitting waiting since January. If the design now waits on a
-photo library, the site doesn't launch this year either.
+That matters because it's precisely what the copy claims hardest. The home page
+argues that what you're buying is the people and the way they're picked. The Set
+& Staging page talks about an in-house workshop, CNC and stock panels that get
+reused. Neither has a picture behind it, so the site's strongest argument is the
+one with no evidence attached.
 
-**So Will should build the image slots so that swapping or adding a photograph
-later is a WordPress upload, not a layout change**, and the site launches on
-whatever is ready on the day.
+**Two hours closes it, and needs nobody's permission:**
 
-If only four exist when it's time to go, drop shots 04 and 05 and run one case
-study instead of three. Do not pad the gap with a weaker image, and do not pad
-it with stock.
+1. **One hour in the workshop.** Wide with the lights on, benches as they are, a
+   print coming off, panels stacked, the CNC mid-cut. Don't tidy it: a tidied
+   workshop looks like a showroom, a working one looks like a company
+2. **Ten minutes mid-build on the next show.** Crew working, mid-distance, backs
+   to camera, nobody posed. Truss going up, deck going down
 
-**Placeholders in a mockup are a different thing** and they're fine. The design
-direction page uses generated abstract blocks so the layout can be judged with
-something in the frame, each marked "Placeholder". They're abstract rather than
-stock on purpose: stock carries a licence, and it would make the mockup look
-better than the site can launch. They live in `content/brand/placeholders/` and
-that folder gets deleted once the real six are in.
+Both are Tier 1 and can go up the day they're taken.
+
+**And the free one, still the best idea in this document.** The same room from
+one fixed spot, three times across a day: empty, mid-build, finished. Thirty
+seconds each, from a position someone is standing in anyway. Nobody in this
+industry publishes it and it would explain the whole business without a word of
+copy.
+
+---
+
+## 6. The blocker moved, and it moved somewhere better
+
+Until the photographs arrived, the risk was that none existed. They do. The risk
+now is six emails that nobody sends, which is the same shape as the problem that
+held the copy up for eight months.
+
+It's smaller than it looks. **Six emails, one per client, each two lines with
+the frame attached.** Half an hour of an afternoon, and most will answer the same
+day. If one says no, there are nine reserves and the layout doesn't move.
+
+**Will should build the image slots so swapping or adding a photograph is a
+WordPress upload, not a layout change**, so the site can launch on four while the
+last two come back.
+
+Do not pad a gap with a weaker image, and do not pad it with stock.
+
+**Placeholders in a mockup are a different thing** and they were fine. The
+earlier version of the design page used generated abstract blocks so the layout
+could be judged with something in the frame. Those are now deleted, replaced by
+the real work.
 
 ---
 
 ## 7. What I need to finish this
 
-- ⛔ **The six photographs.** Attached to the chat rather than SharePoint,
-  which this session can't reach
+- ⛔ **Six permission emails**, one per client, plus one to the photographer
+  whose credit is on two frames. Nothing else blocks the build
 - ⛔ **The logo as SVG** (`content/brand/README.md`)
-- ⛔ **A decision on a photographer for one day on one large show.** Six
-  photographs is a low enough bar that a phone will do it, so this is now
-  optional rather than load-bearing. Still the highest-quality option if the
-  budget is there
-- ⛔ **Permission for two or three Tier 3 shots**, same conversation as the
-  client naming permissions that are already outstanding
+- ⛔ **Two hours with a camera:** an hour in the workshop, ten minutes
+  mid-build on the next show. Closes the only real hole in the set and needs
+  nobody's permission
+- ⛔ **Six numbers per show** for the three case studies: people in the room,
+  rooms or spaces, get-in hours, crew on site, days on site, and roughly who it
+  was for. The pictures are here, the numbers beside them aren't
 
 ---
 
