@@ -85,13 +85,51 @@ chance to sell one more department next time.** That gives the content a job
 beyond lead generation — showing existing clients the departments they aren't
 buying yet. Expect that to become a content pillar of its own.
 
-⛔ Still needed on this section:
-- Which department gets bought *first* most often? That's the front door, and
-  it's where the website and the top-of-funnel content should point
-- Which department is most under-bought relative to capacity? That's the one
-  the content should work hardest on
-- Typical project value, and the split between crewed and dry hire revenue
-- How far ahead do clients book? (Sets how far ahead content has to run)
+### The funnel — CONFIRMED
+
+**Front door: Set & Staging and Video.** That's where the business is
+strongest today, and part of it is kit let (dry hire) rather than fully
+crewed.
+
+**Heritage: 6D started as a lighting company.**
+
+That combination gives the content a clear shape.
+
+| | Department | Role in the funnel | What the content does |
+|---|---|---|---|
+| **Front door** | Set & Staging, Video | Wins the first job | Leads the website, leads top-of-funnel content, carries the SEO |
+| **The second sale** | Lighting, Sound, Power, Content | Added on later shows | Aimed at people who are already clients |
+| **The credential** | Lighting | Where we came from | Authority — see below |
+
+**The lighting heritage is an asset, and it's being under-used.**
+
+Starting as a lighting company is exactly the kind of specific, unfakeable
+detail the voice guide keeps asking for. It earns the right to have opinions
+about lighting that a staging company doesn't get to have. It's also a good
+origin story, and origin stories are one of the few "about us" formats that
+people actually read.
+
+Used properly it does two jobs at once: it makes lighting content credible,
+and it quietly supports the whole positioning — a company that came up through
+a technical discipline, rather than one assembled out of a kit catalogue.
+
+**The second-sale job is the most valuable content nobody writes.**
+
+Because of pick-and-mix, a client who takes staging and video this time can
+take four more departments next time. That second sale is far cheaper than the
+first — the relationship, the trust and the show knowledge already exist.
+
+So a defined slice of the calendar isn't aimed at strangers at all. It's aimed
+at people who are already clients and don't yet know what else we do. That
+content looks different: less persuasion, more "here's how this bit works and
+here's what happens when it's on the same contract as the rest".
+
+⛔ Still needed:
+- Of Lighting / Sound / Power / Content, which is most under-bought relative
+  to what we can actually deliver? That's where the second-sale content aims
+  first
+- Split between kit let and crewed revenue, roughly
+- Typical project value, and how far ahead shows get booked
 
 ---
 
@@ -176,25 +214,72 @@ post it stops being a position and becomes a slogan.
 
 ---
 
-### Buyer priority
+### Buyer priority — CONFIRMED
+
+**90% of current business is in-house AV companies or agencies.**
 
 | | Buyer | Share | Content weight |
 |---|---|---|---|
-| 1 | **Agencies** | Primary | Highest. Peer-to-peer, proof of reliability |
-| 2 | **Venues & in-house AV teams** | Primary | High. The overflow partner angle |
-| 3 | **Other production companies** | Cross-hire | Medium. Trade-to-trade, plain |
-| 4 | **End clients direct** | Small | Low-medium. Consistency argument |
+| 1 | **In-house AV teams & agencies** | ~90% | Almost everything |
+| 2 | **Venues, promoters, cross-hire** | part of the 90% | Same conversation |
+| 3 | **End clients direct** | ~10% | Low. Don't let it steer the plan |
 
-Note that 1 and 2 are the same conversation from two directions: a competent
-professional with a show that's got too big. That's convenient — it means most
-content serves both without being written twice.
+This is a **trade business**, and that's more clarifying than it first looks.
+
+- The reader is always a professional. There is no beginner audience to serve
+  and no need to explain the basics to anyone
+- **LinkedIn is not the primary channel, it is very nearly the only one that
+  can generate work.** Instagram and Facebook stay — but their job is
+  credibility, recruitment and reassurance, not enquiries. Score them
+  accordingly and don't be alarmed when they don't produce leads
+- The buying moment is specific and repeated: a competent team looking at a
+  show that's outgrown them. Everything can point at that one moment
+- The addressable market is small and knowable. There are only so many event
+  agencies and in-house AV teams in the UK. That means reputation compounds
+  fast in both directions, and it means **a hundred followers who are the
+  right hundred is a complete result**
+
+---
+
+### ⚠️ The consequence nobody enjoys: we can't name most of our work
+
+If 90% of the work sits behind an agency or an in-house team, most of it is
+effectively white-label. The agency's client may not know we were there, and
+the agency would often prefer to keep it that way. Publishing "we delivered
+X for Y" can embarrass the buyer we most want to keep.
+
+That breaks the Proof pillar as normally constructed, and it needs deciding
+early rather than discovered halfway through a case study.
+
+**Ways through it, in order of preference:**
+
+1. **Ask.** Some agencies will happily be named and a few will co-market. Get
+   a yes or no on the record per client, once, and keep the list.
+2. **Anonymise but keep the specifics.** *"A 1,600-delegate financial services
+   conference, three halls, 11-hour get-in"* proves far more than a logo does,
+   and nobody minds. The numbers are the proof — the name never was.
+3. **Publish our own side.** Crew, warehouse, prep, kit, load-outs, the truck.
+   All ours to publish, no permission needed, and it's the same promise.
+4. **Testimonials without case studies.** A production manager at an agency
+   saying we made their week easier is worth more to this audience than a
+   client logo, and is much easier to get signed off.
+5. **Lean the mix toward Pillars 1 and 3.** Expertise and point of view need
+   no permission at all, and for a trade audience they're more persuasive
+   anyway.
+
+**Practical rule:** never post anything that reveals a client's supplier
+arrangements without written sign-off. In this market, discretion *is* the
+product — and being visibly discreet is itself a selling point to the next
+agency that's deciding whether to trust us.
 
 ⛔ Still open:
-- Is growing the direct end-client share a deliberate goal, or is agency and
-  venue work the business you want more of? This changes the balance
+- Is growing the direct end-client 10% a deliberate goal, or is trade work the
+  business you want more of? If trade, we stop writing for end clients
+  entirely, which would simplify everything
 - Are the agencies a handful of repeat relationships or a long tail?
-- Which venues do we work in regularly? Venue-specific content is unusually
-  effective, because producers search for the building by name
+- Which venues do we work in regularly? Venue-specific content works unusually
+  well, because producers search for the building by name
+- Which clients, if any, can we name?
 
 ---
 
