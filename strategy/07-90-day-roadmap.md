@@ -16,9 +16,14 @@ makes the following eleven weeks worth doing.
 - [ ] Complete director LinkedIn profiles (`09-director-linkedin.md`)
 - [ ] Website: sitemap signed off, build started
 - [ ] GA4, Search Console, CRM source field, UTM convention live
-- [ ] Photo/video shoot: team, workplace, work in progress. One day's shooting
-      covers three months of Instagram and Facebook, and removes the single
-      most common reason social calendars stall
+- [ ] **Set up passive photo capture** — one shared folder, crew take phone
+      photos at every get-in and load-out. Nobody at 2.5 staff is going to
+      schedule a shoot, and they don't need to: this industry photographs
+      itself. One properly organised folder feeds Instagram and Facebook for
+      a year
+- [ ] Ask the existing client base for reviews and testimonials. Ten years of
+      clients have never been asked — it's the easiest win available and, per
+      §3, reviews matter competitively in this niche
 
 ## Weeks 3–4 — Website live, content begins
 
@@ -70,3 +75,17 @@ the metrics log rather than from opinion.
 
 Content compounds. Months 4–9 are where it pays, and only for people who
 were still publishing in month 3.
+
+---
+
+## A note on what this is actually for
+
+This business reached £1m in ten years with no website, no business cards and
+no marketing. The content plan isn't fixing something broken — it's making a
+reputation that already works legible to the people who can't currently see
+it, and giving every past client something to point at when they recommend us.
+
+That reframes the day-90 numbers above. A handful of enquiries is a normal
+result. The referrer who finally has a link to send, and the agency that
+checked us out before calling, won't show up in any of those rows — and
+they're most of the value.

@@ -327,12 +327,17 @@ the same disciplines, and they carry 50+ five-star reviews. That matters for
 two reasons:
 
 1. **"We're the white-label partner for agencies" is not a differentiator.**
-   It's the category. Leading with it puts us in a straight comparison with a
-   firm that has a decade of published proof and we're starting from an empty
-   website.
+   It's the category. Leading with it invites a straight feature-for-feature
+   comparison with a firm that has a decade of *published* proof, and that's
+   the wrong ground to fight on — not because we're behind, but because it
+   argues about the wrong thing. See §4: ten years of repeat trade business
+   with no website at all is a different and stronger class of evidence, and
+   the comparison should be pulled onto that instead.
 2. **Reviews are evidently a competitive factor in this niche** — which makes
-   the Facebook/Google review push in `08-profile-buildout.md` more urgent
-   than it looked. Start asking now.
+   the Facebook/Google review push in `08-profile-buildout.md` urgent. Start
+   this week. Ten years of clients who have never once been asked for a
+   testimonial is an unusually easy ask, and the reason it hasn't happened is
+   simply that nobody thought to.
 
 So the wedge against Tier 2 has to be sharper than white-label. The candidates,
 strongest first:
@@ -380,13 +385,96 @@ scale.
 
 ---
 
-## ⛔ 4. Why us
+## 4. Why us — CONFIRMED
 
-- What do we do that's genuinely different — not better, *different*?
-- What's the proof? Numbers, named clients, years, certifications, outcomes.
-- What's the single most convincing thing we could show a sceptic?
-- What have we got lying around already — case studies, testimonials, data,
-  photos, before/afters? (Existing assets shortcut the first month entirely.)
+### The number that does the arguing
+
+**£1m turnover. Ten years. 2.5 staff. No website. No business cards.**
+
+Everything to this point has come from reputation and word of mouth inside a
+small trade market, with no marketing of any kind.
+
+That is the proof. Not a supporting detail — the proof. And it inverts the
+competitive comparison in §3 completely.
+
+White Event Production has 50+ five-star reviews. That's real, and it's earned.
+But it's the ordinary kind of evidence: a company that asked its clients to
+vouch for it. 6D has ten years of repeat trade business from people who chose
+to come back **without ever being marketed to, and without a website to check.**
+
+To this audience — producers and in-house AV managers who buy on reliability
+and are professionally suspicious of anyone who sells too hard — that is a
+stronger signal. Every agency in this market knows exactly how hard it is to
+get rehired. Turnover built purely on rehiring is the only credential that
+can't be manufactured.
+
+Revenue per head sits near £400k. In a business where the product is senior
+people being on site, that's not a footnote either — it's the mechanism behind
+"the same people turn up every time". There aren't layers to hide in.
+
+**Use it once, plainly, and don't decorate it.** The temptation will be to
+build a whole campaign around "we never needed a website". Resist that — it
+curdles into a gimmick fast, and the voice guide's rule about neat lines
+applies with force here. Say it once on the About page and in the directors'
+LinkedIn bios, then let it sit.
+
+### What this changes about the job
+
+The strategy isn't building awareness from zero. **It's making a reputation
+that already exists legible to people who can't currently see it.**
+
+Different job, and it changes several things:
+
+- **The website's first job is conversion, not discovery.** Someone has been
+  told about us by a producer they trust and wants to check we're real before
+  they call. That visit has to land. It also gives a referrer something to
+  send, which they currently don't have — every recommendation made in the
+  last ten years has had nowhere to point
+- **The content's job is reach beyond the existing network**, into the
+  agencies and in-house teams who haven't yet been told by someone
+- **Over-polish is a genuine risk.** A slick marketing presence can undercut
+  the exact credibility being sold. The site and the posts should read like
+  they were made by the people who do the work — because they were. Plain,
+  specific, unglossy. That's not a style preference here, it's commercial
+- The market is small enough that we don't need volume. We need the right
+  hundred people to know
+
+### ⚠️ The capacity problem, stated honestly
+
+**2.5 staff running £1m of live events cannot also produce a weekly blog in
+September.** That's not pessimism, it's arithmetic — during the autumn and
+spring peaks the people who hold the knowledge are on site at 6am.
+
+The agreed cadence still stands, but it only survives if the system is built
+around that constraint rather than ignoring it:
+
+1. **Bank in the troughs.** July, August and the Christmas gap are production
+   season for content. Going into September with 8–10 posts written is the
+   only version of "weekly" that survives a busy autumn
+2. **Voice notes are essential, not optional.** `09-director-linkedin.md`
+   assumed a director would prefer talking to writing. At 2.5 staff it's the
+   only method that will actually happen. Ninety seconds in the van
+3. **Photography is passive capture.** Nobody schedules a shoot. Crew take
+   phone photos at every get-in, into one shared folder, and that folder feeds
+   Instagram and Facebook for a year
+4. **Assume nothing gets written in peak weeks.** Build the calendar so those
+   weeks draw on banked material. A cadence that only works in quiet months
+   isn't a cadence
+
+If it turns out even that's too much, the honest fallback is **one good post a
+fortnight, held for years** — which beats weekly for two months and then
+silence. Consistency is the thing being sold; the content shouldn't contradict
+it.
+
+⛔ Still needed:
+- **What is "the next stage"?** More staff, bigger shows, direct clients,
+  a second location? The website and content should be built for where the
+  business is going, and this is the last piece of that picture
+- Headline proof numbers: biggest show delivered, shows per year, crew
+  numbers on the largest job, years trading
+- How many photos and videos of shows are already sitting on a drive?
+
+---
 
 ## ⛔ 5. Voice inputs
 

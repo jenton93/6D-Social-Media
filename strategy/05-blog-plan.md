@@ -16,6 +16,22 @@ and then stops. The stop is what does the damage.
 **Protect the cadence over the length.** A good 700-word post published on
 Thursday is worth more than a great 2,000-word post that never gets finished.
 
+### ⚠️ Read this before committing to weekly
+
+This is a 2.5-person business delivering £1m of live events. In September and
+October the people who hold the knowledge are on site at 6am, and no blog post
+is getting written that week. Weekly only works if it's built around that:
+
+- **Bank 8–10 posts across July, August and the Christmas gap.** Content
+  production is a quiet-season activity here. Treat those weeks as the factory
+- **Peak-season weeks publish from the bank, not from a draft**
+- **Voice notes over writing.** Ninety seconds in the van, transcribed and
+  edited, keeps the specificity that makes this content worth reading. Waiting
+  for someone to sit down and write costs the whole cadence
+- If weekly still can't hold, drop to **fortnightly and hold it for years**.
+  In a market where we're selling consistency, publishing weekly for two
+  months and then going quiet argues against us. Slower and unbroken wins
+
 ---
 
 ## Post types
