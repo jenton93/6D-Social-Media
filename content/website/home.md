@@ -155,20 +155,34 @@ That's the difference between forty people on site and a team of forty.
 
 ## Recent work
 
-⛔ **Three case studies.** Format them like this, anonymised unless the client
-has agreed to be named, because the numbers prove more to this reader than a
-logo does:
+*No logo strip. There aren't enough names cleared yet, and a sparse row of
+logos draws attention to how few there are rather than to the work. It also
+makes the whole section wait on permissions.*
 
-> **A three-day conference for a professional services client**
-> 1,400 delegates · main auditorium plus two breakout rooms · 14-hour get-in ·
-> crew of 22 · the client's own content team on site from 7am
->
-> *One sentence on what was difficult, and one on how it went.*
+*Descriptive instead, which is stronger for this reader anyway: a producer
+sizing us up cares about the constraints, not the client's brand. Four lines,
+no permissions needed, and it can carry logos later once enough are cleared.*
 
-Send me the numbers from three recent shows and I'll write them up. Rough
-figures are fine, nobody is auditing the delegate count.
+**A three-day conference across three rooms.**
+1,400 delegates, 14-hour get-in, crew of 22. ⛔ *real numbers*
+
+**A corporate recognition event built as a festival.**
+Full technical delivery, ⛔ *scale, site, departments*
+
+**Production crew and management on a major independent festival.**
+⛔ *what we supplied, how many crew*
+
+**Content only, for a client who uses us for nothing else.**
+⛔ *what we make for them, and how long it's been running*
+
+That fourth one is worth including precisely because it's small. It's the
+clearest proof that pick and mix is real rather than a claim.
 
 **[See more of our work]**
+
+⛔ *Six numbers per show and I'll write these properly: event type, delegates
+or capacity, rooms, get-in hours, crew on site, and the thing that was
+difficult. Rough is fine.*
 
 ---
 

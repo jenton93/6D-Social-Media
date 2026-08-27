@@ -8,6 +8,11 @@ voice_check: draft
 
 > Three case studies at launch. Three is enough; zero is not.
 >
+> **No logos on this page either, for now.** Not enough names are cleared, and
+> a thin logo wall reads as a company with three clients. Descriptive case
+> studies carry more weight with a producer anyway, and they can gain names
+> later without being rewritten.
+>
 > **I can write all three from numbers.** Send me rough figures from three
 > recent shows, nobody is auditing the delegate count, and I'll draft them.
 > That's the fastest remaining item on the list.
