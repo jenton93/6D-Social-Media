@@ -46,16 +46,20 @@ And the get-in planned around the venue's window rather than ours.
 
 ---
 
-## Awards
+## Awards and dinners
 
-Awards have to look like television and run to a curfew, so we build and crew
-them accordingly. Set and staging built for the camera position as much as the
-room, lighting designed for camera rather than just the audience, and
-show-calling and playback for VTs, walk-ons, stings and trophy moments.
-Content is made in house, so the graphics and the screens are one team.
+Awards and dinners have to feel like a night out and still work on camera, so
+we build and crew them accordingly. Set and staging built for the camera
+position as much as the room, and show-calling and playback for VTs, walk-ons
+and stings. Content is made in house, so the graphics and the screens are one
+team.
 
-Then the load-out starts in the main room while a few hundred people are still
-in the foyer. Which is why the strike gets planned like part of the show: crew
+A room set for dinner is a different problem to a room set in rows. Round
+tables change where the screens go, who can see them, and where the sound has
+to work.
+
+Then the load-out starts in the main room while the after party's just getting
+going. Which is why the strike gets planned like part of the show: crew
 routes, what comes down when, and where the trucks sit.
 
 ⛔ *An example, named or anonymised.*

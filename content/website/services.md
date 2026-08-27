@@ -185,27 +185,17 @@ mid-session?"*
 > See `00-brand-brief.md` for the knock-on: don't aim second-sale content at
 > lighting.
 
-## Lighting for the room and the camera
+## Lighting
 
 ### What we do
 
-- **LED fixtures throughout**
-- **Lighting plans designed for camera as well as for the audience.** A room
-  that looks right to the people in it and a room that films well are not the
-  same room, and awards and recorded conferences need both
-- **Rigging that complements the rest of the show.** The lighting positions
-  get worked out alongside the set, the screens and the PA rather than after
-  them, because they're all competing for the same points
+- LED fixtures throughout
+- Lighting plans that work for the room and for the camera. More of every
+  event ends up on film than used to, and we're often making that content as
+  well
+- Rigging worked out alongside the set, the screens and the PA rather than
+  after them, because they're all competing for the same points
 
-### Why designing for camera matters
-
-More of every event ends up on film than used to. Recorded sessions, clips for
-internal comms, footage for next year's promotion. A rig lit only for the room
-gives you flat faces on camera and a set that photographs badly, which you
-find out weeks later when the edit arrives.
-
-Since we're often making the post-event content as well, we'd rather it looked
-right in the first place.
 ### How it works
 
 *Same block as the services overview.*
