@@ -54,8 +54,10 @@ mix, the handover offer, and why turning work down is fine.
 4. **Never brief against other suppliers from the company page.** Producers
    distrust it. The point-of-view argument belongs on **Jenton's or
    Christian's personal LinkedIn**, in first person, as personal experience
-5. **Never publish prices.** Agencies and direct clients pay different rates.
-   Explain *how* pricing works instead
+5. **Never publish prices**, and **never mention that agencies and direct
+   clients pay different rates.** True, normal, and not talked about. Explain
+   *how* pricing works instead, including that taking more departments can
+   cost less because crew and transport are shared
 6. **Never name a client without written permission.** Trade work is
    white-label. Check Boomtown and BGT contracts before either is used
 7. **The T2RL story is not publishable** — not the site, not LinkedIn, not

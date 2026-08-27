@@ -88,41 +88,48 @@ The event-type split serves the smaller audience and can wait for evidence.
 The service split serves the larger one *and* the differentiator. Split later
 where the search data justifies it.
 
-### Pricing: don't publish numbers, but don't go silent either
+### Pricing: no numbers, and never mention rate differences
 
-**No published prices.** Agencies and end clients pay different rates — that's
-how the industry works, not something to apologise for. Publishing one number
-means either showing the trade rate to direct clients and losing the margin,
-or showing the direct rate to agencies and reading as expensive to the 90%.
-Neither is survivable.
+**No published prices**, and **never state that agencies and direct clients pay
+different rates.** It's true, it's normal in this industry, and it is not
+talked about. Putting it in writing on a public page would be unusual and
+would invite exactly the conversation nobody wants.
 
 But the reason to say *something* still stands. A reader who finds nothing
 about price assumes the worst rather than assuming it's negotiable, and a
 producer who can't tell whether we're in their range doesn't enquire to find
-out — they move on. So the page explains **how pricing works** instead:
+out. So the page explains **how pricing works**:
 
 > **How we price**
 >
-> Every event is quoted individually — the room, the get-in window and the
-> crew days move the number more than the kit list does.
+> Every event is quoted individually. The room, the get-in window and the crew
+> days move the number more than the kit list does.
 >
-> Departments are priced separately, so taking one costs the same as taking
-> one out of six.
+> Taking more departments often costs less than buying them separately. The crew
+> and the transport are shared, so six departments on one contract can come in
+> under the same six bought from three suppliers. That's the practical reason to
+> consolidate, not a sales argument.
 >
-> Rates differ for agencies and trade against direct clients, as they do
-> across the industry.
+> But it only works if you're free not to. Take one department and it's priced
+> as one, with no penalty for the five you didn't take.
 >
-> We're not the cheapest quote you'll get. What we'd rather do is show you
-> what's in ours and what's been left out of the others.
+> We're not the cheapest quote you'll get. What we'd rather do is show you what's
+> in ours, and what's been left out of the others.
 
-That last line is the value position stated confidently, and it does the
-qualifying job a price range would have done — someone shopping purely on
-price self-selects out, which is the outcome we wanted anyway.
+**The shared-crew point is the important one and I had it wrong first time.**
+Departments don't cost the same whether you take one or six: taking more can
+be cheaper, because one crew and one set of vehicles cover several
+departments. That's a genuine efficiency rather than a discount, it's the
+commercial argument for pick and mix, and it's checkable by anyone who has
+paid three suppliers to send three vans to the same loading bay.
+
+State both halves. The saving is real, and so is the freedom to take one
+department without penalty. Only saying the first reads as an upsell.
 
 **Also add: what drives the cost.** Room and venue constraints, get-in and
-strike windows, crew days, rehearsal time, whether content is being made.
-A producer reading that can estimate roughly where they'd land, and — more
-importantly — sees that we understand what actually makes a show expensive.
+strike windows, crew days, rehearsal time, whether content is being made. A
+producer reading that can estimate roughly where they'd land, and sees that we
+understand what actually makes a show expensive.
 
 ### ⚠️ "Value for money" must be shown, never said
 

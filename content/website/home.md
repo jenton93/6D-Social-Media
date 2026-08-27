@@ -101,8 +101,9 @@ that help.
 **Content**: the material that plays on the screens, made by the people
 running them.
 
-Take one. Take all six. It works the same either way, because it's one
-contract and one crew chief regardless.
+Take one. Take all six. It's one contract and one crew chief either way, and
+taking more of them often costs less than buying them separately, because the
+crew and the transport are shared.
 
 <!-- Set & Staging and Video lead, they're the front door (§1). Lighting sits
      third but carries the origin, which is the credibility line. Power and

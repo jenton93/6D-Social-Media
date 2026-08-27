@@ -62,12 +62,15 @@ them accordingly.
 
 ## Exhibitions
 
-- Stand builds and organiser feature areas
-- Power distribution across a hall
-- Video and lighting within a venue's rigging rules
-- Working inside the hall's build and break windows
+Both sides of the hall: exhibitor stands and organiser feature areas.
 
-⛔ *Do we do exhibitor stands, organiser features, or both?*
+- **Exhibitor stands**, built and crewed
+- **Organiser features**: main stages, seminar theatres, registration and
+  entrance builds
+- **Power distribution** across a hall
+- **Video and lighting** within the venue's rigging rules
+- Working inside the hall's build and break windows, which are usually the
+  hardest constraint on the job
 
 ## Product launches
 

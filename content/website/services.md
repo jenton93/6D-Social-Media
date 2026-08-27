@@ -31,8 +31,11 @@ Every department you add is one less supplier to brief, one less invoice, and
 one less conversation about who owns the problem when something goes wrong at
 4pm. That's the practical argument for consolidating.
 
-But it only works if you're free to *not* consolidate. So we quote departments
-separately, and they cost the same whether you take one or six.
+But it only works if you're free not to. So we quote departments separately,
+and taking one is priced as one, with no penalty for the five you didn't take.
+
+Worth saying the other half too: taking more of them often costs less than
+buying them separately, because the crew and the transport are shared.
 
 ---
 ---
@@ -66,18 +69,21 @@ get-in → show → strike. `‹ASSUMED›`
 
 ### How pricing works
 
-*No numbers, agencies and direct clients pay different rates, and publishing
-one figure damages whichever side sees the wrong one. This block is the same
-on all six pages:*
+*Same block on all six pages.*
 
 Every event is quoted individually. The room, the get-in window and the crew
 days move the number more than the kit list does.
 
-Departments are priced separately, so taking one costs the same as taking one
-out of six.
+Taking more departments often costs less than buying them separately. The crew
+and the transport are shared, so six departments on one contract can come in
+under the same six bought from three suppliers. That's the practical reason to
+consolidate, not a sales argument.
 
-We're not the cheapest quote you'll get. What we'd rather do is show you
-what's in ours, and what's been left out of the others.
+But it only works if you're free not to. Take one department and it's priced
+as one, with no penalty for the five you didn't take.
+
+We're not the cheapest quote you'll get. What we'd rather do is show you what's
+in ours, and what's been left out of the others.
 
 ### Questions we get asked
 
