@@ -453,8 +453,8 @@ more of.
 |---|---|
 | Pre-2024 | Founder solo, delivering **£400k a year** |
 | To January | 1.5 people |
-| Now | **£1m turnover** |
-| Growth | **~50% a year, every year since Covid** |
+| Now | £1m turnover ⚠️ **internal only, never published** |
+| Growth | ~50% a year since Covid ⚠️ **internal only, never published** |
 | Marketing to date | No website. No business cards. None |
 
 Ten years, every job won on reputation and recommendation, growing at 50% a
@@ -626,9 +626,9 @@ honest vocabulary for scale here:
 |---|---|
 | "A crew of 40 on site" | any annual or total crew figure |
 | "A crew of 28 across a four-day get-in" | anything about payroll |
-| "Grown 50% a year since 2020" | "we're a small team" |
-| "£1m of production delivered last year" | "just the two of us" |
-| "Ten years, every job from a recommendation" | "we punch above our weight" |
+| "A crew of 28 across a four-day get-in" | "we're a small team" |
+| "Ten years, every job from a recommendation" | any turnover or growth figure |
+| "Six departments, take one or all of them" | "we punch above our weight" |
 | "The same senior team on every show" | "you'll get the owner" |
 
 Every line on the left is true, verifiable, and sounds like a company that can

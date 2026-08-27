@@ -1,4 +1,4 @@
-# Voice note — crew booking (Aug 2026)
+# Voice note, crew booking (Aug 2026)
 
 Raw transcript. Kept so we can check what the edit lost, and because there's
 more in here than one post can use.
@@ -15,13 +15,13 @@ posts, website copy on 3 pages. Two ideas still unused below.
 | Idea | Where it goes |
 |---|---|
 | The three crew types, expanded with a real example of each | LinkedIn carousel, or a follow-up post |
-| "Some clients want every detail, others want to hear it's in hand" | A post on how we read clients — genuinely original |
+| "Some clients want every detail, others want to hear it's in hand" | A post on how we read clients, genuinely original |
 | The countdown-timer CEO | Its own short director post. Best anecdote in the note |
 | "Kit breaks, people make mistakes, shows change" | Opening line for a post on contingency |
 | Repeat events: what we change, what we keep | Case-study framing for a returning client |
 | "Someone you trust in every room" | Website copy, and a services-page line |
-| Above £5–15m you can't operate without process | Careful — reads as a dig. Positive version: what scale costs a client |
-| ~~CEOs who mean the opposite~~ | Drafted as `202609-lid-03` — **needs two more examples** |
+| Above £5–15m you can't operate without process | Careful, reads as a dig. Positive version: what scale costs a client |
+| ~~CEOs who mean the opposite~~ | Drafted as `202609-lid-03`, **needs two more examples** |
 
 ---
 
@@ -32,7 +32,7 @@ posts, website copy on 3 pages. Two ideas still unused below.
 >
 > You can take a crew member who on paper ticks every single box. They know
 > every bit of kit, they've got experience with big events, they've worked in
-> the space before, they've done full-size productions — but they can't talk
+> the space before, they've done full-size productions, but they can't talk
 > to a client. They can't understand when something is different from the
 > plan. They can't adapt, they can't change.
 >
@@ -40,7 +40,7 @@ posts, website copy on 3 pages. Two ideas still unused below.
 > them twenty minutes they'll pick it up really well. They'll find the
 > problem. They'll connect with friends and colleagues elsewhere to solve it.
 > They'll talk to the client really well, explain how things are working and
-> what needs to happen — really personable.
+> what needs to happen, really personable.
 >
 > And then you've got people who are just quiet, and they sit in the
 > background, but every detail is ticked off the list. Everything is done, and
@@ -64,7 +64,7 @@ posts, website copy on 3 pages. Two ideas still unused below.
 > problem.
 >
 > The nature of live events and technology is that kit breaks, people make
-> mistakes, shows change — and it's how the team adapt on site to that and
+> mistakes, shows change, and it's how the team adapt on site to that and
 > deliver the event really well. Not just from the technical side. A speaker
 > reads the wrong line, or they call up the wrong presenter. What do we as a
 > team do to adapt and change?
@@ -73,7 +73,7 @@ posts, website copy on 3 pages. Two ideas still unused below.
 > chosen for their event. Don't get me wrong, on a larger event you need to
 > fill the gaps. But you need to make sure that in each room you've got
 > someone you trust, someone who's good with the client, someone who's good at
-> problem solving. That creates a team who are an extension of the PM — an
+> problem solving. That creates a team who are an extension of the PM, an
 > extension of the person that's been behind your event for the last three
 > months, six months, five years.
 >
@@ -81,11 +81,11 @@ posts, website copy on 3 pages. Two ideas still unused below.
 > went well last year we do again, the things that didn't we change and
 > improve. We know what you liked and didn't like, so we ensure that just
 > happens this time. It gets to the point where you're not having to ask the
-> questions — they're already done.
+> questions, they're already done.
 >
 > A speaker likes to have his notes on the right-hand side. Another likes them
 > on the left. The CEO doesn't like a countdown timer, but he needs a countdown
 > timer. He doesn't like to be looked at on time, but if he doesn't have the
 > time he runs over. Having those conversations and finding that middle ground
-> for everybody is key — and without the knowledge of the team, you just don't
+> for everybody is key, and without the knowledge of the team, you just don't
 > get it.

@@ -8,31 +8,32 @@ pillar: point-of-view
 target_keyword: event crew booking
 source: director voice note, Aug 2026
 author: Jenton Hollingum
-publish_date: on hold — publishes with the site
+publish_date: on hold, publishes with the site
 meta_title: Why we don't book crew from a list | 6D Group
 meta_description: A booking system can tell you someone can operate a desk. It can't tell you whether they can talk to a client, or spot a problem before it becomes one.
-voice_check: pass — approved by client 27 Aug 2026
+voice_check: pass, approved by client 27 Aug 2026
 ---
 
-> **APPROVED — ready to publish.** Cornerstone post, drafted from the
+> **APPROVED, ready to publish.** Cornerstone post, drafted from the
 > 27 Aug voice note. Raw transcript at `content/raw/`.
 >
-> Confirmed not identifiable — it's a pattern across many shows, not one
+> Confirmed not identifiable, it's a pattern across many shows, not one
 > client, and the post now says so.
 >
-> **Author: Jenton Hollingum. Finished — held until the site is live**, since
+> **Author: Jenton Hollingum. Finished, held until the site is live**, since
 > there's nowhere to put it yet.
 >
 > The **director post can go out now** without waiting: it was written to work
-> with no link. Publish it, then re-promote properly when the blog goes up —
+> with no link. Publish it, then re-promote properly when the blog goes up, 
 > that's two bites at the same material, not a wasted one.
 
 ---
 
 # Why we don't book crew from a list
 
-Most crew booking is done through software now. Dates, roles, rate — the
-system tells you who's available and who's signed off on the kit.
+Most crew booking is done through software now. You put in the dates, the
+roles and the rate, and it tells you who's available and who's signed off on
+the kit.
 
 I understand why it exists. Above a certain size you can't staff forty shows a
 week any other way, and honestly, we could probably use one too.
@@ -53,7 +54,7 @@ away from the plan, and when it does, they can't adapt.
 **The second one doesn't really know the kit.** Give them twenty minutes with
 it and they'll pick it up. What they will do is find the problem before anyone
 else has noticed it, ring someone they know who can help, and then explain to
-the client exactly what's happening and what needs to happen next — in a way
+the client exactly what's happening and what needs to happen next, in a way
 that leaves the client calmer than before they asked.
 
 **The third one is quiet.** Sits in the background. Every detail on the list
@@ -77,7 +78,7 @@ But the client is different. The needs are different. The other parts of the
 event want a slightly different way of working.
 
 Some clients want to be told every detail. Others just want to hear that it's
-in hand. Some like to see the workings and the head-scratching — it reassures
+in hand. Some like to see the workings and the head-scratching. It reassures
 them. Others never want to believe there was a problem at all.
 
 None of that is on the form either.
@@ -91,20 +92,19 @@ A projector fails. A speaker reads the wrong line. Someone calls up the wrong
 presenter. The running order moves at four in the afternoon.
 
 What separates a good show from a bad one isn't whether that happens. It's
-what the team does in the next ninety seconds — and that's a function of who's
+what the team does in the next ninety seconds, and that's a function of who's
 in the room, not what they're certified on.
 
 ## What we actually do
 
 Crew are hand picked for the event, booked by the PM who's running it.
 
-Don't get me wrong — on a larger show you have to fill gaps, and not everyone
+Don't get me wrong. On a larger show you have to fill gaps, and not everyone
 on site will have worked with us before. That's true for anybody.
 
 But in each room there's someone we trust. Someone who's good with the client.
-Someone who solves problems. Those people are an extension of the PM — of the
-person who's been behind your event for the last three months, or six months,
-or five years.
+Someone who solves problems. Those people are an extension of the PM. Of the person who's been behind your
+event for the last three months, or six months, or five years.
 
 ## And on a repeat event, it compounds
 
@@ -115,7 +115,7 @@ change. We already know what you liked and what you didn't, so we're not
 asking. The questions are already answered.
 
 One speaker likes their notes on the right-hand side. Another wants them on
-the left. A CEO doesn't want a countdown timer — but he needs a countdown
+the left. A CEO doesn't want a countdown timer, but he needs a countdown
 timer, because without one he runs over, and he doesn't want to be visibly
 watched on time.
 
@@ -132,12 +132,12 @@ You don't get that from a list.
 
 ## Social cut-downs
 
-*Written now, not later. Every one stands alone as a useful post — someone who
+*Written now, not later. Every one stands alone as a useful post, someone who
 doesn't click should still have got something.*
 
 ---
 
-### LinkedIn — company page *(Slot A)* — hold until the blog is live
+### LinkedIn, company page *(Slot A)*, hold until the blog is live
 
 Three people, all booked onto the same show, all fine on paper.
 
@@ -145,7 +145,7 @@ The first ticks every box. Knows the kit, done events this size, worked the
 building before. He also can't talk to a client, and when the plan moves he
 can't move with it.
 
-The second doesn't really know the kit — but he'll spot the problem before
+The second doesn't really know the kit, but he'll spot the problem before
 anyone else has, find someone who can fix it, and leave the client calmer than
 before they asked.
 
@@ -162,7 +162,7 @@ New post on why we hand pick crew for every event 👇
 
 ---
 
-### LinkedIn — director *(first person)* — ✅ **PUBLISHABLE NOW, no link needed**
+### LinkedIn, director *(first person)*, ✅ **PUBLISHABLE NOW, no link needed**
 
 Jenton Hollingum
 
@@ -182,7 +182,7 @@ I've never regretted it once.
 
 ---
 
-### Instagram *(carousel, 6 frames)* — publishable now; drop the "link in bio"
+### Instagram *(carousel, 6 frames)*, publishable now; drop the "link in bio"
 
 1. **"Three people. Same show. All fine on paper."**
 2. **Ticks every box.** Knows the kit. Done the size. Worked the room.
@@ -202,16 +202,16 @@ stronger if we have one.*
 
 ---
 
-### Facebook — hold until the blog is live
+### Facebook, hold until the blog is live
 
-There's a version of hiring event crew that works like a search filter — who's
+There's a version of hiring event crew that works like a search filter, who's
 free, who's certified, what do they cost.
 
 It's efficient, and above a certain size you can't do it any other way. But it
 can only ever see one kind of person: the one who ticks the boxes on paper.
 
 The ones who calm a nervous client down, or spot the thing that's about to go
-wrong, or quietly work through every job without being asked — none of that
+wrong, or quietly work through every job without being asked, none of that
 fits in a form.
 
 We wrote about why we still pick crew by hand for every event.

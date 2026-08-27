@@ -4,7 +4,7 @@ url: /what-we-do
 type: overview
 job: cold            # secondary: verify
 target_keyword: conference production company london
-voice_check: draft — read aloud before approving
+voice_check: draft, read aloud before approving
 ---
 
 > **Nothing blank.** `‹ASSUMED›` = my best guess, correct it. ⛔ = a fact I
@@ -19,7 +19,7 @@ voice_check: draft — read aloud before approving
 
 # What we do
 
-Large-scale events, mostly for agencies and in-house AV teams — usually when a
+Large-scale events, mostly for agencies and in-house AV teams, usually when a
 show has grown past what you'd normally handle on your own.
 
 Six kinds of event, six departments, and you can take one department or all of
@@ -36,7 +36,7 @@ window that closes before the first delegate arrives. Plenary in the main
 auditorium, breakouts running simultaneously, presenters arriving with content
 that doesn't match the template.
 
-⛔ *Largest conference delivered — delegates, rooms, get-in hours, crew.*
+⛔ *Largest conference delivered, delegates, rooms, get-in hours, crew.*
 
 What usually matters most: the get-in schedule, the rehearsal time, and
 whether someone senior is in the room when the running order moves.
@@ -65,7 +65,7 @@ because the venue has a curfew. `‹ASSUMED›`
 Stands, feature areas and show-floor builds, worked around a venue's own rules
 about when you can be in the hall and what you can hang from.
 
-⛔ *What we actually do here — exhibitor stands, organiser features, or both?*
+⛔ *What we actually do here, exhibitor stands, organiser features, or both?*
 
 **Typically:** Set & Staging · Lighting · Video · Power
 
@@ -85,7 +85,7 @@ designed before anyone measured the room.
 ## Festivals
 
 ⛔ *This is where Boomtown sits. What do we actually supply, and can we say so?
-See `00-brand-brief.md` — festival contracts often restrict supplier
+See `00-brand-brief.md`, festival contracts often restrict supplier
 publicity.*
 
 Outdoor, weather-dependent, and a power distribution problem before it's
@@ -99,7 +99,7 @@ anything else. `‹ASSUMED›`
 
 Permanent and semi-permanent installation.
 
-⛔ *This is a different business from live events — different buyer, different
+⛔ *This is a different business from live events, different buyer, different
 sales cycle, and potentially recurring revenue from service contracts. Worth
 telling me how much of it you do and whether you want more, because if it's
 a growth area it deserves its own page rather than a section here.*

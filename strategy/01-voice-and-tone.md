@@ -44,10 +44,15 @@ These are the tells. Don't use them, don't paraphrase around them.
 - "That's where we come in." — instant credibility loss
 - "curated", "bespoke", "holistic", "synergy", "best-in-class"
 
+**Banned punctuation**
+- **Em dashes. None, anywhere.** Comma, full stop or colon instead. If the
+  sentence needs an em dash to work, the sentence needs rewriting
+- Never publish turnover or growth percentages. Scale is years, per-show crew,
+  departments and named work
+
 **Banned structures**
 - The rule-of-three list where every item is the same length
   (~~"faster, smarter, stronger"~~)
-- The em-dash pivot used more than once per piece
 - Rhetorical question → one-line answer → rhetorical question → one-line answer
 - Ending every paragraph on a punchy fragment. For emphasis.
 - Perfectly parallel bullet points that all start with a verb and all run to

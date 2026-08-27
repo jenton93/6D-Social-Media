@@ -19,8 +19,7 @@ not kit. Clients buy departments **pick and mix**: one or all six, one contract.
 has outgrown what they can deliver themselves. 10% direct end clients. Main
 event type: corporate conferences and awards.
 
-Ten years, ~£1m turnover, ~50% growth a year since 2020, and **no website or
-marketing to date** — every job came from a recommendation. Marketing's job is
+Ten years and **no website or marketing to date** — every job came from a recommendation. Marketing's job is
 to continue that growth.
 
 ## The three jobs (`strategy/10-the-three-jobs.md`)
@@ -63,14 +62,18 @@ mix, the handover offer, and why turning work down is fine.
    anonymised. See `content/raw/INTERNAL-t2rl-do-not-publish.md`. Only Jenton
    or Christian can change that
 8. **Never use stock photography.** Real shows only
+9. **Never publish turnover or growth percentages.** No "£1m", no "50% a year".
+   Scale is expressed as years, per-show crew, departments and named work
+10. **No em dashes.** Anywhere, in any copy. Use a comma, a full stop, or a
+    colon. Rewrite the sentence if none of those work
 
 ## Voice (`strategy/01-voice-and-tone.md` — read it in full before writing)
 
 UK English. First person. Contractions. Specific numbers and real nouns.
 
-Banned: "in today's…", "it's not just X, it's Y", delve, leverage, seamless,
-robust, elevate, unlock, "that's where we come in", "here's the thing",
-rule-of-three with three equal-length items, emoji bullets.
+Banned: em dashes, "in today's…", "it's not just X, it's Y", delve, leverage,
+seamless, robust, elevate, unlock, "that's where we come in", "here's the
+thing", rule-of-three with three equal-length items, emoji bullets.
 
 **Every piece is read aloud before publishing** and logged `voice_check: pass`.
 

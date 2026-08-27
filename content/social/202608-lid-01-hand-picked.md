@@ -7,15 +7,15 @@ pillar: point-of-view
 format: text
 publish_date: ⛔
 allocation: bet
-voice_check: draft — read this aloud before posting
+voice_check: draft, read this aloud before posting
 ---
 
-> **First director post — draft.** This is the one thing in the whole plan you
+> **First director post, draft.** This is the one thing in the whole plan you
 > can publish this week: no website, no photographs, no client permissions, no
 > developer.
 >
 > Read it out loud. Anything you wouldn't say in the van, change it. It should
-> sound like you, not like it was written for you — if it doesn't, tell me
+> sound like you, not like it was written for you, if it doesn't, tell me
 > which bits and I'll fix them rather than smoothing the whole thing.
 
 ---
@@ -62,7 +62,7 @@ they'll spot the problem before it becomes one.
   subject, not any firm
 - **Attacks the system, never the bookers.** Per the rule in
   `09-director-linkedin.md`. No company is named
-- **The cost is admitted** — slower, a couple of hours, occasionally turning
+- **The cost is admitted**, slower, a couple of hours, occasionally turning
   work down. That's what makes it believable. A claim with no downside reads
   as marketing
 - **Ends one line early.** The desk line is the last thing; there's no summary
@@ -71,10 +71,10 @@ they'll spot the problem before it becomes one.
   rule-of-three with three equal-length items, no emoji
 
 ⛔ **Two things to check before posting**
-1. Is "a couple of hours" honest? Swap in the real figure — the specificity is
+1. Is "a couple of hours" honest? Swap in the real figure, the specificity is
    the point
 2. The three archetypes are described as "he". If the real people you had in
-   mind aren't all men, vary it — and it reads better if they're not identical
+   mind aren't all men, vary it, and it reads better if they're not identical
    anyway
 
 **Hashtags:** ⛔ *3–5, at the end. #eventprofs is the obvious one.*

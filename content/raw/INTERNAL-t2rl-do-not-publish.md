@@ -1,7 +1,7 @@
 ---
-status: INTERNAL — DO NOT PUBLISH
+status: INTERNAL. DO NOT PUBLISH
 client: T2RL
-url: none — not a website page
+url: none, not a website page
 voice_check: n/a
 ---
 
@@ -15,12 +15,12 @@ handover offer plays out in practice, not offered as something to publish.
 Drafting it as website copy was a misread.
 
 Not the website, not LinkedIn, not a cut-down, not anonymised. Anonymising
-doesn't help — the venue and the timeline identify it to anyone in this
+doesn't help, the venue and the timeline identify it to anyone in this
 market.
 
 Kept here because of what it teaches internally, which is genuinely a lot:
 
-- The handover offer already works — it isn't a theory
+- The handover offer already works, it isn't a theory
 - A client who leaves and comes back buys **more** than they bought before
 - Venue in-house contracts can lock us out regardless of the relationship
 - "Relationship over single event" is demonstrated, not aspirational
@@ -46,7 +46,7 @@ in 2026.**
 We delivered set and staging for T2RL's annual event at the QEII Centre for
 three years, working alongside QEII Live, the venue's in-house AV team.
 
-In 2025 the event moved to a new venue — and the contract there made it
+In 2025 the event moved to a new venue, and the contract there made it
 difficult to use anyone but the in-house supplier.
 
 So we weren't going to be delivering it.
@@ -57,8 +57,8 @@ A client moving venue has no written record of what they had. They know the
 event worked; they don't have the kit list, the crew count or the timings that
 made it work.
 
-We did. So we went through the incoming spec line by line — took out what
-wasn't needed, added what was missing — and quoted the job as well, so they
+We did. So we went through the incoming spec line by line, took out what
+wasn't needed, added what was missing, and quoted the job as well, so they
 had something to compare against.
 
 We didn't win the work. The event ran with the right kit in the room.
@@ -88,7 +88,7 @@ back to us.
 It's the most tempting detail available and it would break three things at
 once:
 
-1. **It briefs against another supplier.** Not naming them doesn't help — the
+1. **It briefs against another supplier.** Not naming them doesn't help, the
    venue is identifiable, so the in-house supplier is identifiable. That's
    worse than naming them, not better
 2. **It contradicts the principle the story is built on.** A case study whose
@@ -96,21 +96,21 @@ once:
    company wasn't good enough". The reader will notice
 3. **It weakens the story.** The version where we helped, lost the work,
    helped anyway and were asked back is about *us*. The version that dwells on
-   someone else's failure is about *them* — and it invites the reader to
+   someone else's failure is about *them*, and it invites the reader to
    wonder what we'd say about their event afterwards
 
 The restraint is the point. A producer reading this notices what we *didn't*
 say, and that's worth more than the detail we left out.
 
 **Also check with T2RL** before publishing anything that describes their
-supplier arrangements — it's their commercial relationship being described,
+supplier arrangements, it's their commercial relationship being described,
 not only ours.
 
 ---
 
 ## Social cut-downs
 
-### LinkedIn — director *(strongest version; no link needed)*
+### LinkedIn, director *(strongest version; no link needed)*
 
 Jenton Hollingum
 
@@ -119,8 +119,8 @@ the contract there meant they had to use the in-house supplier.
 
 So we weren't doing their event.
 
-We went through the spec with them anyway — took out what wasn't needed, added
-what was missing — and quoted it so they had something to compare against. Then
+We went through the spec with them anyway, took out what wasn't needed, added
+what was missing, and quoted it so they had something to compare against. Then
 we didn't get the job.
 
 Worth saying why we bothered: a client moving venue has no written record of
@@ -131,7 +131,7 @@ No company is the right fit for every event. No client is the right fit for
 every company. If we're not the answer, helping someone buy it well is just
 what follows from believing that.
 
-This year we're delivering their whole event. Not the set and staging — all of
+This year we're delivering their whole event. Not the set and staging, all of
 it.
 
 I'd like to say that was the plan. It wasn't. It's just what happens when you
@@ -140,4 +140,4 @@ treat a relationship as longer than one job.
 *#eventprofs #eventproduction*
 
 ⛔ *Check: happy to be this open about losing work? It's the reason the post
-works — most suppliers only publish wins — but it's your call.*
+works, most suppliers only publish wins, but it's your call.*

@@ -19,7 +19,7 @@ You'll get a reply from the person who'd be running it.
 missed promise on this page costs more than the promise gains, so only put
 what always happens.*
 
-**Form fields — keep it to these five**
+**Form fields, keep it to these five**
 - Name
 - Email
 - Company
@@ -27,7 +27,7 @@ what always happens.*
 - **How did you hear about us?** *(dropdown)*
 
 > The last field is not optional. This business has always grown by word of
-> mouth — without it, there's no way to tell word of mouth apart from
+> mouth, without it, there's no way to tell word of mouth apart from
 > marketing, and every number in the monthly review becomes an opinion.
 > Options: *A recommendation · Met you at an event · Worked with you before ·
 > Search · LinkedIn · Other*

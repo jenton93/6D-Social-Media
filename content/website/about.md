@@ -3,7 +3,7 @@ page: About
 url: /about
 type: about
 job: verify
-voice_check: client-edited 27 Aug 2026 — Jenton's version
+voice_check: client-edited 27 Aug 2026. Jenton's version
 ---
 
 > **Client-edited.** This is Jenton's wording and it stands as written.
@@ -48,8 +48,7 @@ nothing.
 
 ## Who you'll actually deal with
 
-One of us is on every show. Not a project manager allocated the week before —
-whoever quoted it, in the room, start to finish.
+One of us is on every show. Not a project manager allocated the week before, whoever quoted it, in the room, start to finish.
 
 Behind that is a crew we build per show. We don't put people we don't know into
 critical roles, and we don't book from a list of who happens to be free.
@@ -66,29 +65,20 @@ nobody has to ask you the same questions twice.
 
 ---
 
-## ⛔ Two open questions
+## ⛔ One open question
 
-**1. The turnover and growth line is gone.** You cut *"Last year we delivered
-£1m of production. We've grown around 50% a year since 2020."*
-
-Deliberate? Both are still on the homepage proof strip. If turnover shouldn't
-be public, it needs removing there too — it's more prominent there than it was
-here. If it was just surplus to this page, it stays on the homepage and
-nothing changes.
-
-Worth deciding either way: £1m and 50% growth are two of the four scale
-signals available that don't touch headcount.
-
-**2. "Who you'll actually deal with" no longer names anyone.**
+**"Who you'll actually deal with" no longer names anyone.**
 
 The heading promises people and the section doesn't introduce them. For the
 page whose job is proving there are real people here, that's the gap that
 matters most.
 
-Either put the names back — *"Jenton Hollingum and Christian Murphy run the
-company and run the shows"* — or change the heading to something the section
+Either put the names back, *"Jenton Hollingum and Christian Murphy run the
+company and run the shows"*, or change the heading to something the section
 delivers on, like *"How we crew a show"*.
 
 My view: put the names back, and a photograph. This page is read by producers
 deciding whether to trust you with their reputation, and named people with
 faces do more for that than any sentence on the page.
+
+*(Turnover and growth figures: removed everywhere, per instruction 27 Aug.)*

@@ -2,18 +2,18 @@
 page: Home
 url: /
 type: home
-job: verify          # primary — someone checking we're real. Secondary: cold
+job: verify          # primary, someone checking we're real. Secondary: cold
 target_keyword: event production company london
-meta_title: 6D Group — technical production for large-scale events
+meta_title: 6D Group, technical production for large-scale events
 meta_description: Set and staging, lighting, sound, video, power and content for large-scale events. Take one department or all six. Ten years, every job from a recommendation.
 og_image: og-home.jpg
 primary_cta: Talk to us about a show
-voice_check: draft — not yet read aloud
+voice_check: draft, not yet read aloud
 ---
 
-> **DRAFT 2 — nothing left blank.** `‹ASSUMED›` means I've written what's most
+> **DRAFT 2, nothing left blank.** `‹ASSUMED›` means I've written what's most
 > likely true; correct it or delete the marker. ⛔ means a fact I can't invent.
-> Read it out loud before approving — that's the test in
+> Read it out loud before approving, that's the test in
 > `01-voice-and-tone.md` §6.
 
 ---
@@ -22,8 +22,8 @@ voice_check: draft — not yet read aloud
 
 # Big shows. The same people, every time.
 
-Technical production for large-scale events — set and staging, lighting,
-sound, video, power and content. Take one department or all six.
+Technical production for large-scale events. Set and staging, lighting, sound,
+video, power and content. Take one department or all six.
 
 **[Talk to us about a show]**
 
@@ -36,12 +36,11 @@ sound, video, power and content. Take one department or all six.
 ## Proof strip *(immediately under the hero, before any description)*
 
 **Ten years.** Every job from a recommendation.
-**£1m** of production delivered last year.
-**Grown 50%** a year since 2020.
+**Six departments.** Take one or all of them.
+**Crew of 40** on site, largest recent show. ⛔ *confirm figure*
 
 <!-- Scale without headcount, per §4. Every figure is true and checkable, and
-     "every job from a recommendation" is the strongest line on the page —
-     nobody can manufacture it. -->
+     "every job from a recommendation" is the strongest line on the page, nobody can manufacture it. -->
 
 ---
 
@@ -56,7 +55,7 @@ big?" before anyone has to ask.*
 > ⛔ **Two things before this can go live.**
 >
 > **1. Written permission per name.** "I'm sure we can" isn't it. QEII Live
-> and Dancing Squirrel are white-label relationships — being named as their
+> and Dancing Squirrel are white-label relationships, being named as their
 > supplier says something about *their* business, not only ours. It's usually
 > a yes and it's a two-line email, but send it before Will builds the page.
 >
@@ -68,7 +67,7 @@ big?" before anyone has to ask.*
 > of the risk.
 >
 > **3. Be precise about scope.** If we supply one department into a chain of
-> suppliers, "we do Britain's Got Talent" overstates it — and everyone in this
+> suppliers, "we do Britain's Got Talent" overstates it, and everyone in this
 > industry knows how those chains work. An inflated claim is the kind of thing
 > that gets noticed and repeated in a market this small.
 
@@ -83,7 +82,7 @@ That isn't a failure of an in-house team. It's a Tuesday in September. The
 question is just who you call, and whether they'll still be the same people
 when you call again in March.
 
-Conferences, awards and large corporate events — most often in central London
+Conferences, awards and large corporate events, most often in central London
 venues, working alongside the in-house team rather than around them.
 `‹ASSUMED›`
 
@@ -94,18 +93,18 @@ venues, working alongside the in-house team rather than around them.
 Most suppliers want the whole show or nothing. We'd rather you took the bits
 that help.
 
-**Set & Staging** — the physical build.
-**Video** — screens, playback, cameras.
-**Lighting** — where we started, and still what we're fussiest about.
-**Sound** — from a panel discussion to a room that fights you. `‹ASSUMED›`
-**Power** — distribution and supply, on the same contract as everything else.
-**Content** — the material that plays on the screens, made by the people
+**Set & Staging**: the physical build.
+**Video**: screens, playback, cameras.
+**Lighting**: where we started, and still what we're fussiest about.
+**Sound**: from a panel discussion to a room that fights you. `‹ASSUMED›`
+**Power**: distribution and supply, on the same contract as everything else.
+**Content**: the material that plays on the screens, made by the people
 running them.
 
 Take one. Take all six. It works the same either way, because it's one
 contract and one crew chief regardless.
 
-<!-- Set & Staging and Video lead — they're the front door (§1). Lighting sits
+<!-- Set & Staging and Video lead, they're the front door (§1). Lighting sits
      third but carries the origin, which is the credibility line. Power and
      Content are called out because they're the two most people have to source
      separately. -->
@@ -128,11 +127,9 @@ is the person running it. You'll meet the crew before the day, and they'll be
 the same crew next time.
 
 <!-- This is the backup argument in its positive form (§5b, §5c). It answers
-     "is anyone behind you?" without describing how anyone else operates —
-     which matters, because Aztec is a client. -->
+     "is anyone behind you?" without describing how anyone else operates, which matters, because Aztec is a client. -->
 
-One of us is on every show. Not a project manager assigned the week before —
-the person who quoted it, in the room, for the whole thing.
+One of us is on every show. Not a project manager assigned the week before, the person who quoted it, in the room, for the whole thing.
 
 ### Crew are hand picked for the event
 
@@ -150,7 +147,7 @@ one, or how they'll be with your client at 4pm when the running order moves.
 
 That's the difference between forty people on site and a team of forty.
 
-> ⛔ *Swap in a real show for the number — T2RL is 40 crew. Never quote an
+> ⛔ *Swap in a real show for the number. T2RL is 40 crew. Never quote an
 > annual or total crew figure: a hundred names across a year reads as a pool,
 > which is the model we're arguing against.*
 
@@ -158,7 +155,7 @@ That's the difference between forty people on site and a team of forty.
 
 ## Recent work
 
-⛔ **Three case studies.** Format them like this — anonymised unless the client
+⛔ **Three case studies.** Format them like this, anonymised unless the client
 has agreed to be named, because the numbers prove more to this reader than a
 logo does:
 
@@ -169,7 +166,7 @@ logo does:
 > *One sentence on what was difficult, and one on how it went.*
 
 Send me the numbers from three recent shows and I'll write them up. Rough
-figures are fine — nobody is auditing the delegate count.
+figures are fine, nobody is auditing the delegate count.
 
 **[See more of our work]**
 
@@ -185,7 +182,7 @@ years on, the people who started it are still the people running the shows.
 shows. ⛔ *roles, and a line each on what they've done* `‹ASSUMED they're both
 client-facing on site›`
 
-⛔ *A photograph of the two of you. Doesn't need a photographer — a decent
+⛔ *A photograph of the two of you. Doesn't need a photographer, a decent
 phone shot in the unit is better than a studio portrait, and more in keeping
 with everything else on the site.*
 
@@ -195,11 +192,11 @@ with everything else on the site.*
 
 ## Getting started
 
-Tell us about the show — the room, the date, and what's worrying you about it.
+Tell us about the show, the room, the date, and what's worrying you about it.
 You'll get a reply from the person who'd be running it, usually the same day.
 
 > ⛔ **Confirm before publishing: is same-day always true?** Only promise what
-> always happens — a missed promise on the contact page costs more than the
+> always happens, a missed promise on the contact page costs more than the
 > promise gains. "Within a day" is safer if there's any doubt.
 
 **[Talk to us about a show]**
@@ -219,13 +216,13 @@ makes the site read as a real company rather than a page someone made.*
 
 # Notes on what I've deliberately avoided
 
-- **No "full service, end to end"** — it's the category claim, White Event
+- **No "full service, end to end"**, it's the category claim, White Event
   Production already owns it publicly, and it contradicts pick-and-mix
 - **No headcount, and no implied headcount.** Scale is expressed in years,
-  turnover, growth and crew — never payroll (§4)
+  turnover, growth and crew, never payroll (§4)
 - **No criticism of larger suppliers**, even unnamed. Aztec is a client (§5c)
 - **No stock photography**, and no adjectives doing work that a number could
   do instead
-- **Nothing from the banned list** in `01-voice-and-tone.md` §2 — no
+- **Nothing from the banned list** in `01-voice-and-tone.md` §2, no
   "seamless", no "delivering excellence", no "in today's fast-paced events
   industry", no rule-of-three with three equal-length items

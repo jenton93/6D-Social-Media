@@ -9,22 +9,22 @@ voice_check: draft
 > Three case studies at launch. Three is enough; zero is not.
 >
 > **I can write all three from numbers.** Send me rough figures from three
-> recent shows — nobody is auditing the delegate count — and I'll draft them.
+> recent shows, nobody is auditing the delegate count, and I'll draft them.
 > That's the fastest remaining item on the list.
 
 # Work
 
 ## The format
 
-Numbers first. For this reader — a producer working out whether we can cope
-with theirs — the constraints prove more than the client's logo does.
+Numbers first. For this reader, a producer working out whether we can cope
+with theirs, the constraints prove more than the client's logo does.
 
 > ### ⛔ *Show name or "A three-day conference for a professional services client"*
 >
 > **1,400 delegates · main auditorium plus two breakouts · 14-hour get-in ·
 > crew of 22 · 3 days on site**
 >
-> **The problem.** *Two or three sentences. What made this one difficult —
+> **The problem.** *Two or three sentences. What made this one difficult, 
 > the room, the schedule, the late change, the thing that broke.*
 >
 > **What we did.** *Three or four sentences. Concrete. What was actually
@@ -52,18 +52,18 @@ far less than a show where something did and it was handled.
 
 ## Which three to pick
 
-- **One large conference** — the core business, proves scale
+- **One large conference**, the core business, proves scale
 - **One where something went wrong** and was solved. The most persuasive
   thing on the site, and the one everyone avoids publishing
-- **One single-department job** — Hemming Group, Content only. Proves
+- **One single-department job**, Hemming Group, Content only. Proves
   pick-and-mix is real rather than a claim
 
 ⛔ *Written permission per client before publishing. See
-`00-brand-brief.md` — "I'm sure we can" isn't it, especially for the
+`00-brand-brief.md`, "I'm sure we can" isn't it, especially for the
 white-label relationships.*
 
 ## Later
 
-One case study a month, drawn from step 6 of the process — the post-event
+One case study a month, drawn from step 6 of the process, the post-event
 content collation. That's the loop: the thing we already do for clients
 becomes the thing that wins the next client.

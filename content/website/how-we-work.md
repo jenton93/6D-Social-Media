@@ -3,14 +3,14 @@ page: How we work
 url: /how-we-work
 type: process
 job: verify          # a defined process is what a real company looks like
-voice_check: draft — read aloud before approving
+voice_check: draft, read aloud before approving
 ---
 
 > The six steps, from the January brief. This is the strongest thing in it and
 > it was being under-used as a graphic.
 >
 > Why it matters: a defined process is what "production management" actually
-> means, and a supplier with one looks like a company — which is precisely the
+> means, and a supplier with one looks like a company, which is precisely the
 > problem the site exists to solve.
 >
 > `‹ASSUMED›` = correct it. ⛔ = needs you.
@@ -37,7 +37,7 @@ people signing it off.
 
 This is where we find out about the presenter who won't use a lectern, the
 sponsor expecting a logo nobody mentioned, and the CEO who doesn't want a
-countdown timer but needs one — because without it he runs over, and he
+countdown timer but needs one, because without it he runs over, and he
 doesn't want to be visibly watched on time.
 
 On a repeat event most of that is already known, which is the main argument
@@ -47,7 +47,7 @@ for keeping the same crew on a client's shows.
 
 We go and look at the room.
 
-Not a floor plan — the room. Where the power is, what the load-in actually
+Not a floor plan, the room. Where the power is, what the load-in actually
 involves, how high the ceiling really is, and what the venue will and won't
 let you rig from.
 
@@ -56,7 +56,7 @@ promise what always happens.*
 
 ## 4. Design the event, and make the content
 
-Drawings, plots, kit lists and schedules — plus the material that plays on the
+Drawings, plots, kit lists and schedules, plus the material that plays on the
 screens.
 
 Doing both together is the part most suppliers can't. When the people building
@@ -75,15 +75,15 @@ you met beforehand.
 
 You leave with something usable.
 
-Most production companies pack the trucks and go. We edit what was captured —
+Most production companies pack the trucks and go. We edit what was captured, 
 ⛔ *what exactly? highlights, full session recordings, photography, social
-cut-downs?* — so the event carries on being useful after the room is empty.
+cut-downs?*, so the event carries on being useful after the room is empty.
 
 ---
 
 ## Why six steps and not four
 
-⛔ *Optional. The sixes are a nice device — six event types, six departments,
+⛔ *Optional. The sixes are a nice device, six event types, six departments,
 six steps. Let people notice it. A line explaining the theme kills it
 instantly, so if this section exists it should be about the process, not about
 the number.*
