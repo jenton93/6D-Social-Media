@@ -46,7 +46,7 @@ department instead of six, and why if you're taking an event somewhere we're
 not the right answer for we'd still rather help you buy it well than say
 nothing.
 
-## Who you'll actually deal with
+## How we crew a show
 
 One of us is on every show. Not a project manager allocated the week before, whoever quoted it, in the room, start to finish.
 
@@ -65,20 +65,22 @@ nobody has to ask you the same questions twice.
 
 ---
 
-## ⛔ One open question
+## Decisions on this page
 
-**"Who you'll actually deal with" no longer names anyone.**
+**No director photographs, no roles.** Client decision, 27 Aug.
 
-The heading promises people and the section doesn't introduce them. For the
-page whose job is proving there are real people here, that's the gap that
-matters most.
+The heading has changed from "Who you'll actually deal with" to "How we crew a
+show", because the old one promised people the section doesn't introduce.
 
-Either put the names back, *"Jenton Hollingum and Christian Murphy run the
-company and run the shows"*, or change the heading to something the section
-delivers on, like *"How we crew a show"*.
+**One consequence worth knowing.** The Verify job (`10-the-three-jobs.md`)
+partly depends on someone finding real people behind the company. With no
+faces or names on the site, that job moves almost entirely to **LinkedIn** —
+the company page and both director profiles. Anyone checking us out will go
+there next.
 
-My view: put the names back, and a photograph. This page is read by producers
-deciding whether to trust you with their reputation, and named people with
-faces do more for that than any sentence on the page.
+So `08-profile-buildout.md` and `09-director-linkedin.md` get more important,
+not less. The profiles need to be complete, current, and clearly attached to
+6D Group Ltd. That's where the people are now.
 
-*(Turnover and growth figures: removed everywhere, per instruction 27 Aug.)*
+*"One of us is on every show"* still does useful work here. It says there are
+senior people and that they turn up, without naming them.

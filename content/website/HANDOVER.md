@@ -46,9 +46,11 @@ reads as a pool, which is the model we're arguing against.*
       before either name goes anywhere
 
 ### From the two of you
-- [ ] Roles, and a line each on background
-- [ ] A photograph, a phone shot in the unit beats a studio portrait
 - [ ] Which of you is posting on LinkedIn
+
+*No director photos or roles on the site, decided 27 Aug. That moves the
+"real people" job to LinkedIn, so both director profiles need completing
+(`strategy/09-director-linkedin.md`).*
 
 ### Decisions
 - [ ] Rough revenue split across the six event types, so the sections get

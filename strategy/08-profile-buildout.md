@@ -1,5 +1,10 @@
 # Profile Build-Out — Filling In The Pages Properly
 
+**These matter more than they did.** The website carries no director
+photographs or roles (client decision, 27 Aug), so LinkedIn is now where
+anyone checking us out finds actual people. The Verify job leans on these
+profiles rather than on the About page.
+
 Right now the pages exist but aren't doing any work. A half-filled profile
 costs us on every single post: someone reads a good post, clicks the name, and
 lands on a page that tells them nothing. That's a lost enquiry, every time,
