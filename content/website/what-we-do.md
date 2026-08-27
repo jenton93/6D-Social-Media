@@ -106,8 +106,6 @@ Two different jobs, and we do both.
 - Multiple stages or areas across an outdoor or semi-outdoor site
 - Power distribution and supply across the site
 - Kit specified for weather and for a site with no walls
-- The second one is closer to a conference than a music festival: the
-  delegates are your people and the running order still matters
 
 ---
 
