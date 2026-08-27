@@ -283,14 +283,102 @@ agency that's deciding whether to trust us.
 
 ---
 
-## ⛔ 3. The market
+## 3. The market — CONFIRMED
 
-- Who are our three closest competitors, by name?
-- What do they all say that we could credibly say the opposite of?
-- Is the market growing, consolidating, or being disrupted by something?
-- Is there a regulation, deadline, standard or seasonal cycle that creates
-  demand? (These are the best blog topics in any market — they come with
-  built-in search volume and urgency.)
+Two tiers of competitor, and they need completely different arguments.
+
+### Tier 1 — The big operators
+
+**Encore · 4Wall · Aztec**
+
+In your words: *"where they are too big to offer the service."*
+
+These are the scale players, and several hold contracted in-house AV at
+venues. We don't beat them on kit, coverage or balance sheet, and we shouldn't
+try. The argument against them is service consistency: at that size you get
+whoever is free that week, decisions go up a chain, and the senior person who
+sold it isn't the person on site.
+
+**This is where the positioning line does its work** — big enough to deliver
+the scale, small enough that the same people turn up.
+
+Worth being precise, because it's also the strategically interesting bit:
+several of our own clients are **competing against these operators.** QEII Live
+is an independent in-house team at a major London venue, going up against
+venues whose AV is contracted out to exactly these firms. Which reframes what
+we sell:
+
+> **6D is how an independent in-house team or agency takes on a show at Encore
+> scale without becoming Encore.**
+
+That's the sharpest version of the proposition, it's specific to this market,
+and no competitor is saying it. It should be tested as a point-of-view post
+early.
+
+### Tier 2 — Direct peers
+
+**White Event Production · Red Event Production · Lux Technical** (to a point)
+
+Same model, similar size, competing for the same jobs.
+
+**⚠️ Be aware what White is already doing.** They're explicit and public about
+being a white-label production partner for large event agencies, they cover
+the same disciplines, and they carry 50+ five-star reviews. That matters for
+two reasons:
+
+1. **"We're the white-label partner for agencies" is not a differentiator.**
+   It's the category. Leading with it puts us in a straight comparison with a
+   firm that has a decade of published proof and we're starting from an empty
+   website.
+2. **Reviews are evidently a competitive factor in this niche** — which makes
+   the Facebook/Google review push in `08-profile-buildout.md` more urgent
+   than it looked. Start asking now.
+
+So the wedge against Tier 2 has to be sharper than white-label. The candidates,
+strongest first:
+
+| Wedge | Why it might hold | Needs checking |
+|---|---|---|
+| **We support venue in-house AV teams, not only agencies** | White markets at agencies. QEII Live is a different buyer with a different problem, and nobody is speaking to them | Is this deliberate, or just how it fell out? |
+| **Large-scale production management specifically** | "Specialising in production management for large scale events" is narrower than general production support | Is there a floor — a show size below which we're not interested? |
+| **London** | White is Milton Keynes. Proximity to the major London conference venues is real for early get-ins and same-day problems | Where is the unit? |
+| **We own the kit** | Own unit, own stock, partly kit let. Less sub-hire, more control | How much do we own vs cross-hire? |
+| **We came up through lighting** | Technical depth rather than an assembled catalogue | — |
+
+⛔ **Decide which one of these is the wedge before the website copy is
+written.** All five are true; only one can lead. My read is the first — the
+venue in-house team is an underserved buyer with an urgent, specific problem
+and no one addressing them — but this is your call, and it's the single most
+consequential choice in the whole plan.
+
+---
+
+## Clients
+
+**QEII Live** (in-house AV team at the QEII Centre) · **Dancing Squirrel** ·
+**Evolution International** · **Select Brief**
+
+Exactly the buyer profile described in §2: in-house AV teams and agencies.
+QEII Live in particular is a strong credential — a major London conference
+venue is the kind of name that ends an argument about whether we can handle
+scale.
+
+> **⚠️ Permission first.** Telling me these is not the same as being able to
+> publish them, and in a white-label trade relationship that distinction
+> matters commercially. Get an explicit yes or no from each, in writing,
+> before any of them appears in public content. Some will happily be named and
+> a couple may co-market; assume none of them will until they've said so.
+>
+> Where the answer is no, the work still becomes content — anonymised, with
+> the numbers and constraints kept. See §2.
+
+⛔ Still open:
+- Are these four the bulk of the business, or the top of a longer tail?
+- Which of them would likely agree to be named, and which definitely wouldn't?
+- Which other venues do we work in regularly? Venue-specific content performs
+  unusually well here, because producers search for the building by name
+
+---
 
 ## ⛔ 4. Why us
 
