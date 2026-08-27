@@ -70,6 +70,17 @@ point. The rule is about writer's flourishes, not about voice.
 - Never publish turnover or growth percentages. Scale is years, per-show crew,
   departments and named work
 
+**Bold**
+
+Almost never. It was being used on the service pages for three different jobs
+at once, an argument, a spec detail and a credential, which is the same as not
+using it at all.
+
+If everything important is bold, nothing is. Being the first sentence is
+emphasis enough, and in a quiet register bold reads as raising your voice.
+Reserve it for a genuine label in a list, and even then only where the list
+would be hard to scan without it.
+
 **Banned structures**
 - The rule-of-three list where every item is the same length
   (~~"faster, smarter, stronger"~~)

@@ -67,7 +67,7 @@ conversation happens at the drawing stage rather than in the loading bay.
 - **In-house workshop.** We make it ourselves
 - **CNC**, for anything that needs to be precise or repeated
 - **Custom build** to your design or ours
-- **Large format print, from 30cm to 30m.** Both ends of that. A lectern panel
+- Large format print, from 30cm to 30m. Both ends of that. A lectern panel
   and a full-width backdrop come off the same process
 - **Stock decking** in 4, 6 and 8ft lengths by 1, 2, 3 and 4ft, so most stage
   shapes come out of stock rather than out of a fabrication budget
@@ -233,7 +233,7 @@ why some rooms are fine in the middle and unusable down the sides.
 ### The kit
 
 - **d&b PA**
-- **Digital radio mics.** Not a preference. The spectrum available for
+- Digital radio mics. Not a preference. The spectrum available for
   analogue keeps shrinking, and on a big show with a lot of channels, digital
   is the difference between a clean day and an afternoon of interference
 - **Digital desks**
@@ -276,10 +276,10 @@ also somebody else's problem, and you're the one standing in the room.
 
 ### What we do
 
-- **BS7909 electricians.** The standard for temporary electrical systems at
+- BS7909 electricians. The standard for temporary electrical systems at
   events, and what venues and insurers look for. Not everyone supplying event
   power works to it
-- **Power designed around fuel, not just capacity.** Generators sized and
+- Power designed around fuel, not just capacity. Generators sized and
   staged for the load they'll actually see rather than the worst case, so
   they're not idling at a fraction of capacity for three days burning diesel
   ⛔ *confirm I've described "farming generators" correctly*
@@ -322,7 +322,7 @@ a generator or will the house supply do?", "what happens if it fails?"*
 
 # Content, /services/content
 
-## We make the content as well as run the screens
+## We make content to suit the screens
 
 Content usually arrives from an agency or a freelance designer with no
 connection to the team running the show. Which is how it ends up in the wrong
