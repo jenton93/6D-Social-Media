@@ -387,92 +387,153 @@ scale.
 
 ## 4. Why us — CONFIRMED
 
-### The number that does the arguing
+### The trajectory
 
-**£1m turnover. Ten years. 2.5 staff. No website. No business cards.**
+| | |
+|---|---|
+| Pre-2024 | Founder solo, delivering **£400k a year** |
+| To January | 1.5 people |
+| Now | **£1m turnover** |
+| Growth | **~50% a year, every year since Covid** |
+| Marketing to date | No website. No business cards. None |
 
-Everything to this point has come from reputation and word of mouth inside a
-small trade market, with no marketing of any kind.
+Ten years, every job won on reputation and recommendation, growing at 50% a
+year. That's the proof, and it needs no adjectives.
 
-That is the proof. Not a supporting detail — the proof. And it inverts the
-competitive comparison in §3 completely.
+### ⚠️ Headcount is internal. It does not appear in public copy.
 
-White Event Production has 50+ five-star reviews. That's real, and it's earned.
-But it's the ordinary kind of evidence: a company that asked its clients to
-vouch for it. 6D has ten years of repeat trade business from people who chose
-to come back **without ever being marketed to, and without a website to check.**
+You've said it plainly: *"We don't want to sound too small. We have always
+punched above our size by a long way and have always played as if we have a
+bigger team."*
 
-To this audience — producers and in-house AV managers who buy on reliability
-and are professionally suspicious of anyone who sells too hard — that is a
-stronger signal. Every agency in this market knows exactly how hard it is to
-get rehired. Turnover built purely on rehiring is the only credential that
-can't be manufactured.
+That's commercially correct and the plan should respect it. An agency producer
+putting a 2,000-delegate conference out to a supplier is staking their own
+reputation on that choice. Perceived capacity is a screening criterion — fair
+or not, a supplier that reads as two people gets filtered out before anyone
+assesses whether they could actually deliver it.
 
-Revenue per head sits near £400k. In a business where the product is senior
-people being on site, that's not a footnote either — it's the mechanism behind
-"the same people turn up every time". There aren't layers to hide in.
+**So: never state or imply the size of the payroll. Anywhere.** Not on the
+site, not in a bio, not as a humblebrag in a LinkedIn post. It's not the
+interesting fact about this business and it costs work.
 
-**Use it once, plainly, and don't decorate it.** The temptation will be to
-build a whole campaign around "we never needed a website". Resist that — it
-curdles into a gimmick fast, and the voice guide's rule about neat lines
-applies with force here. Say it once on the About page and in the directors'
-LinkedIn bios, then let it sit.
+I had this wrong in an earlier draft and it's now removed everywhere.
+
+**But don't overcorrect into inventing a team either.** A fabricated
+"our 30-strong team" collapses the first time a producer walks into the unit,
+and in a market this small that story travels. The rule is *silence on
+headcount*, not fiction about it.
+
+### How to sound the right size without saying anything untrue
+
+The resolution is straightforward, and it's how the industry already works:
+
+> **In event production, scale is measured in crew on site, not staff on
+> payroll.**
+
+A production company's team legitimately includes its regular freelance crew.
+Every agency producer knows this and expects it — a core team with a deep,
+trusted bench is the standard model, not a workaround. So there is an entirely
+honest vocabulary for scale here:
+
+| Say this | Not this |
+|---|---|
+| "A crew of 28 across a four-day get-in" | anything about payroll |
+| "Grown 50% a year since 2020" | "we're a small team" |
+| "£1m of production delivered last year" | "just the two of us" |
+| "Ten years, every job from a recommendation" | "we punch above our weight" |
+| "The same senior team on every show" | "you'll get the owner" |
+
+Every line on the left is true, verifiable, and sounds like a company that can
+take a large show. **Crew numbers, delegate counts, get-in hours, truck counts,
+screen area, show days** — these are the scale metrics that matter to this
+buyer, and they're all ours to publish.
+
+### Seniority is the claim. Smallness is not.
+
+The thing being sold is that the senior people are on site and it's the same
+faces every time. That's a claim about **consistency and seniority** — and it
+does not require admitting to a headcount. Keep the two apart:
+
+- ✅ "The people who quoted your show are the people running it"
+- ✅ "The same crew chief on every one of your events"
+- ❌ "We're small enough that…" — cut this construction wherever it appears
+
+Positioning line drafts, revised accordingly:
+
+1. **"Big shows. The same people, every time."** ← recommended
+2. **"Large-scale event production, run by the people who actually turn up."**
+3. ~~"We're the size where the senior team is on site, not on email."~~ —
+   dropped, states the thing we're not saying
+
+Note your own line — *"due to our size we are able to deliver the service but
+due to our experience and expertise can deliver the scale"* — reads two ways
+depending on who's hearing it. Internally it means "small enough to care".
+A producer skimming a website may read "our size" as capacity. That ambiguity
+is useful, but don't rely on it: lead with the scale half.
+
+### What the ten-year record actually proves
+
+Strip out the headcount and it's stronger, not weaker:
+
+**Ten years. Every job from a recommendation. Never advertised.**
+
+To an audience that buys on reliability and is professionally suspicious of
+anyone selling hard, that's a better signal than published reviews. Every
+agency in this market knows how difficult it is to get rehired. Turnover built
+purely on rehiring can't be manufactured — and unlike a review, nobody was
+asked for it.
+
+**Use it once, plainly.** The temptation is a campaign built on "we never
+needed a website". That curdles into a gimmick fast. About page, directors'
+bios, then let it sit.
 
 ### What this changes about the job
 
-The strategy isn't building awareness from zero. **It's making a reputation
-that already exists legible to people who can't currently see it.**
+Not building awareness from zero — **making a reputation that already works
+legible to people who can't currently see it.**
 
-Different job, and it changes several things:
-
-- **The website's first job is conversion, not discovery.** Someone has been
-  told about us by a producer they trust and wants to check we're real before
-  they call. That visit has to land. It also gives a referrer something to
-  send, which they currently don't have — every recommendation made in the
-  last ten years has had nowhere to point
-- **The content's job is reach beyond the existing network**, into the
-  agencies and in-house teams who haven't yet been told by someone
-- **Over-polish is a genuine risk.** A slick marketing presence can undercut
-  the exact credibility being sold. The site and the posts should read like
-  they were made by the people who do the work — because they were. Plain,
-  specific, unglossy. That's not a style preference here, it's commercial
-- The market is small enough that we don't need volume. We need the right
-  hundred people to know
-
-### ⚠️ The capacity problem, stated honestly
-
-**2.5 staff running £1m of live events cannot also produce a weekly blog in
-September.** That's not pessimism, it's arithmetic — during the autumn and
-spring peaks the people who hold the knowledge are on site at 6am.
-
-The agreed cadence still stands, but it only survives if the system is built
-around that constraint rather than ignoring it:
-
-1. **Bank in the troughs.** July, August and the Christmas gap are production
-   season for content. Going into September with 8–10 posts written is the
-   only version of "weekly" that survives a busy autumn
-2. **Voice notes are essential, not optional.** `09-director-linkedin.md`
-   assumed a director would prefer talking to writing. At 2.5 staff it's the
-   only method that will actually happen. Ninety seconds in the van
-3. **Photography is passive capture.** Nobody schedules a shoot. Crew take
-   phone photos at every get-in, into one shared folder, and that folder feeds
-   Instagram and Facebook for a year
-4. **Assume nothing gets written in peak weeks.** Build the calendar so those
-   weeks draw on banked material. A cadence that only works in quiet months
-   isn't a cadence
-
-If it turns out even that's too much, the honest fallback is **one good post a
-fortnight, held for years** — which beats weekly for two months and then
-silence. Consistency is the thing being sold; the content shouldn't contradict
-it.
+- **The website's first job is conversion and referral**, not discovery.
+  Someone has been told about us by a producer they trust and wants to check
+  we're real. Ten years of recommendations have had nowhere to point
+- **The content's job is reach beyond the existing network** — the agencies
+  and in-house teams nobody has told yet
+- **Over-polish is a commercial risk.** A slick marketing presence undercuts
+  the credibility being sold. It should read like it was made by people who do
+  the work. Plain, specific, unglossy
+- Growing 50% a year means the site has to be built for where the business is
+  heading, not where it is
 
 ⛔ Still needed:
-- **What is "the next stage"?** More staff, bigger shows, direct clients,
-  a second location? The website and content should be built for where the
-  business is going, and this is the last piece of that picture
-- Headline proof numbers: biggest show delivered, shows per year, crew
-  numbers on the largest job, years trading
-- How many photos and videos of shows are already sitting on a drive?
+- **What is "the next stage"?** More staff, bigger shows, more direct clients,
+  a second location? Last piece of the picture
+- Headline show numbers: biggest show delivered, shows per year, largest crew
+  on site, largest screen area, longest get-in
+- How many show photos and videos are already on a drive?
+
+---
+
+## Internal note — production capacity (NOT public)
+
+A separate matter from how we present externally, and it only affects how the
+content gets made.
+
+A core team this size, delivering at this rate, will not be writing blog posts
+in September. That's arithmetic, not pessimism, and the system has to absorb
+it:
+
+1. **Bank in the troughs.** July, August and the Christmas gap are when
+   content gets made. Going into September with 8–10 posts written is the only
+   version of "weekly" that survives autumn
+2. **Voice notes, not writing.** Ninety seconds in the van. The only method
+   that will actually happen at this rate of delivery
+3. **Passive photo capture.** One shared folder, crew take phone photos at
+   every get-in. Nobody is scheduling a shoot and nobody needs to — this
+   industry photographs itself
+4. **Peak weeks publish from the bank**, never from a draft
+
+Fallback if weekly can't hold: **fortnightly, held for years.** In a market
+where consistency is the product, publishing weekly for two months then going
+quiet argues against us.
 
 ---
 
@@ -484,11 +545,68 @@ it.
 - Is there any existing writing that sounds right? Even an email you were
   pleased with. Two samples is enough to calibrate the voice properly.
 
-## ⛔ 6. Commercial targets
+## 6. Commercial targets — CONFIRMED
 
-- How many enquiries a month would make this worth doing?
-- What's a client worth over their lifetime?
-- Is there capacity to service more work right now, and how much?
+**The job of marketing is to continue 50% year-on-year growth.**
+
+That's a clear, testable brief, and it's unusually useful because it sets the
+bar for whether any of this is working.
+
+| | |
+|---|---|
+| Current | £1m |
+| Next year at 50% | **£1.5m** |
+| Gap to find | **£500k of new work** |
+
+Two things follow, and they matter more than any posting schedule.
+
+### Where the £500k comes from decides the content mix
+
+There are only three routes, and they need different content:
+
+1. **More work from existing clients** — the second sale. QEII Live and the
+   others already trust us; most of them aren't buying all six departments.
+   This is the cheapest £500k available and it needs the least content:
+   roughly one piece a month showing existing clients what they're not
+   yet buying (`03-content-pillars.md`, "The second sale")
+2. **New agencies and in-house teams** — the reach job. LinkedIn, point of
+   view, being visible to the people nobody has recommended us to yet
+3. **Bigger shows from the same buyers** — the proof job. Anonymised scale
+   numbers, crew counts, get-in complexity. Content that makes a producer
+   think *they could handle mine*
+
+⛔ **Which route are we betting on?** Growth has come from word of mouth so
+far, which is route 1 and 3 by default. If the answer is "mostly more of the
+same clients", the plan tilts hard toward the second sale and the whole thing
+gets easier. If it's "we need new logos", the reach job dominates and it takes
+longer. This changes the calendar materially.
+
+### The honest caveat about attribution
+
+Marketing will not be able to prove it caused this growth, and we shouldn't
+pretend otherwise. The business grew 50% a year for several years **with no
+marketing at all** — so the counterfactual is a moving target, and any claim
+that content delivered the growth would be unfalsifiable.
+
+What we can measure honestly:
+
+- Enquiries from people **nobody recommended us to** — the clean signal that
+  reach is working, and worth its own CRM field from day one
+- Second-department sales to existing clients, tracked against the content
+  aimed at them
+- Whether referrers now send a link, and what that link converts at
+- Branded search volume — people looking us up by name is the leading
+  indicator that reputation is spreading beyond the current network
+
+Set the "how did you hear about us?" field up properly before launch. Without
+it, a business that has always grown by word of mouth cannot tell word of
+mouth apart from marketing, and every number in the review becomes an opinion.
+
+⛔ Still needed:
+- Typical project value, and how far ahead shows get booked. £500k could be
+  five jobs or fifty, and that changes everything about the funnel
+- Is there capacity to deliver £1.5m, and what has to change to get there?
+  Content that generates work the business can't take is worse than no content
 
 ---
 

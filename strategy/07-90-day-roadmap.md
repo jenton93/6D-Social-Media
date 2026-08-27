@@ -17,7 +17,7 @@ makes the following eleven weeks worth doing.
 - [ ] Website: sitemap signed off, build started
 - [ ] GA4, Search Console, CRM source field, UTM convention live
 - [ ] **Set up passive photo capture** — one shared folder, crew take phone
-      photos at every get-in and load-out. Nobody at 2.5 staff is going to
+      photos at every get-in and load-out. Nobody in delivery is going to
       schedule a shoot, and they don't need to: this industry photographs
       itself. One properly organised folder feeds Instagram and Facebook for
       a year
@@ -81,9 +81,10 @@ were still publishing in month 3.
 ## A note on what this is actually for
 
 This business reached £1m in ten years with no website, no business cards and
-no marketing. The content plan isn't fixing something broken — it's making a
-reputation that already works legible to the people who can't currently see
-it, and giving every past client something to point at when they recommend us.
+no marketing, growing 50% a year since Covid. The content plan isn't fixing
+something broken — it's continuing that curve by making a reputation which
+already works legible to people who can't currently see it, and by giving
+every past client something to point at when they recommend us.
 
 That reframes the day-90 numbers above. A handful of enquiries is a normal
 result. The referrer who finally has a link to send, and the agency that

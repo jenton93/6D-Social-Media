@@ -9,7 +9,7 @@ outright — social platforms rent us an audience, the blog compounds.
 
 52 posts a year is enough to cover every question a buyer has, several times
 over, and enough for search to treat the site as active. It's also just about
-sustainable for a small team, which matters more than ambition: a blog that
+sustainable alongside delivery, which matters more than ambition: a blog that
 runs weekly for a year beats one that runs three times a week for six weeks
 and then stops. The stop is what does the damage.
 
@@ -18,9 +18,9 @@ Thursday is worth more than a great 2,000-word post that never gets finished.
 
 ### ⚠️ Read this before committing to weekly
 
-This is a 2.5-person business delivering £1m of live events. In September and
-October the people who hold the knowledge are on site at 6am, and no blog post
-is getting written that week. Weekly only works if it's built around that:
+The people who hold the knowledge are on site at 6am through September and
+October. No blog post is getting written those weeks. Weekly only works if
+it's built around that:
 
 - **Bank 8–10 posts across July, August and the Christmas gap.** Content
   production is a quiet-season activity here. Treat those weeks as the factory
