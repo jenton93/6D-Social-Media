@@ -25,7 +25,8 @@ and it was easier for everyone when we could.
 
 ## What we actually do
 
-Production management for large-scale events.
+Production management. Events of every size, and the bigger ones are where the
+experience shows.
 
 The kit matters, and we keep buying it. But what people are really buying is
 someone who has run a show this size before, knows what fails and when, and can

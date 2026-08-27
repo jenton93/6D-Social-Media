@@ -143,9 +143,8 @@ in a room where the back third can't read a slide.
 - **Analog Way switchers**, top of the range
 - **Fibre transmission**
 
-We don't usually lead with a kit list, but this is a technical reader and
-these are checkable. If you know what an Analog Way rack costs, you know what
-we're prepared to put on a show.
+Listed because they're checkable, and because if you know this kit you already
+know what it says about a spec.
 
 ### Redundancy as standard
 
@@ -323,12 +322,11 @@ a generator or will the house supply do?", "what happens if it fails?"*
 
 # Content, /services/content
 
-## We make the content, not just play it
+## We make the content as well as run the screens
 
-Most production companies put content on screens. They don't make it. So the
-material arrives from an agency or a freelance designer with no connection to
-the team running the show, and turns up in the wrong aspect ratio, or the
-wrong codec, or forty minutes before doors.
+Content usually arrives from an agency or a freelance designer with no
+connection to the team running the show. Which is how it ends up in the wrong
+aspect ratio, or the wrong codec, or forty minutes before doors.
 
 We design and build it ourselves.
 

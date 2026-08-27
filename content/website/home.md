@@ -4,8 +4,8 @@ url: /
 type: home
 job: verify          # primary, someone checking we're real. Secondary: cold
 target_keyword: event production company london
-meta_title: 6D Group, technical production for large-scale events
-meta_description: Production management for large-scale events. Set and staging, lighting, sound, video, power and content. Ten years, and every job came from a recommendation.
+meta_title: 6D Group, event production. Set, lighting, sound, video, power, content
+meta_description: Event production, from a single stand to a three-day conference. Set and staging, lighting, sound, video, power and content. Ten years, and every job came from a recommendation.
 og_image: og-home.jpg
 primary_cta: Talk to us about a show
 voice_check: draft, not yet read aloud
@@ -20,30 +20,30 @@ voice_check: draft, not yet read aloud
 
 ## Hero
 
-# Big shows. The same people, every time.
+# Event production.
 
-Technical production for large-scale events. Set and staging, lighting, sound,
-video, power and content.
+Set and staging, lighting, sound, video, power and content.
 
 **[Talk to us about a show]**
 
-<!-- Plain statement of the specialism, not a slogan. The site's first job is
-     letting someone confirm we're real, so the hero should tell them what we
-     do in three seconds rather than make a claim they have to evaluate.
-     "Production management" rather than "technical production": it's the
-     actual specialism and it's the harder thing to copy.
+<!-- Quiet on purpose. This is a white-label business that works behind
+     agencies and in-house teams, and a shouty hero would read as showing off
+     to exactly the people who most dislike it. A producer landing here already
+     knows what they need. They want to know what we do and whether we're
+     real, not to be sold to.
 
-     Pick-and-mix has come out of the hero. It was appearing here, in the
-     departments block, on What we do, on the services overview and on all six
-     department pages. Stated that often it reads as anxious rather than
-     generous. It now lives properly in one place, on the services page, and
-     the six separate department pages demonstrate it without announcing it.
+     Previous attempts and why they went:
+     · "Big shows. The same people, every time." — a claim, and it shouts
+     · "Production management for large-scale events" — gates out the single
+       stand, which is a job worth doing
+     · "From a single stand to a three-day conference" — the range is honest
+       but showing range is still showing off
 
-     Alternative hero if this reads too flat: "Big shows, run by the people
-     who quoted them." Says more, but it's a claim rather than a fact, and it
-     has to be earned further down the page anyway. -->
+     Confidence here comes from not needing to say more. The departments do
+     the explaining, the case studies do the proving.
 
----
+     ⛔ If it's too bare, the next quietest option is "We run the technical
+     side of events." Still a statement of fact, one degree warmer. -->
 
 ## Proof strip *(immediately under the hero, before any description)*
 
@@ -133,16 +133,16 @@ the person who quoted it, in the room, for the whole thing.
 
 ### Crew are hand picked for the event
 
-We don't put people we don't know into critical roles. That one doesn't bend.
+We don't put people we don't know into critical roles.
 
 After that it's about what the team needs rather than who's available. Every
 room has someone you trust in it. Someone who's good with a client. Someone
 who solves problems. Someone quiet who works through the list without being
 asked. Those are different people, and a team needs all of them.
 
-None of it is on a booking form. A form can tell you someone can operate a
-desk. It can't tell you whether they'll spot the problem before it becomes
-one, or how they'll be with your client at 4pm when the running order moves.
+None of that is on a booking form. A form can tell you someone can operate a
+desk. It can't tell you how they'll be with your client at 4pm when the
+running order moves.
 
 <!-- The "every large show has a moment, a projector dies, a truck is late"
      opener has moved to a blog post. It's an argument, and the homepage's job

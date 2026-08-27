@@ -44,6 +44,26 @@ These are the tells. Don't use them, don't paraphrase around them.
 - "That's where we come in." — instant credibility loss
 - "curated", "bespoke", "holistic", "synergy", "best-in-class"
 
+**⚠️ Register: quiet, not loud**
+
+This is a white-label business working behind agencies and in-house teams.
+Producers who buy that way are the people most put off by a supplier showing
+off, and they will read confidence in restraint rather than in volume.
+
+So: state facts, don't make claims. Let the reader draw the conclusion.
+
+| Too loud | Right |
+|---|---|
+| "Big shows. The same people, every time." | "Event production." |
+| "That one doesn't bend." | Just say the rule and stop |
+| "We make the content, not just play it" | "We make the content as well as run the screens" |
+| "That's the difference between forty people on site and a team of forty" | *(cut, it's a flourish)* |
+
+**The exception is the directors' own phrasing.** "Crew are hand picked for the
+event" and "calculated audio, not fly and hope" stay exactly as they are.
+Those aren't boasts, they're how these two talk, and the character is the
+point. The rule is about writer's flourishes, not about voice.
+
 **Banned punctuation**
 - **Em dashes. None, anywhere.** Comma, full stop or colon instead. If the
   sentence needs an em dash to work, the sentence needs rewriting
