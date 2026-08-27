@@ -112,8 +112,8 @@ This is the spine of the pillar. Everything else here is a variation on it:
 
 ### ⚠️ Publish the positive version
 
-**Aztec is a client as well as a competitor** — we supply crew to them
-(`00-brand-brief.md` §5c). The allocation argument above describes their
+**Aztec is a client.** We supply crew to them (`00-brand-brief.md` §5c), and
+that relationship comes before any argument we might want to make. The allocation argument above describes their
 operating model, and unnamed isn't the same as unrecognisable. Published as
 written, it puts a live commercial relationship at risk.
 

@@ -289,7 +289,13 @@ Two tiers of competitor, and they need completely different arguments.
 
 ### Tier 1 — The big operators
 
-**Encore · 4Wall · Aztec**
+**Encore · 4Wall · Aztec** — but see the warning below on Aztec.
+
+> **⚠️ Aztec is a client.** We supply crew to them (§5c). They appear here
+> because they compete for the same end-client work, not because they're a
+> target. Nothing published may describe, imply or invite criticism of how
+> they operate. When this brief refers to "the big operators" as a category,
+> Aztec is excluded from anything customer-facing.
 
 In your words: *"where they are too big to offer the service."*
 
@@ -361,7 +367,8 @@ consequential choice in the whole plan.
 ## Clients
 
 **QEII Live** (in-house AV team at the QEII Centre) · **Dancing Squirrel** ·
-**Evolution International** · **Select Brief**
+**Evolution International** · **Select Brief** · **Aztec** (crew supply — see
+§5c)
 
 Exactly the buyer profile described in §2: in-house AV teams and agencies.
 QEII Live in particular is a strong credential — a major London conference
@@ -807,10 +814,12 @@ argument, demonstrated. It can never be said publicly.)*
 
 ### ⚠️ The conflict: our best argument describes our client
 
+**Aztec is a client.** That comes first and it governs everything published.
+
 The allocation argument in §5b — pooled PMs who may not attend, techs booked
 by a crew booker filling a gap, kit specified from stock, margin underneath —
-describes how large operators work. **Aztec is a large operator, and Aztec is
-a customer.**
+describes how large operators work, and Aztec is a large operator. So the
+argument describes a paying customer.
 
 Even with the "attack the model, never the names" rule, there's exposure. If
 someone at Aztec reads a post describing their operating model as the problem,
