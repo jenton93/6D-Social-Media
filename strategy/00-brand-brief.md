@@ -550,6 +550,41 @@ And the line that carries it: **a form can tell you someone can operate a
 desk. It can't tell you whether they'll spot the problem before it becomes
 one.**
 
+### And the argument is strengthening on its own
+
+> *"Crew bookers are one step away from being AI replaced, and in a lot of
+> cases are using software to book crew already."*
+
+That matters strategically, not just rhetorically. **The differentiator gets
+stronger as the industry automates.**
+
+Booking software optimises for the three things it can measure: availability,
+certification, cost. Every criterion in the list above — client-facing,
+problem-solver, knows the building, knows this client's event, works well with
+these particular others — is invisible to it. Not badly handled. *Structurally
+invisible.*
+
+So as competitors automate to save cost, the gap between "allocated" and "hand
+picked" widens, and it widens in our favour. This is a moat that deepens
+without us doing anything.
+
+**Two cautions on using it publicly.**
+
+**1. The generic version is worthless.** "AI can't replace the human touch" is
+the most crowded take on LinkedIn and it would make us sound like everyone
+else. The strong version is specific: *here is exactly what the software
+optimises for, and here is what it cannot see.* Name the three inputs. Name
+what's missing. Let the reader conclude.
+
+**2. Target the system, not the bookers.** Crew bookers are mostly capable
+people working inside a model that doesn't let them do better, and some of
+them are contacts. Same rule as everywhere else: attack the model, never the
+people.
+
+⛔ *One precision point: we presumably use scheduling software ourselves. The
+claim isn't "we don't use tools" — it's "we don't delegate the judgement to
+one". Worth being exact, or someone will point it out.*
+
 This is a website section, a blog post, and a director post. Probably in that
 order, and probably this month.
 
