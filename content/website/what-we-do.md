@@ -39,8 +39,9 @@ need covering.
 - **Set, staging, video, lighting, sound and power**, together or separately
 - **Multiple rooms running at once**: plenary, breakouts, catering spaces,
   registration
-- **Speaker and content handling**: we take what presenters send, get it into
-  the right format, and have it ready in the room `‹ASSUMED›`
+- **Speaker and content handling**: presenters upload their slides to one
+  portal by a deadline, and we get everything into the right format and ready
+  in the room. Including the decks that need fixing, which is most of them
 - **Rehearsals**, and someone senior in the room when the running order moves
 - **The get-in planned around the venue's window**, not around ours
 

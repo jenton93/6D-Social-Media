@@ -198,17 +198,46 @@ into it. That sounds obvious. It's not how most shows are resourced.
 
 # Content, /services/content
 
-*The other department most clients source separately.*
-
-## The material that plays on the screens
-
-Made by the people running them.
+## The material that plays on the screens, made by the people running them
 
 Content usually comes from an agency or a freelance designer with no
 connection to the team operating the screens on the day. Then it arrives in
 the wrong aspect ratio, or the wrong codec, or forty minutes before doors.
 
-⛔ *What we actually make, motion graphics, holding slides, stings, video
-edits, presentation build and formatting?*
+We do both, so it doesn't.
 
-*[Same structure]*
+### What we do
+
+- **An upload portal** for your presenters. They send their slides to one
+  place, by a deadline, and we take it from there. No chasing attachments
+  round an inbox on the morning of the show
+- **Slide design**, built for the screen you're actually using rather than for
+  a laptop
+- **Slide fixing**, which is most of the job. Presenters send what they send.
+  We make it work on a 30-foot screen without changing what they wanted to say
+- **Intro videos and stings**
+- **Post-event editing**: the footage from the day, cut into something you can
+  use
+- **Full content design and management**, if you'd rather hand over the whole
+  thing
+
+### Can I take just this?
+
+Yes, and some clients do. One takes content from us and nothing else, for an
+event we don't otherwise touch.
+
+### Why it matters that it's the same team
+
+The people making the content are the people running the screens. So the
+format is right, the timing is right, and when a presenter turns up at 8am
+with a new version, the person fixing it is already in the room.
+
+### How pricing works
+
+*Same block as the other five pages.*
+
+### Questions we get asked
+
+⛔ *Three real ones from the questions bank. Likely candidates: "what if a
+presenter misses the deadline?", "can you work in our template?", "who owns
+the files afterwards?"*

@@ -75,9 +75,12 @@ you met beforehand.
 
 You leave with something usable.
 
-Most production companies pack the trucks and go. We edit what was captured, 
-⛔ *what exactly? highlights, full session recordings, photography, social
-cut-downs?*, so the event carries on being useful after the room is empty.
+Most production companies pack the trucks and go. We edit the footage from the
+day into something you can actually use afterwards, so the event carries on
+being useful after the room is empty.
+
+⛔ *Worth listing what that typically includes: highlights, full session
+recordings, social cut-downs?*
 
 ---
 
