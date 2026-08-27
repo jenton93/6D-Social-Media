@@ -27,15 +27,16 @@ working out whose responsibility something is.
 
 ### Why it's built this way
 
-Every department you add is one less supplier to brief, one less invoice, and
-one less conversation about who owns the problem when something goes wrong at
-4pm. That's the practical argument for consolidating.
+Take one department and it's priced as one. Nothing gets added because you
+didn't take the other five.
 
-But it only works if you're free not to. So we quote departments separately,
-and taking one is priced as one, with no penalty for the five you didn't take.
+Take more and it often costs less than buying the same departments from
+separate suppliers, because one crew and one set of vehicles cover several of
+them. Three suppliers sending three vans to the same loading bay is three lots
+of transport on your budget.
 
-Worth saying the other half too: taking more of them often costs less than
-buying them separately, because the crew and the transport are shared.
+And it's simpler. One supplier to brief, one invoice, and nobody arguing about
+whose problem it is when something goes wrong at 4pm.
 
 ---
 ---
