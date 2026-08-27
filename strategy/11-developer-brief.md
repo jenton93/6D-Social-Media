@@ -29,20 +29,45 @@ start, and each is a lookup rather than a piece of writing.
 
 ---
 
-## Scope — phase 1
+## Scope — recommended for launch
 
-Eight pages. Finished beats extensive.
+Eight pages, not the fourteen in the January brief. Copy is the bottleneck and
+a half-finished site recreates the exact problem we're solving. Six thin pages
+also rank worse than one strong one.
 
 ```
-/                      Home
-/services              Overview
-  /services/<six>      Set & Staging · Lighting · Sound · Video · Power · Content
-/about                 Who we are
-/work                  Case studies index + individual case studies
-/blog                  Index + posts
-/contact               Form + details
-/credentials           Company info, insurance, policies  (footer link)
+/                     Home
+/what-we-do           Six event types as sections on one page
+/services             Six departments as sections on one page
+/how-we-work          The six steps
+/work                 Case studies
+/about                ← add this. Missing from the January brief
+/contact
+/credentials          Footer link
 ```
+
+**Build the navigation with room for phase 2** — individual event-type pages,
+individual service pages, and trade hire — so none of it is retro-fitted.
+
+**Build the event-type pages first** if anything has to wait. That's how
+buyers search — a producer looks for "conference production company", not
+"lighting hire". Service pages serve the existing client discovering the other
+departments, and the technical reader checking depth.
+
+**Trade hire** comes later — build the navigation with room for it now.
+
+**Brand:** green and black on white. **Audiowide** for display/logo, **Arimo**
+for body. Both Google Fonts.
+⛔ *Exact green hex needed — the unit signage photographs as cyan under its
+LEDs, so I can't sample it reliably.*
+
+**Contact:** +44 20 4583 8080 · Info@6d-group.com
+
+**Note on the reference sites** (whitepd.com, redeventproduction.co.uk): take
+the structure, not the styling. Both are direct competitors, and a site that
+looks like a third version of the same thing makes the choice between them
+feel arbitrary. The black/green/Audiowide combination is already more
+distinctive than either — lean on it.
 
 ---
 

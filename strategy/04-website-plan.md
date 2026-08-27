@@ -43,36 +43,147 @@ Any page that doesn't serve one of these two jobs is a page we don't need yet.
 
 ---
 
-## Sitemap — phase 1 (launch)
+## Sitemap — recommended
+
+The January brief had 14+ pages. I'd cut it to eight for launch, and here's
+the reasoning before the structure.
+
+**Copy is the bottleneck, and it has been for eight months.** A 14-page site
+needs twelve substantial pages of writing from the two people with the least
+time in the business. A site that's perpetually 70% finished is exactly what
+"they don't really exist" looks like — which is the problem we're solving, so
+building something that recreates it would be a poor trade.
+
+There's also an SEO argument, not just a capacity one: **six thin pages rank
+worse than one strong one.** Splitting "what we do" into six pages before
+there's enough to say on each produces six pages Google treats as thin
+content. Split them later, when there's real material and real search data
+saying which ones matter.
 
 ```
-/                      Home
-/services              Overview + links to each
-  /services/<service>  One page per core service   ← the money pages
-/about                 Who we are, why we exist
-/work                  Case studies index
-  /work/<project>      Individual case studies
-/blog                  Index
-  /blog/<post>         Posts
-/contact               Form + direct details
-/credentials           Company info, insurance, accreditations, policies  ← procurement
+/                     Home
+/what-we-do           Six event types, as sections on one page
+/services             Six departments, as sections on one page
+/how-we-work          The six steps
+/work                 Case studies
+/about                ← missing from the January brief. See below
+/contact
+/credentials          Footer link
 ```
 
-`/credentials` closes off a category of objection cheaply. Keep it in
-proportion: nobody is currently rejecting us over a missing certificate,
-they're rejecting us over nothing coming up in a search. Build it because it
-takes a day, not because it's the fix. Footer link is enough; main nav only if
-corporate clients start asking.
+**Phase 2, once there's evidence:** split out individual event-type pages,
+starting with the two that matter commercially. Then services. Then trade
+hire. Building the navigation now with room for all of it costs nothing.
 
-Phase 2 (month 3+, only if the data justifies it): sector landing pages,
-resources/downloads, careers, FAQ hub, pricing.
+### ⚠️ The brief has no About page, and that's the biggest gap in it
 
-Don't build phase 2 first. An eight-page site that's finished beats a
-thirty-page site that's half-written, and half-written is what always happens.
+The site's primary job is proving the company is real
+(`10-the-three-jobs.md`, Job 3). About is *the* page that does that — ten
+years, every job from a recommendation, the directors named and photographed,
+the crew behind them.
+
+A brochure site with no About page reads as a company that doesn't want to say
+who it is, which is the opposite of the required effect. **If one page had to
+be perfect, it's this one.**
+
+### On weighting the six event types
+
+Don't give all six equal billing. Corporate conferences and awards are the
+business; Festivals and Install are real but smaller. A site that presents six
+equal specialisms reads as a company claiming everything, which reads as a
+company specialising in nothing — and that's precisely the impression we can't
+afford.
+
+Order them by what we actually do most of, and let the depth of each section
+reflect it. ⛔ *Rough percentages would help here.*
+
+### Keep portfolio and blog separate
+
+The January brief had them combined. They're doing different jobs: `/work` is
+case studies proving capability, `/blog` is a weekly publication feeding the
+content plan. Combining them now makes an awkward split later, and it costs
+nothing to separate at build time.
+
+### The sixes
+
+Six event types. Six services. Six steps. It's a real device, it's ownable,
+and it gives the site a structure that isn't accidental. Use it — but let it
+be noticed rather than explained. A line anywhere saying "notice a theme?"
+kills it instantly.
+
+### ⚠️ The event-type pages matter more than the service pages
+
+This wasn't in my earlier draft and it's the more important half of the site,
+because **it's how buyers actually think and search.**
+
+A producer with a conference to deliver searches "conference production
+company", not "lighting hire". They arrive with an event, not a shopping list
+of departments. So:
+
+- **Event-type pages carry the SEO and the conversion.** Each one targets a
+  real search with buying intent behind it
+- **Service pages carry the second sale** — the existing client who came for
+  set and video and doesn't know about the other four (`10-the-three-jobs.md`,
+  Job 1). They're also where a technical reader goes to check depth
+- Every event-type page links to the departments it typically uses; every
+  service page links back to the event types it's used on
+
+If time is short, **build the event-type pages first.**
+
+Note also that **Festivals** and **Install** are new information — the brief
+had corporate conferences and awards as the main event type. Install in
+particular is a different business with different buyers and, potentially,
+recurring revenue. ⛔ *Worth saying how much of the business each of the six
+actually represents, so the pages get weighted accordingly rather than all
+treated equally.*
 
 ---
 
-## Page-by-page
+## The six steps
+
+> Work out objectives → speak to the team → site visit → design the event and
+> create the content → event runs → collate and edit post-event content
+
+This is the best thing in the brief and it's being under-used as a website
+graphic.
+
+**Why it's strong:** it's a process, which is what "production management"
+actually means (`00-brand-brief.md` §1). It's concrete where competitors are
+vague. And it answers the backup question implicitly — a supplier with a
+defined process looks like a company, which is precisely the problem the site
+exists to solve.
+
+**Step 6 is the differentiator nobody else lists.** Collating and editing
+post-event content means the client leaves with something usable, and most
+production companies simply pack the trucks and go. It's also a neat loop:
+step 6 produces the material that feeds the client's marketing — and ours
+(`03-content-pillars.md`, Proof).
+
+Put the six steps on the homepage, and give each one a sentence on a dedicated
+"how we work" section or page. Each step is also a blog post.
+
+---
+
+## ⚠️ On the inspiration sites
+
+whitepd.com and redeventproduction.co.uk are the two closest competitors
+(`00-brand-brief.md` §3). Using them as reference is sensible for *structure*
+— they've solved the same navigation problem and it's worth seeing how.
+
+But be careful about taking the *look*. A site that reads as a third example
+of the same thing makes the choice between the three feel arbitrary, and White
+in particular has a decade of published proof to lose that comparison against.
+
+The good news is the brand already separates itself: **black ground, green
+accent, white space, Audiowide display type.** That's a more distinctive
+starting point than either reference site. Lean on it rather than moderating
+it toward the category norm.
+
+Worth saying to Will explicitly: *take the structure, not the styling.*
+
+---
+
+## Page-by-page## Page-by-page
 
 ### Home
 - **Above the fold:** a plain sentence saying what we do and who for. No
