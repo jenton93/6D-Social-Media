@@ -36,29 +36,26 @@ many people are on the books, which is the better argument and the one only
 you can make. Never publish an annual total: a hundred names across a year
 reads as a pool, which is the model we're arguing against.*
 
-### Three shows, six numbers each
+### Three shows: a photograph and six numbers each
 
-Rough is fine. Answer as a text message, not a document:
+The photograph matters most. It proves the show happened at that scale faster
+than a paragraph can, and it's the first thing a producer looks at.
 
-> *Conference, financial services client. 1,600 in the main room, two
-> breakouts. 11-hour get-in. 28 crew. Nightmare was the loading bay being
-> shared with a hotel so we could only get one truck in at a time.*
+Then, rough is fine:
 
-1. What kind of event, roughly who for
-2. How many people in the room
-3. How many rooms or spaces
-4. How long you had for the get-in
-5. How many crew on site
-6. **What was difficult** ← the one that matters
+1. Event type and roughly who for
+2. People in the room
+3. Rooms or spaces
+4. Get-in hours, and days on site
+5. Crew on site
+6. Which departments
 
-Without the last one it's a description. With it, it's evidence. A show where
-nothing went wrong proves far less than one where something did and was
-handled, and it's the part a producer actually reads, because they've had the
-same problem.
+**No story about how difficult it was.** It wasn't, and framing routine work
+as a struggle undersells it.
 
-**Pick:** one large conference · one where something went wrong and got solved
-· the content-only client. T2RL makes a fourth, and it hasn't happened yet, so
-the capture can be planned rather than reconstructed.
+**Pick:** one large conference, one that shows a different kind of room, and
+the content-only client. T2RL makes a fourth, and it hasn't happened yet, so
+the photography can be planned rather than reconstructed.
 
 ### Permissions, send these emails now, not after the build
 - [ ] QEII Live, Dancing Squirrel, Hemming Group, T2RL, written OK to name

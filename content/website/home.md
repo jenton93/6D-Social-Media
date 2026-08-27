@@ -158,38 +158,37 @@ That's the difference between forty people on site and a team of forty.
 
 ## Case studies
 
-*Three, in this shape. Numbers first, then the thing that was difficult, then
-what happened. For this reader the constraints prove more than a logo does, so
-these work anonymised where a client hasn't agreed to be named.*
+*Picture first, then the numbers. No narrative about how hard it was, because
+it wasn't, and saying so undersells the job. A company that treats a
+1,400-delegate conference as routine reads as more capable than one describing
+it as a challenge overcome.*
 
 ---
+
+**⛔ [Photograph of the show. The room from the audience position, or the build.]**
 
 **⛔ [Show type, and roughly who for]**
 
 ⛔ *1,400 delegates · main auditorium and two breakouts · 14-hour get-in ·
 crew of 22 · three days on site*
 
-⛔ *One or two lines on what made it difficult. Then one on what happened.*
+⛔ *One line on what was delivered, or anything genuinely worth noting.*
 
 **[Read the full story]**
 
 ---
 
-**⛔ [Show type, and roughly who for]**
+**⛔ [Photograph]**
 
-⛔ *numbers*
-
-⛔ *the difficult bit, and the outcome*
+**⛔ [Show type]** · ⛔ *numbers* · ⛔ *one line*
 
 **[Read the full story]**
 
 ---
 
-**⛔ [Show type, and roughly who for]**
+**⛔ [Photograph]**
 
-⛔ *numbers*
-
-⛔ *the difficult bit, and the outcome*
+**⛔ [Show type]** · ⛔ *numbers* · ⛔ *one line*
 
 **[Read the full story]**
 
@@ -197,31 +196,12 @@ crew of 22 · three days on site*
 
 **[See all our work]**
 
-> ⛔ **Six numbers per show and I'll write all three.** Event type and roughly
-> who for, people in the room, rooms or spaces, get-in hours, crew on site,
-> and what was difficult. Rough is fine, nobody audits a delegate count.
+> ⛔ **What I need per show, and it's simpler than before:**
+> a photograph, the event type and roughly who for, people in the room, rooms
+> or spaces, get-in hours, crew on site, days on site.
 >
-> Pick: one large conference, one where something went wrong and got solved,
-> and the content-only client. The middle one is the most persuasive thing
-> that will go on this site, and it's the one nobody publishes.
-
----
-
-## Who we are
-
-6D started as a lighting company and grew into everything around it. Ten
-years on, the people who started it are still the people running the shows.
-`‹ASSUMED›`
-
-**Jenton Hollingum** and **Christian Murphy** run the company and run the
-shows. ⛔ *roles, and a line each on what they've done* `‹ASSUMED they're both
-client-facing on site›`
-
-⛔ *A photograph of the two of you. Doesn't need a photographer, a decent
-phone shot in the unit is better than a studio portrait, and more in keeping
-with everything else on the site.*
-
-**[More about us]**
+> The picture does most of the work here. Numbers prove scale, the photo
+> proves it happened, and neither needs a story attached.
 
 ---
 

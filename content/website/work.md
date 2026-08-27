@@ -21,45 +21,42 @@ voice_check: draft
 
 ## The format
 
-Numbers first. For this reader, a producer working out whether we can cope
-with theirs, the constraints prove more than the client's logo does.
+Photograph, then numbers. No account of how difficult it was, because it
+wasn't, and framing routine work as a struggle undersells it.
 
-> ### ⛔ *Show name or "A three-day conference for a professional services client"*
+> ### ⛔ *Photograph. The room from the audience position, or the build.*
+>
+> ### ⛔ *Show type, and roughly who for*
 >
 > **1,400 delegates · main auditorium plus two breakouts · 14-hour get-in ·
 > crew of 22 · 3 days on site**
 >
-> **The problem.** *Two or three sentences. What made this one difficult, 
-> the room, the schedule, the late change, the thing that broke.*
+> *One or two sentences on what was delivered. Departments used, anything
+> genuinely worth noting.*
 >
-> **What we did.** *Three or four sentences. Concrete. What was actually
-> decided and by whom.*
->
-> **What happened.** *One or two sentences, with a number if there is one.*
->
-> **What they said.** *A quote, if we have one. If not, leave it out rather
-> than paraphrasing.*
+> *A client quote if we have one. If not, leave it out rather than
+> paraphrasing.*
 
 ## What I need from you, per show
 
-Six things, and rough is fine:
+A photograph, and six figures. Rough is fine:
 
 1. Event type and roughly who it was for
 2. Delegates or capacity
 3. Rooms or spaces
 4. Get-in hours, and days on site
 5. Crew on site
-6. **The thing that was difficult** ← the most important one
+6. Which departments
 
-That last item is what makes a case study worth reading. Without it you have a
-description; with it you have evidence. A show where nothing went wrong proves
-far less than a show where something did and it was handled.
+The photograph is doing most of the work. It proves the show happened at that
+scale far faster than a paragraph can, and it's the one thing on the page a
+producer will look at before reading anything.
 
 ## Which three to pick
 
 - **One large conference**, the core business, proves scale
-- **One where something went wrong** and was solved. The most persuasive
-  thing on the site, and the one everyone avoids publishing
+- **One that shows a different kind of room** to the first, so the two aren't
+  interchangeable
 - **One single-department job**, Hemming Group, Content only. Proves
   pick-and-mix is real rather than a claim
 
