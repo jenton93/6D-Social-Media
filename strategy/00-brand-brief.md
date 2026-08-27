@@ -95,35 +95,108 @@ buying yet. Expect that to become a content pillar of its own.
 
 ---
 
-## 2. Who buys it — CONFIRMED IN OUTLINE
+## 2. Who buys it — CONFIRMED
 
-**All four buyer types, and the model is both crewed production and dry hire.**
+In your words:
 
-| Buyer | What they're buying | What the content has to do |
-|---|---|---|
-| **Event & creative agencies** | A technical partner who won't embarrass them in front of their client | Prove reliability and discretion. They need to trust us with their reputation |
-| **End clients direct** | Someone to take the whole technical problem away | Educate. They don't know what they don't know, and price needs framing |
-| **Other production companies** | Kit and crew, cross-hire | Availability, condition, competence. Trade-to-trade, no marketing gloss |
-| **Venues, festivals & promoters** | A supplier who knows the building or the site | Show we've worked the room. Very location-specific |
+> *"We provide event production for agencies, venues and in a small way end
+> clients. Specialising in production management for large scale events. We
+> support agencies and in-house AV companies providing equipment and technical
+> services where shows grow beyond the scope of delivering the event in house.
+> We also deliver work to end clients who struggle with consistency of large
+> companies and in-house suppliers. Due to our size we are able to deliver the
+> service but due to our experience and expertise can deliver the scale."*
 
-**Primary event type: corporate conferences and awards.**
+That paragraph is the strategy. Three things in it change everything
+downstream.
 
-That's a significant strategic fact, because it makes the business seasonal in
-a predictable way — UK corporate events peak roughly September–November and
-February–March, with a dead July/August and a dead late December. Content has
-to be published *ahead* of the booking cycle, not during the busy season when
-nobody has time to write it. See `05-blog-plan.md`.
+### a) The specialism is production management, not kit
 
-It also confirms LinkedIn as the right primary channel: agency producers,
-event managers and internal comms leads all live there.
+"Specialising in production management for large scale events" is a different
+business from hiring out lighting. It means the thing being sold is judgement:
+knowing how a 2,000-delegate conference actually goes together, what fails,
+what to do when it does.
 
-⛔ Still needed on this section:
-- Which of the four is the biggest share of revenue today, and which do you
-  *want* to grow? They pull the content in different directions and we should
-  pick deliberately rather than serve all four equally
-- For the agency buyer: is it a handful of agencies doing repeat work, or a
-  long tail? Repeat relationships change the strategy completely
-- For the direct buyer: what job title signs it off?
+**Consequence for content:** we do not lead with kit lists. Kit is table
+stakes and every competitor has the same catalogue. We lead with how large
+shows are run, and the kit shows up as evidence rather than as the offer.
+This is what makes the content genuinely hard for a competitor to copy — they
+can rent the same screens, they can't fake twenty years of get-ins.
+
+### b) The core buyer is a professional whose show has outgrown them
+
+Not a naive client. An **agency producer** or an **in-house AV manager** —
+someone competent, who does this for a living, and who has hit the point where
+this particular show is bigger than what they can deliver in-house.
+
+That is a specific, findable, high-value moment, and almost nobody markets to
+it. The industry markets to the end client. We can market to the professional
+who needs backup — and crucially, that person is *not* embarrassed to need
+help on a big one, they just need to know who to call before they're forced to
+decide in a hurry.
+
+**Consequence for content:** the primary reader is a peer, not a prospect.
+Write to someone who knows the job. No explaining what a truss is. The tone is
+one professional talking to another about the shows that get difficult — which
+happens to be the easiest kind of content to make sound human, because it's
+just shop talk.
+
+### c) The end-client pain is consistency, not capability
+
+End clients don't leave the big suppliers or the venue in-house team because
+those firms can't do it. They leave because they get a different crew every
+time, and the standard moves.
+
+**Consequence for content:** for the direct-client audience the argument is
+never "we're better". It's "it's the same people, every time, and they already
+know your show".
+
+---
+
+### The positioning line
+
+> *"Due to our size we are able to deliver the service but due to our
+> experience and expertise can deliver the scale."*
+
+Small enough that you get the senior people. Experienced enough to run
+something big. That's the whole proposition and it should sit at the top of
+the website.
+
+Drafts to choose between (all need saying out loud before picking):
+
+1. **"Big shows. The same people, every time."**
+2. **"Large-scale event production, run by the people who actually turn up."**
+3. **"We're the size where the senior team is on site, not on email."**
+
+⚠️ A caution from `01-voice-and-tone.md`: the size/scale antithesis is neat,
+and neat is exactly what starts sounding like marketing after the third
+reading. Use it *once*, on the homepage, then spend the rest of the site
+proving it with named shows and named people. If the claim appears in every
+post it stops being a position and becomes a slogan.
+
+---
+
+### Buyer priority
+
+| | Buyer | Share | Content weight |
+|---|---|---|---|
+| 1 | **Agencies** | Primary | Highest. Peer-to-peer, proof of reliability |
+| 2 | **Venues & in-house AV teams** | Primary | High. The overflow partner angle |
+| 3 | **Other production companies** | Cross-hire | Medium. Trade-to-trade, plain |
+| 4 | **End clients direct** | Small | Low-medium. Consistency argument |
+
+Note that 1 and 2 are the same conversation from two directions: a competent
+professional with a show that's got too big. That's convenient — it means most
+content serves both without being written twice.
+
+⛔ Still open:
+- Is growing the direct end-client share a deliberate goal, or is agency and
+  venue work the business you want more of? This changes the balance
+- Are the agencies a handful of repeat relationships or a long tail?
+- Which venues do we work in regularly? Venue-specific content is unusually
+  effective, because producers search for the building by name
+
+---
 
 ## ⛔ 3. The market
 
