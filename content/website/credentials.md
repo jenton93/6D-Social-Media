@@ -6,6 +6,9 @@ job: verify
 voice_check: draft
 ---
 
+> ✅ **Will already has the company documents.** This page is a layout for what
+> he holds, not a request for anything. Left here so the structure is agreed.
+
 # Credentials
 
 > Written for a finance or procurement reader. Plain, complete, forwardable.
