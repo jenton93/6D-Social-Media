@@ -507,6 +507,46 @@ side's case for them.
 you handle something the size of mine?* — and it does it with a number that's
 checkable and impressive. The annual figure answers nothing good.
 
+### The real answer isn't a number — it's how the crew gets picked
+
+Your words, and this is the strongest material in the entire brief:
+
+> *"We have a few very regular names. We don't put people we don't know in
+> roles that are critical. We build teams that complement. It's not a game of
+> the system says they can operate a bit of kit so they get booked. Things
+> that are hard to measure — are they client facing, is there a problem
+> solver, do they muck in, is there someone with lots of knowledge, people who
+> know the event, people who know the space, people who work well together.
+> All factors, and far more important than their price and if the form says
+> they can operate a bit of kit."*
+
+**Stop looking for a crew number. Publish this instead.**
+
+It works for three reasons:
+
+1. **It's the actual differentiator.** Not bench size — selection method. A
+   large operator books from a database: available, certified, cheapest. We
+   compose a team for the show
+2. **Every criterion listed is one a booking system structurally cannot
+   hold.** Client-facing. Problem solver. Mucks in. Knows this venue. Knows
+   this client's event. Works well with the others. None of that is a field on
+   a form — which is exactly why the allocation model can't replicate it, even
+   with more people and more money
+3. **It's unfakeable and it's checkable.** A producer reads it and thinks
+   *yes, that's the difference between the good shows and the bad ones* —
+   because they've been on both
+
+**"We don't put people we don't know in critical roles"** is the single best
+sentence available to us. It's a policy, not a claim — concrete, testable, and
+it answers the resilience objection more directly than any headcount could.
+
+And the line that carries it: **a form can tell you someone can operate a
+desk. It can't tell you whether they'll spot the problem before it becomes
+one.**
+
+This is a website section, a blog post, and a director post. Probably in that
+order, and probably this month.
+
 ### So what does continuity actually rest on?
 
 If the bench is 100 names, "the same people every time" needs to be precise

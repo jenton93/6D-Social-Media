@@ -190,10 +190,18 @@ pillar that answers it, and it currently doesn't exist.
 The argument in Pillar 3 wins the debate. This one proves the depth is real —
 without ever disclosing a payroll.
 
-- **The crew bench.** Named, regular, trusted freelancers, and how long we've
-  worked together. A deep repeat bench is how this entire industry resources
-  large shows; the difference is ours are chosen, theirs are allocated. This is
-  the single most convincing Job 3 content available to us
+- **How a crew gets picked.** ← *the best single piece of content available*
+  Not bench size — selection method. We don't put people we don't know into
+  critical roles. After that it's composition: client-facing, problem-solver,
+  knows the venue, knows this client's event, works well with the others.
+  **Every one of those is something a booking system structurally can't hold**,
+  which is exactly why the allocation model can't replicate it. A form can tell
+  you someone can operate a desk; it can't tell you whether they'll spot the
+  problem before it becomes one.
+  Website section, blog post and director post — probably in that order
+- **Never publish an annual crew count.** A hundred names across a year reads
+  as a pool, which argues the other side's case. Scale is per show: "crew of
+  40 on site"
 - **Redundancy.** What spares travel, what the plan B is on critical kit, what
   we carry that you'll never see. Concrete and checkable
 - **Continuity, evidenced.** The same people on the same client's shows across

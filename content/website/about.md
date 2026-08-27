@@ -61,13 +61,15 @@ convincing.*
 One of us is on every show. Not a project manager allocated the week before —
 whoever quoted it, in the room, start to finish.
 
-Behind that is a crew chosen per show rather than filled from a rota, and who
-mostly go back to the same clients because they already know the building and
-the running order. On a large conference that's ⛔ *number* people on site.
+Behind that is a crew we build per show. We don't put people we don't know
+into critical roles, and we don't book from a list of who's free.
 
-⛔ *One number would help: of the freelancers you use across a year, how many
-are the regulars you call first? Don't publish the annual total — a hundred
-names reads as a pool, which argues the opposite of what we want.*
+What we're actually looking for is harder to write down than a kit
+qualification: someone client-facing, someone who solves problems, someone who
+knows the building, someone who did this client's show last year, and people
+who work well together. A booking form doesn't have fields for any of that.
+
+⛔ *Per-show crew figure for a recent job — T2RL is 40. Never an annual total.*
 
 ---
 

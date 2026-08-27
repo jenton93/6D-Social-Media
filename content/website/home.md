@@ -134,19 +134,24 @@ the same crew next time.
 One of us is on every show. Not a project manager assigned the week before —
 the person who quoted it, in the room, for the whole thing.
 
-Behind that is a crew we choose per show rather than fill from a rota, and
-who mostly come back to the same clients because they already know the room.
-On T2RL this month that's **40 people on site**. `‹ASSUMED — swap in whichever
-show you'd rather quote›`
+### And we don't book crew from a list
 
-> **Note:** we deliberately don't quote a total crew number. A hundred names
-> across a year reads as a pool, which is precisely the thing we're arguing
-> against. Per-show numbers answer the real question — *can you handle
-> something the size of mine?* — and they're checkable.
->
-> ⛔ *One number would sharpen this: of the freelancers you use, how many are
-> the regulars you call first? That's the honest bench and it's a far better
-> figure than 100.*
+We don't put people we don't know into critical roles. That one doesn't bend.
+
+After that it's about what the team needs, not what's available. Is someone
+client-facing? Is there a problem-solver in there? Someone who knows this
+venue? Someone who did this client's event last year? Will these particular
+people work well together?
+
+None of that is on a booking form. A form can tell you someone can operate a
+desk. It can't tell you whether they'll spot the problem before it becomes
+one, or whether they'll muck in when the schedule slips at 4pm.
+
+That's the difference between forty people on site and a team of forty.
+
+> ⛔ *Swap in a real show for the number — T2RL is 40 crew. Never quote an
+> annual or total crew figure: a hundred names across a year reads as a pool,
+> which is the model we're arguing against.*
 
 ---
 
