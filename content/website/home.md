@@ -156,36 +156,54 @@ That's the difference between forty people on site and a team of forty.
 
 ---
 
-## Recent work
+## Case studies
 
-*No logo strip. There aren't enough names cleared yet, and a sparse row of
-logos draws attention to how few there are rather than to the work. It also
-makes the whole section wait on permissions.*
+*Three, in this shape. Numbers first, then the thing that was difficult, then
+what happened. For this reader the constraints prove more than a logo does, so
+these work anonymised where a client hasn't agreed to be named.*
 
-*Descriptive instead, which is stronger for this reader anyway: a producer
-sizing us up cares about the constraints, not the client's brand. Four lines,
-no permissions needed, and it can carry logos later once enough are cleared.*
+---
 
-**A three-day conference across three rooms.**
-1,400 delegates, 14-hour get-in, crew of 22. ⛔ *real numbers*
+**⛔ [Show type, and roughly who for]**
 
-**A corporate recognition event built as a festival.**
-Full technical delivery, ⛔ *scale, site, departments*
+⛔ *1,400 delegates · main auditorium and two breakouts · 14-hour get-in ·
+crew of 22 · three days on site*
 
-**Production crew and management on a major independent festival.**
-⛔ *what we supplied, how many crew*
+⛔ *One or two lines on what made it difficult. Then one on what happened.*
 
-**Content only, for a client who uses us for nothing else.**
-⛔ *what we make for them, and how long it's been running*
+**[Read the full story]**
 
-That fourth one is worth including precisely because it's small. It's the
-clearest proof that pick and mix is real rather than a claim.
+---
 
-**[See more of our work]**
+**⛔ [Show type, and roughly who for]**
 
-⛔ *Six numbers per show and I'll write these properly: event type, delegates
-or capacity, rooms, get-in hours, crew on site, and the thing that was
-difficult. Rough is fine.*
+⛔ *numbers*
+
+⛔ *the difficult bit, and the outcome*
+
+**[Read the full story]**
+
+---
+
+**⛔ [Show type, and roughly who for]**
+
+⛔ *numbers*
+
+⛔ *the difficult bit, and the outcome*
+
+**[Read the full story]**
+
+---
+
+**[See all our work]**
+
+> ⛔ **Six numbers per show and I'll write all three.** Event type and roughly
+> who for, people in the room, rooms or spaces, get-in hours, crew on site,
+> and what was difficult. Rough is fine, nobody audits a delegate count.
+>
+> Pick: one large conference, one where something went wrong and got solved,
+> and the content-only client. The middle one is the most persuasive thing
+> that will go on this site, and it's the one nobody publishes.
 
 ---
 

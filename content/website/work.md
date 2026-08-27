@@ -67,8 +67,13 @@ far less than a show where something did and it was handled.
 `00-brand-brief.md`, "I'm sure we can" isn't it, especially for the
 white-label relationships.*
 
-## Later
+## It builds from here
 
-One case study a month, drawn from step 6 of the process, the post-event
-content collation. That's the loop: the thing we already do for clients
-becomes the thing that wins the next client.
+Three at launch, then one a month, drawn from step 6 of the process. That's
+the loop: the post-event content we already produce for clients becomes the
+thing that wins the next one.
+
+Which means the page gets stronger on its own, without anyone setting aside
+time to write case studies. After a year there are fifteen, covering every
+department and every event type, and a producer can find one that looks like
+their show.
