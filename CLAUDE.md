@@ -96,6 +96,9 @@ analytics/    metrics-log.csv · monthly-review.md
 ## Working conventions
 
 - Branch: `claude/social-blog-content-strategy-yimpq5`
+- Repositories are moving from `jenton93/` to a **6D Group organisation**. If
+  access fails, it's the org authorisation step (see `START-HERE.md`), not a
+  broken repo
 - Commit whenever meaningful work is done; keep messages factual
 - Mark assumptions `‹ASSUMED›` and hard gaps `⛔`. **Never hand back a blank
   template** — copy stalled for eight months that way. Write it through and

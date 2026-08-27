@@ -6,9 +6,13 @@ and the rules. You don't need to explain any of it.
 
 ## Getting in
 
-1. GitHub access to `jenton93/6D-Social-Media` — Jenton can add you
-2. Go to **claude.ai/code**, pick this repository, and start a session
+1. GitHub access to this repository — Jenton can add you
+2. Go to **claude.ai/code**, pick the repository, and start a session
 3. Branch: `claude/social-blog-content-strategy-yimpq5`
+
+> **Note:** the repositories are moving from Jenton's personal GitHub account
+> to a 6D Group organisation. If Claude can't see the repo after that, it's
+> almost certainly the org-access step below rather than anything broken.
 
 ## The single most useful thing you can do
 
@@ -36,6 +40,19 @@ kept.
 - *"I disagree with this because…"* — genuinely useful. Several of the best
   decisions in here came from Jenton pushing back, and it changes the plan and
   writes down why
+
+## If Claude can't see the repository
+
+After the move to an organisation, GitHub access has to be granted at the
+**org** level — being a member isn't enough on its own. An org owner does it
+once:
+
+- **claude.ai → Settings → Connectors → GitHub**, and authorise the 6D Group
+  organisation
+- Then each person picks the repo from its new location in claude.ai/code
+
+Old links keep redirecting, but a session started against the old path may
+lose access. Easiest fix is to start a fresh session and pick the repo again.
 
 ## Two things to know
 
