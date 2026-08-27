@@ -125,10 +125,9 @@ this.*
 
 ---
 
-## Not sure which of these you've got?
+## Tell us about the show
 
-Most large events are two or three of the above at once. Tell us about the
-room and the date and we'll tell you what it needs.
+The room, the date, and what's worrying you about it.
 
 **[Talk to us about a show]**
 
