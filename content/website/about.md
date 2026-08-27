@@ -3,117 +3,92 @@ page: About
 url: /about
 type: about
 job: verify
-voice_check: draft — read aloud before approving
+voice_check: client-edited 27 Aug 2026 — Jenton's version
 ---
 
-> **Nothing blank.** `‹ASSUMED›` = correct it. ⛔ = a fact I can't invent.
-> This is the page that needs the most from you, because it's about you.
+> **Client-edited.** This is Jenton's wording and it stands as written.
+> Two open questions at the bottom.
 
 # About
 
 ## We started as a lighting company
 
-Ten years ago, doing shows for people who'd been recommended us by someone
-else who'd worked with us. That's still how it works — every job we've ever
-had came from a recommendation. We've never advertised, and until now we've
-never had a website.
+Ten years ago, doing shows for people who'd been recommended us by someone else
+who'd worked with us. That's still how it works, every job we've ever had came
+from a recommendation. We've never advertised, and until now we've never had a
+website.
 
-`‹ASSUMED — this is the strongest paragraph on the site if it's accurate.
-It's also the one thing here no competitor can copy. Check it's true and
-leave it plain: no version of this needs decorating.›`
-
-The lighting turned into set and staging, then video, then sound, power and
-the content that plays on the screens. Not because we set out to be a
-full-service company — because clients kept asking whether we could handle the
-next bit as well, and it was easier for everyone when we could.
-
-Last year we delivered £1m of production. We've grown around 50% a year since
-2020.
-
----
+The lighting turned into set and staging, then video, then sound, power and the
+content that plays on the screens. Not because we set out to be a full-service
+company but clients kept asking whether we could handle the next bit as well,
+and it was easier for everyone when we could.
 
 ## What we actually do
 
 Production management for large-scale events.
 
-The kit matters, and we own a lot of it. But what people are really buying is
-someone who has run a show this size before, knows what fails and when, and
-can make a decision at 4pm without ringing anyone for permission.
+The kit matters, and we keep buying it. But what people are really buying is
+someone who has run a show this size before, knows what fails and when, and can
+make a decision at 4pm without ringing anyone for permission.
 
-Most of our work comes through agencies and in-house AV teams — usually when a
+Most of our work comes through agencies and in-house AV teams, usually when a
 show has grown past what they'd normally handle themselves. That's not a
 failure of an in-house team. It happens every September. The only question is
 who you call, and whether they'll be the same people next time.
 
----
-
-## Who you'll actually deal with
-
-**Jenton Hollingum** — ⛔ *role* — ⛔ *one line: what he does on a show, and
-how long he's been doing it*
-
-**Christian Murphy** — ⛔ *role* — ⛔ *one line*
-
-⛔ *A photograph of the two of you. A phone shot in the unit beats a studio
-portrait — it's more in keeping with everything else here, and it's more
-convincing.*
-
-One of us is on every show. Not a project manager allocated the week before —
-whoever quoted it, in the room, start to finish.
-
-**Crew are hand picked for the event.** We don't put people we don't know into
-critical roles, and we don't book from a list of who happens to be free.
-
-What we're looking for is harder to write down than a kit qualification. In
-every room there's someone you trust, someone who's good with the client, and
-someone who solves problems. They're rarely the same person, and a booking
-form has no field for any of it.
-
-The crew are an extension of whoever's been behind your event for the last
-three months — or five years. On a repeat show that's the whole point: the
-things that worked last year happen again, the things that didn't get changed,
-and nobody has to ask you the same questions twice.
-
-⛔ *Per-show crew figure for a recent job — T2RL is 40. Never an annual total.*
-
----
-
-## What we think about the work
+## The principle
 
 No company is the right fit for every event. No client is the right fit for
 every company. We know that, and we work like we know it.
 
 It's why we'll tell you when something won't work, why you can take one
-department instead of six, and why — if you're taking an event somewhere we're
-not the right answer for — we'd still rather help you buy it well than say
+department instead of six, and why if you're taking an event somewhere we're
+not the right answer for we'd still rather help you buy it well than say
 nothing.
 
----
+## Who you'll actually deal with
 
-## How we work
+One of us is on every show. Not a project manager allocated the week before —
+whoever quoted it, in the room, start to finish.
 
-**Take one department or all six.** Most suppliers want the whole show. We'd
-rather you took the parts that help — it's one contract and one crew chief
-either way.
+Behind that is a crew we build per show. We don't put people we don't know into
+critical roles, and we don't book from a list of who happens to be free.
 
-**The person who quotes it runs it.** You won't be handed to someone you've
-never met on the morning of the show.
+What we're looking for is harder to write down than a kit qualification. In
+every room there's someone we trust, someone who's good with the client, and
+someone who solves problems. They're rarely the same person, and a booking form
+has no field for any of it.
 
-**You'll meet the crew before the day.** And they'll be the same crew next
-time.
-
-**We'll tell you when something won't work.** ⛔ *Keep this only if it's
-genuinely true and you can point at an example. If not, cut it — an unbacked
-claim on this page costs more than a missing one.*
-
----
-
-## Where we are
-
-⛔ *Unit location and what it means practically — kit held in stock, early
-get-ins at London venues, same-day response.* `‹ASSUMED: London or Greater
-London, given the 0204 number›`
+The crew are an extension of whoever's been behind your event for the last
+three months or five years. On a repeat show that's the whole point: the things
+that worked last year happen again, the things that didn't get changed, and
+nobody has to ask you the same questions twice.
 
 ---
 
-**[Talk to us about a show]** · 0204 583 8080
+## ⛔ Two open questions
+
+**1. The turnover and growth line is gone.** You cut *"Last year we delivered
+£1m of production. We've grown around 50% a year since 2020."*
+
+Deliberate? Both are still on the homepage proof strip. If turnover shouldn't
+be public, it needs removing there too — it's more prominent there than it was
+here. If it was just surplus to this page, it stays on the homepage and
+nothing changes.
+
+Worth deciding either way: £1m and 50% growth are two of the four scale
+signals available that don't touch headcount.
+
+**2. "Who you'll actually deal with" no longer names anyone.**
+
+The heading promises people and the section doesn't introduce them. For the
+page whose job is proving there are real people here, that's the gap that
+matters most.
+
+Either put the names back — *"Jenton Hollingum and Christian Murphy run the
+company and run the shows"* — or change the heading to something the section
+delivers on, like *"How we crew a show"*.
+
+My view: put the names back, and a photograph. This page is read by producers
+deciding whether to trust you with their reputation, and named people with
+faces do more for that than any sentence on the page.
