@@ -1,0 +1,10 @@
+id,publish_date,day,slot,channel,author,pillar,format,allocation,title_or_hook,related_blog,status,utm_content,bet,voice_check
+202603-blog-01,,Thu,-,blog,,answers,article,proven,,,planned,202603-blog-01,,
+202603-li-01,,Thu,A,linkedin-company,,answers,text,proven,,202603-blog-01,planned,202603-li-01,,
+202603-fb-01,,Thu,A,facebook,,answers,text,proven,,202603-blog-01,planned,202603-fb-01,,
+202603-ig-01,,Thu,A,instagram,,answers,carousel,proven,,202603-blog-01,planned,202603-ig-01,,
+202603-li-02,,Tue,B,linkedin-company,,point-of-view,text,proven,,,planned,202603-li-02,,
+202603-lid-01,,Mon,-,linkedin-director,Director A,point-of-view,text,proven,,,planned,202603-lid-01,,
+202603-lid-02,,Wed,-,linkedin-director,Director A,answers,text,iteration,,,planned,202603-lid-02,,
+202603-lid-03,,Thu,-,linkedin-director,Director B,proof,text,proven,,,planned,202603-lid-03,,
+202603-ig-02,,Fri,C,instagram,,people,reel,bet,,,planned,202603-ig-02,,
