@@ -554,49 +554,90 @@ In your words:
 > elsewhere, but as we have no presence it's hard for the event managers to get
 > past finance etc to say we are a real company."*
 
+And, clarifying what that actually means:
+
+> *"This isn't a line, it's more they don't really exist. We just need a
+> presence."*
+
 **This is the single most important fact in the brief, and it changes the
 priority order of the whole plan.**
 
-### What it actually says
+### The problem is absence, not assessment
+
+Worth stating precisely, because the elaborate version of this is wrong.
+
+Nobody is running us through a supplier-vetting checklist and marking us
+down. It's simpler and vaguer than that: **someone searches the company name
+and finds nothing.** A company with no footprint doesn't read as a small
+company or a risky company. It reads as *not a company*.
+
+That is a much lower bar to clear than a procurement audit — and it's the
+whole requirement:
+
+> **Exist visibly. Look established. Be findable.**
 
 The demand already exists. End clients experience the service at the QEII
-Centre, go elsewhere, find it isn't the same, and **come back and ask.** That
-is the warmest lead there is — a buyer who has already used us, already wants
-us, and is actively trying to give us work.
+Centre, go elsewhere, find it isn't the same, and **come back and ask.** That's
+the warmest lead there is. And we lose them because the event manager who
+wants to book us has nothing to show anyone.
 
-And we lose them at the procurement gate.
+### What "a presence" concretely means
 
-Not because of price, capability or competition. Because an event manager who
-wants to book us **cannot justify the supplier internally.** Finance or
-procurement asks the standard question — *who are these people?* — and there is
-nothing to point at. No website, no company information, no insurance
-documents, no policies. In a corporate procurement process, a supplier with no
-verifiable presence is not a cheap supplier or a risky supplier. It's a
-supplier that fails the form.
+The test is a sixty-second search, run by someone who is already inclined to
+say yes and needs a reason not to worry. Everything below is achievable in
+weeks, not months:
 
-### Why this reframes everything
+- [ ] **Search "6D Group" and a real website comes up.** Not a holding page
+- [ ] **The site looks current and worked-in** — real shows, real photos,
+      recent activity. A four-page site that's finished beats twenty pages
+      half-written
+- [ ] **LinkedIn company page** with followers, recent posts and the team
+      attached to it. An empty page is worse than the absence
+- [ ] **Instagram and Facebook** with recent posts. They don't need to sell
+      anything — they need to prove the lights are on
+- [ ] **Name, address and phone identical everywhere** — website, LinkedIn,
+      Facebook, Google Business Profile, Companies House. Mismatches are what
+      a cautious reader treats as a warning
+- [ ] **Google Business Profile** claimed and filled in
+- [ ] **Company details visible** — registered name, company number, VAT,
+      a real address. Footer is fine. This is table stakes, not a project
 
-Everything to this point has been designed around **reach** — becoming known
-to agencies and in-house teams who haven't heard of us. That work is still
-right, and it's still route 2 to the £500k.
+### The credentials pack — worth having, but keep it in proportion
 
-But reach is the slow route, and it isn't the binding constraint. **The
-binding constraint is legitimacy**, and it's costing us work that has already
-been won on merit.
+I'd previously built this up as the central task. It isn't. It's cheap
+insurance that removes friction once someone is already convinced, and some
+corporate clients will genuinely ask for it — but nobody is currently
+rejecting us over a missing ISO certificate. They're rejecting us over
+nothing coming up in a search.
 
-| | Reach problem | Legitimacy problem |
-|---|---|---|
-| Who | People who've never heard of us | People actively trying to book us |
-| Fix | 6–12 months of content | A website and a credentials pack |
-| Cost of not fixing | Slower growth | **Losing work we've already earned** |
-| Priority | Important | **First** |
+So: assemble it because it takes a day and closes off a category of objection,
+not because it's the fix.
 
-**Consequence: the website comes before the content calendar, and the
-credentials come before the copy.** Not because content doesn't matter, but
-because a blog post cannot get a supplier through procurement and a public
-liability certificate can.
+- Company number, VAT number, registered address
+- Public liability and employers' liability certificates
+- Health & safety policy, and confirmation we issue RAMS per event
+- Terms and conditions
+- Any accreditations held (PSA, SafeContractor, CHAS, ISO)
+- All of it as one downloadable PDF, so an event manager can forward it in
+  one click
 
-### The real objection is backup, not paperwork
+⛔ Tell me which of those exist and I'll build the page around what's real. If
+something commonly asked for is missing, worth knowing — but don't let it hold
+up the website. **Presence first.**
+
+### It also unlocks the suppressed 10%
+
+Direct end-client work sits at ~10% today, and §2 treated that as a
+positioning choice. It now looks like a **symptom**. Those clients aren't
+uninterested — they're blocked, by the absence of anything to point at.
+Fixing that may move the number on its own, with no content at all.
+
+That makes this the cheapest route to the £500k: existing relationships, at
+new venues, with no competitive process to win.
+
+---
+
+## 5b. The second objection — backup, not paperwork
 
 I had this wrong earlier and it's worth correcting properly, because getting
 it wrong would have produced a website that clears procurement and still loses

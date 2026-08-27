@@ -21,26 +21,23 @@ point. A visitor should be able to answer four questions inside 30 seconds:
 3. Are they any good?
 4. What happens if I get in touch?
 
-### Job 2 — Get us through procurement ← **the reason this is urgent**
+### Job 2 — Exist ← **the reason this is urgent**
 
 End clients who've experienced the service at the QEII Centre ask us to
-support them at other venues, and their event manager then can't get us past
-finance. Not on price, not on capability — on the basic question of whether
-we're a real, verifiable company.
+support them at other venues, and their event manager then can't get it agreed
+internally. Not on price, not on capability. Someone searches the company name
+and finds nothing, and a company with no footprint doesn't read as small or
+risky — it reads as **not a company**.
 
-That's work already won on merit and lost on paperwork. It's the highest-value
-thing this website does, and it's the reason the site is being built before
-the content calendar rather than alongside it.
+That's work already won on merit and lost to absence. It's the highest-value
+thing this website does, and it's why the site is being built before the
+content calendar.
 
-A blog post cannot get a supplier through procurement. A public liability
-certificate can.
-
-**Design consequence:** the reader we're building for is not only the event
-manager. It's also the finance or procurement person they have to convince,
-who will never read a case study and is looking for a company number, an
-insurance level and a signed policy. Both readers have to be served, and the
-second one is easily forgotten because they never make contact — they just
-say no.
+**Design consequence: looking established matters more than saying anything
+clever.** Real photos of real shows, recent activity, visible company details,
+a phone number that matches everywhere else. A four-page site that's finished
+and worked-in beats twenty pages half-written — half-written is exactly what
+"they don't really exist" looks like.
 
 Any page that doesn't serve one of these two jobs is a page we don't need yet.
 
@@ -61,10 +58,11 @@ Any page that doesn't serve one of these two jobs is a page we don't need yet.
 /credentials           Company info, insurance, accreditations, policies  ← procurement
 ```
 
-`/credentials` is not a legal footer page. It's a commercial page that
-directly unblocks revenue, it should be linked from the main navigation and
-the footer, and it needs to be findable by someone who was sent the domain and
-told "get what finance needs off there".
+`/credentials` closes off a category of objection cheaply. Keep it in
+proportion: nobody is currently rejecting us over a missing certificate,
+they're rejecting us over nothing coming up in a search. Build it because it
+takes a day, not because it's the fix. Footer link is enough; main nav only if
+corporate clients start asking.
 
 Phase 2 (month 3+, only if the data justifies it): sector landing pages,
 resources/downloads, careers, FAQ hub, pricing.
@@ -130,11 +128,11 @@ them as *"a 1,600-delegate financial services conference, three halls, 11-hour
 get-in"*. For this audience the numbers and the constraints are the proof —
 the logo never was. Where a client has agreed to be named, name them.
 
-### Credentials *(the page that unblocks the stuck work)*
+### Credentials
 
-Written for a procurement or finance reader, not a marketing one. Plain,
-complete, and downloadable — the event manager's real task is forwarding this
-to someone, so make that a single click.
+Written for a finance reader, not a marketing one. Plain, complete, and
+downloadable — the event manager's task is forwarding it, so make that one
+click.
 
 Contents:
 - Registered company name, company number, registered address, VAT number

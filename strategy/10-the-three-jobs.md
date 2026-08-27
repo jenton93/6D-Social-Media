@@ -95,8 +95,10 @@ right people are showing up, not on how many.
 
 **Why it matters:** this is where work already won on merit is currently being
 lost. Clients who experience the service at the QEII Centre ask us to support
-them at other venues, and their event manager can't get us past finance. Ten
-years of recommendations have had nowhere to point.
+them at other venues, and their event manager can't get it agreed, because
+someone searches the name and finds nothing. **The problem is absence, not
+assessment** — a company with no footprint reads as not a company. Ten years
+of recommendations have had nowhere to point.
 
 **It's the fastest win in the plan.** Nothing needs to be persuaded — it just
 needs to exist.
@@ -112,8 +114,9 @@ The second reader never contacts us. They just say no, and we never find out.
 That's why `/credentials` is a main-navigation page and a single downloadable
 supplier pack — see `04-website-plan.md`.
 
-**⚠️ Documentation answers only half of it.** The finance question is *"are
-they a real company?"* and paperwork settles that. The event manager's question
+**⚠️ Presence first, paperwork second.** The finance-side problem is that
+nothing comes up in a search; a website and filled-in profiles settle that,
+and the credentials pack is cheap follow-up rather than the fix. The event manager's question
 is *"if this goes wrong, is anyone behind them?"* — and no certificate answers
 that. They're using the size of Aztec or Encore as a proxy for resilience.
 Countering it needs the crew bench, the redundancy and the continuity record

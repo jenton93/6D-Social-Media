@@ -22,18 +22,23 @@ Facebook (6D Group Ltd) · 6d-group.com
 
 ## ⚠️ Start here — and it isn't the content
 
-**Job 3 first.** Clients who experience the service at the QEII Centre ask us
-to support them at other venues, and their event manager can't get us past
-finance because there's nothing to point at. That's work already won on merit
-and lost on paperwork.
+**Job 3 first: exist visibly.** Clients who experience the service at the QEII
+Centre ask us to support them at other venues, and their event manager can't
+get it agreed because someone searches the name and finds nothing. A company
+with no footprint doesn't read as small — it reads as *not a company*.
 
-1. **Assemble the credentials pack** — company number, VAT, public and
-   employers' liability certificates, H&S policy, RAMS, accreditations, T&Cs.
-   Highest-value task in the plan. A blog post can't get a supplier through
-   procurement; an insurance certificate can
-2. **Build `/credentials` and the phase-1 site** (`strategy/04-website-plan.md`)
+That's work already won on merit and lost to absence. It's also a low bar and
+a fast fix — weeks, not months.
+
+1. **Build the site** (`strategy/04-website-plan.md`) — four pages that are
+   finished and worked-in, with real photos of real shows. Half-written is
+   exactly what "they don't really exist" looks like
+2. **Fill in the three profiles** (`strategy/08-profile-buildout.md`) and claim
+   the Google Business Profile. Name, address and phone identical everywhere
 3. **Ask ten years of clients for reviews.** Never been done, easiest win
    available, and reviews matter competitively in this niche
+4. **Assemble the credentials pack** — a day's work, closes off a category of
+   objection. Not the fix, but worth having
 
 Then the content, which still needs two things only you can supply:
 
