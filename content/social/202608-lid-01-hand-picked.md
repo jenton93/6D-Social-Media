@@ -1,7 +1,7 @@
 ---
 id: 202608-lid-01
 channel: linkedin-director
-author: ⛔ Jenton or Christian
+author: Jenton Hollingum
 job: cold
 pillar: point-of-view
 format: text

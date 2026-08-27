@@ -7,7 +7,7 @@ job: cold
 pillar: point-of-view
 target_keyword: event crew booking
 source: director voice note, Aug 2026
-author: ⛔ Jenton or Christian
+author: Jenton Hollingum
 publish_date: ⛔
 meta_title: Why we don't book crew from a list | 6D Group
 meta_description: A booking system can tell you someone can operate a desk. It can't tell you whether they can talk to a client, or spot a problem before it becomes one.
@@ -20,8 +20,7 @@ voice_check: pass — approved by client 27 Aug 2026
 > Confirmed not identifiable — it's a pattern across many shows, not one
 > client, and the post now says so.
 >
-> Two things before it goes live: swap `⛔` author for a name, and set the
-> publish date.
+> Author: Jenton Hollingum. Set the publish date and it's ready to go.
 
 ---
 
@@ -160,7 +159,7 @@ New post on why we hand pick crew for every event 👇
 
 ### LinkedIn — director *(first person, in the week)*
 
-⛔ *Jenton or Christian*
+Jenton Hollingum
 
 I've been on shows where every single person was qualified for their role and
 it was still a mess.
