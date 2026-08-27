@@ -37,7 +37,7 @@ video, power and content. Take one department or all six.
 
 **Ten years.** Every job from a recommendation.
 **Six departments.** Take one or all of them.
-**Crew of 40** on site, largest recent show. ⛔ *confirm figure*
+**One contract**, however many you take.
 
 <!-- Scale without headcount, per §4. Every figure is true and checkable, and
      "every job from a recommendation" is the strongest line on the page, nobody can manufacture it. -->
