@@ -90,14 +90,18 @@ Two lines on what you actually bring to a launch and it matches the rest.*
 
 ## Festivals
 
-Two different jobs, and we do both. We supply production crew and management
-into large public festivals, slotting into an existing structure rather than
-needing to run it.
+30,000 punters, or 800 staff. Two different jobs, and we do both.
+
+We supply production crew and management into large public festivals, slotting
+into an existing structure rather than needing to run it.
 
 And we deliver corporate events built in a festival format, end to end.
 Recognition and reward events across multiple stages or areas on an outdoor or
 semi-outdoor site, with power distribution across the site and kit specified
 for weather.
+
+⛔ *Confirm both figures. They're specific enough that someone will check, and
+they're the whole reason the line works.*
 
 ---
 
