@@ -112,10 +112,14 @@ This is the spine of the pillar. Everything else here is a variation on it:
 
 ### ⚠️ Publish the positive version
 
-**Aztec is a client.** We supply crew to them (`00-brand-brief.md` §5c), and
-that relationship comes before any argument we might want to make. The allocation argument above describes their
-operating model, and unnamed isn't the same as unrecognisable. Published as
-written, it puts a live commercial relationship at risk.
+**Producers distrust a supplier who briefs against other suppliers** — someone
+who does it about a competitor today does it about them tomorrow. That's a
+real cost with the agency and in-house audience, which is 90% of revenue.
+
+The practical reason matters more, though: the negative version asks a reader
+to accept a claim about someone else's business before they get to ours. The
+positive version skips that step entirely. Shorter argument, and a more
+confident one.
 
 So the public version states what continuity buys, not what allocation costs:
 
@@ -133,9 +137,10 @@ competitors, because someone who does it today does it about them tomorrow.
 The sharp version stays useful; it just belongs in a direct conversation with
 an end client choosing between the two models, not on LinkedIn.
 
-### ⚠️ And still: attack the model, never the names. Never write a post naming Aztec, Encore
-or 4Wall. Small market, people move between these firms, and some of them
-cross-hire. Naming reads as bitter, invites a reply and costs relationships.
+### ⚠️ And never the names
+
+Never write a post naming Aztec, Encore or 4Wall. Small market, people move
+between these firms, and some of them cross-hire with us.
 Describe the *structure* — pooled PMs, gap-filling crew bookers, stock-led kit
 specs — and every reader who's lived it supplies the names themselves. More
 persuasive, and it costs nothing.

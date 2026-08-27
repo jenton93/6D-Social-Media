@@ -802,39 +802,31 @@ production management work, writes the content, and would service the £500k of
 growth. Every day of it spent on constrained crew supply is a day not spent on
 the work the whole strategy is built around.
 
-⛔ **Not my call, but worth deciding deliberately:** is Aztec work kept as
-diary filler in quiet weeks, capped, or wound down as better work replaces it?
-The honest version of the growth plan probably involves it shrinking as a
-share of revenue even if it holds in absolute terms. It's worth having a view
-before the diary fills.
+**Decided: this is not a relationship we're interested in growing.** Kept as
+diary filler at most. The growth plan doesn't count on it, no content is aimed
+at it, and it shouldn't consume senior time that the £500k depends on.
 
 *(It is, privately, a good proof point: even at Aztec's size they have to
 bring in outside crew. That's the "we're the depth you don't have this month"
 argument, demonstrated. It can never be said publicly.)*
 
-### ⚠️ The conflict: our best argument describes our client
+### The sharp argument still shouldn't be published — for a better reason
 
-**Aztec is a client.** That comes first and it governs everything published.
+Since we're not trying to protect the Aztec relationship, the constraint on
+the allocation argument isn't about them. It's about the audience we *do*
+care about.
 
-The allocation argument in §5b — pooled PMs who may not attend, techs booked
-by a crew booker filling a gap, kit specified from stock, margin underneath —
-describes how large operators work, and Aztec is a large operator. So the
-argument describes a paying customer.
+**Producers distrust a supplier who briefs against other suppliers.** Someone
+who does it about a competitor today does it about them tomorrow — and the
+agency and in-house audience is 90% of revenue. That's a reputational cost
+with the people who matter, entirely separate from who might take offence.
 
-Even with the "attack the model, never the names" rule, there's exposure. If
-someone at Aztec reads a post describing their operating model as the problem,
-they don't need to be named to recognise themselves. In a market this small,
-that costs a live relationship.
+There's a second reason, and it's the practical one: the negative version
+requires the reader to accept a claim about someone else's business before
+they get to ours. The positive version needs no such step. It's a shorter
+argument and a more confident one.
 
-So the sharp version can't go out publicly as written. Three options:
-
-| | Approach | Risk | Reach |
-|---|---|---|---|
-| **A** | Publish the argument as is, unnamed | Real. Aztec may recognise itself | Highest |
-| **B** | **Reframe positively — what continuity buys you, rather than what allocation costs you** | Low | Nearly as high |
-| **C** | Keep it out of content entirely; use it only in direct sales conversations | None | None |
-
-**Recommend B.** The same point lands without anyone cast as the villain:
+So the public version states what continuity buys, not what allocation costs:
 
 | Instead of | Write |
 |---|---|
