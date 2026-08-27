@@ -126,43 +126,29 @@ One quote and one crew chief, however many of them you take.
 
 ---
 
-## What happens when it goes wrong
+## The people on your show
 
-Every large show has a moment. A projector dies, a truck is late, the room
-isn't ready, someone changes the running order at 4pm.
-
-What matters then isn't how big your supplier is. It's whether the person
-standing next to you has done this before, knows your show, and can make the
-call without ringing anyone.
-
-That's the whole reason we work the way we do. The person who quoted your show
-is the person running it. You'll meet the crew before the day, and they'll be
-the same crew next time.
-
-<!-- This is the backup argument in its positive form (§5b, §5c). It answers
-     "is anyone behind you?" without describing how anyone else operates, which matters, because Aztec is a client. -->
-
-One of us is on every show. Not a project manager assigned the week before, the person who quoted it, in the room, for the whole thing.
+One of us is on every show. Not a project manager assigned the week before,
+the person who quoted it, in the room, for the whole thing.
 
 ### Crew are hand picked for the event
 
 We don't put people we don't know into critical roles. That one doesn't bend.
 
-After that it's about what the team needs rather than who's available.
-
-Every room has someone you trust in it. Someone who's good with a client.
-Someone who solves problems. Someone quiet who works through the list without
-being asked. Those are different people, and a team needs all of them.
+After that it's about what the team needs rather than who's available. Every
+room has someone you trust in it. Someone who's good with a client. Someone
+who solves problems. Someone quiet who works through the list without being
+asked. Those are different people, and a team needs all of them.
 
 None of it is on a booking form. A form can tell you someone can operate a
 desk. It can't tell you whether they'll spot the problem before it becomes
 one, or how they'll be with your client at 4pm when the running order moves.
 
-That's the difference between forty people on site and a team of forty.
-
-> ⛔ *Swap in a real show for the number. T2RL is 40 crew. Never quote an
-> annual or total crew figure: a hundred names across a year reads as a pool,
-> which is the model we're arguing against.*
+<!-- The "every large show has a moment, a projector dies, a truck is late"
+     opener has moved to a blog post. It's an argument, and the homepage's job
+     is letting someone confirm we're real rather than winning a debate. It
+     also put failure at the front of the reader's mind on the page that
+     should be building confidence. See 202609-blog-04. -->
 
 ---
 
