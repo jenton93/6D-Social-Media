@@ -188,13 +188,52 @@ and most conference lighting is designed as the former›`
 
 # Sound, /services/sound
 
-## Making a difficult room work
+## Calculated audio, not fly and hope
 
-⛔ *One line.* `‹ASSUMED: PA, comms, radio mics, playback, and the room
-acoustics nobody accounted for›`
+The PA gets modelled against the room before anything is hung. Coverage,
+levels at the back and the front, where the reflections are going to land, and
+what happens in the seats nobody thinks about until somebody is sitting in
+them.
 
-*[Same structure as above, problem / what you get / how it runs / cost /
-questions]*
+The alternative, which is common, is to fly a sensible-looking system and find
+out at rehearsal. That works often enough that people keep doing it. It's also
+why some rooms are fine in the middle and unusable down the sides.
+
+### The kit
+
+- **d&b PA**
+- **Digital radio mics.** Not a preference. The spectrum available for
+  analogue keeps shrinking, and on a big show with a lot of channels, digital
+  is the difference between a clean day and an afternoon of interference
+- **Digital desks**
+
+### We understand rigging
+
+Flying a PA is a structural job before it's an audio one. Knowing what the
+roof will take, what the venue permits and how the array actually needs to
+hang means the system ends up where the coverage requires it, rather than
+where it was easy to fix a point.
+
+That's also why sound doesn't get designed in isolation from the set and the
+lighting. Everything is competing for the same rigging positions, and the
+argument is much easier when it's one company having it with itself.
+
+⛔ *Any rigging qualifications worth naming here? Same logic as BS7909 on the
+power page: checkable and not universal.*
+
+### Can I take just this?
+
+Yes.
+
+### How pricing works
+
+*Same block as the other five pages.*
+
+### Questions we get asked
+
+⛔ *Three real ones. Likely: "how many radio mic channels can we run?", "will
+it be loud enough at the back without being unbearable at the front?", "do we
+need a separate comms system?"*
 
 ---
 ---
