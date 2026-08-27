@@ -110,9 +110,30 @@ This is the spine of the pillar. Everything else here is a variation on it:
 - Why "full service, end to end" usually means "we'd rather you didn't take
   just the lighting"
 
-### ⚠️ Two rules for this pillar
+### ⚠️ Publish the positive version
 
-**Attack the model, never the names.** Never write a post naming Aztec, Encore
+**Aztec is a client as well as a competitor** — we supply crew to them
+(`00-brand-brief.md` §5c). The allocation argument above describes their
+operating model, and unnamed isn't the same as unrecognisable. Published as
+written, it puts a live commercial relationship at risk.
+
+So the public version states what continuity buys, not what allocation costs:
+
+| Don't publish | Publish |
+|---|---|
+| "Their PM might not even be at your event" | "The person who quoted your show is the person running it" |
+| "Your tech was booked by someone filling a gap" | "You'll meet the crew before the day, and they'll be the same next time" |
+| "Kit is pushed from what's in stock" | "The kit list is built from your room, and we'll show you why each item is on it" |
+| "It's all about margin" | *(cut — reads as bitter, no positive version)* |
+
+Same argument, nobody cast as the villain, and it performs better with the
+agency audience anyway — producers are wary of a supplier who briefs against
+competitors, because someone who does it today does it about them tomorrow.
+
+The sharp version stays useful; it just belongs in a direct conversation with
+an end client choosing between the two models, not on LinkedIn.
+
+### ⚠️ And still: attack the model, never the names. Never write a post naming Aztec, Encore
 or 4Wall. Small market, people move between these firms, and some of them
 cross-hire. Naming reads as bitter, invites a reply and costs relationships.
 Describe the *structure* — pooled PMs, gap-filling crew bookers, stock-led kit

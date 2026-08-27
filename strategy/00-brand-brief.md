@@ -765,6 +765,86 @@ this week rather than after the website launches.
 
 ---
 
+## 5c. Aztec is a client as well as a competitor
+
+> *"We support Aztec on some events, but their size makes it hard to expand
+> beyond just people, and they are difficult to work with."*
+
+Two consequences, and the second one is a genuine strategic conflict that
+needs a decision before anything gets published.
+
+### The cross-hire relationship is the wrong shape
+
+Supplying crew to Aztec is revenue, and it fills the diary. But look at what
+it is against everything else in this brief:
+
+| | Crew supply to Aztec | The business we're building |
+|---|---|---|
+| What's sold | People, by the day | Production management and judgement |
+| Margin | Lowest of anything we do | Highest |
+| Builds reputation? | No — invisible, and unmentionable | Yes |
+| Can it grow? | *"Hard to expand beyond just people"* | Yes, six departments |
+| Pleasant? | *"Difficult to work with"* | — |
+
+It is the exact inverse of the positioning: commoditised labour, sold into a
+relationship that can't expand, for a client who's hard work.
+
+The reason that matters is capacity. The scarcest resource in this business is
+senior people's time, and it's the same resource that delivers the high-margin
+production management work, writes the content, and would service the £500k of
+growth. Every day of it spent on constrained crew supply is a day not spent on
+the work the whole strategy is built around.
+
+⛔ **Not my call, but worth deciding deliberately:** is Aztec work kept as
+diary filler in quiet weeks, capped, or wound down as better work replaces it?
+The honest version of the growth plan probably involves it shrinking as a
+share of revenue even if it holds in absolute terms. It's worth having a view
+before the diary fills.
+
+*(It is, privately, a good proof point: even at Aztec's size they have to
+bring in outside crew. That's the "we're the depth you don't have this month"
+argument, demonstrated. It can never be said publicly.)*
+
+### ⚠️ The conflict: our best argument describes our client
+
+The allocation argument in §5b — pooled PMs who may not attend, techs booked
+by a crew booker filling a gap, kit specified from stock, margin underneath —
+describes how large operators work. **Aztec is a large operator, and Aztec is
+a customer.**
+
+Even with the "attack the model, never the names" rule, there's exposure. If
+someone at Aztec reads a post describing their operating model as the problem,
+they don't need to be named to recognise themselves. In a market this small,
+that costs a live relationship.
+
+So the sharp version can't go out publicly as written. Three options:
+
+| | Approach | Risk | Reach |
+|---|---|---|---|
+| **A** | Publish the argument as is, unnamed | Real. Aztec may recognise itself | Highest |
+| **B** | **Reframe positively — what continuity buys you, rather than what allocation costs you** | Low | Nearly as high |
+| **C** | Keep it out of content entirely; use it only in direct sales conversations | None | None |
+
+**Recommend B.** The same point lands without anyone cast as the villain:
+
+| Instead of | Write |
+|---|---|
+| "Their PM might not even be at your event" | "The person who quoted your show is the person running it" |
+| "Your tech was booked by someone filling a gap" | "You'll meet the crew before the day, and they'll be the same next time" |
+| "Kit is pushed from what's in stock" | "The kit list is built from your room, and we'll show you why each item is on it" |
+| "It's all about margin" | *(cut — no positive version, and it reads as bitter)* |
+
+Positive framing also performs better with the **agency and in-house
+audience**, who are 90% of revenue and don't want to read a supplier
+complaining about other suppliers. Producers are wary of that: someone who
+briefs against a competitor today briefs against them tomorrow.
+
+**Keep option A in reserve** for direct end-client conversations, where it's a
+private argument to a buyer who is genuinely choosing between the two models.
+That's the room it belongs in.
+
+---
+
 ## 6. Commercial targets — CONFIRMED
 
 **The job of marketing is to continue 50% year-on-year growth.**
