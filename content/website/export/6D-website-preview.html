@@ -1,4 +1,4 @@
-<title>6D Group</title>
+<title>6D Group Website</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Audiowide&family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
@@ -216,7 +216,7 @@ h3{font-size:19px;margin-bottom:9px;letter-spacing:-.005em}
   padding:9px 13px;font-size:13.5px;line-height:1.5;
   margin-top:13px;
 }
-body.gaps .gap{display:none}
+body.gaps .gap{display:block}
 .gap b{font-weight:700}
 
 footer{background:var(--deep);color:var(--deep-muted);font-size:13.5px;padding:34px 0}
@@ -235,8 +235,11 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between}
   <div class="bar-in">
     <a class="mark" href="#" onclick="go('home');return false"><span class="ring">6D</span>6D&nbsp;GROUP</a>
     <nav id="nav"></nav>
+    <button class="tog" id="tog" aria-pressed="false">Show what's missing</button>
   </div>
 </div>
+
+<div class="note"><div id="noteTxt">Draft copy preview, colours and fonts are placeholders until the brand files land. Press <b>Show what's missing</b> to see the gaps.</div></div>
 
 <!-- ================= HOME ================= -->
 <div class="page on" id="home">
@@ -529,4 +532,21 @@ function go(id){
 }
 go('home');
 
+var tog=document.getElementById('tog'),note=document.getElementById('noteTxt');
+var on=false;
+try{on=localStorage.getItem('6d_gaps')==='1'}catch(e){}
+function paint(){
+  document.body.classList.toggle('gaps',on);
+  tog.setAttribute('aria-pressed',on?'true':'false');
+  tog.textContent=on?'Hide what’s missing':'Show what’s missing';
+  note.innerHTML=on
+    ? 'Amber blocks are gaps. Most are lookups or numbers, not writing. The two that matter most: <b>a per-show crew figure</b> and <b>three case studies</b>.'
+    : 'Draft copy preview, colours and fonts are placeholders until the brand files land. Press <b>Show what’s missing</b> to see the gaps.';
+}
+tog.onclick=function(){
+  on=!on;
+  try{localStorage.setItem('6d_gaps',on?'1':'0')}catch(e){}
+  paint();
+};
+paint();
 </script>

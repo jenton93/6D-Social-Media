@@ -347,7 +347,12 @@ that's where most shows come unstuck.
 - **Slide fixing**, which is a bigger job than it sounds. Presenters send what
   they send. We make it work on the screen without changing what they wanted
   to say
-- Formats, aspect ratios and codecs sorted before the room opens
+- Formats, aspect ratios and codecs sorted before the session starts
+- **Speaker preview.** We sit down with speakers before they go on, run
+  their slides on the system they'll actually be presenting on, and make the
+  changes there and then. It's the difference between a presenter walking on
+  confident and a presenter finding out mid-talk that their build doesn't
+  animate
 
 ### Why it matters that it's one team
 
