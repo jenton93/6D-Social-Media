@@ -8,17 +8,41 @@ site is the first build in the roadmap, ahead of the content calendar.
 
 ## What the site has to do
 
-One job: turn someone who has heard of us into someone who contacts us.
+**Two jobs, and the second one is the urgent one.**
 
-That's it. Not "communicate our brand values". A visitor should be able to
-answer four questions inside 30 seconds:
+### Job 1 — Convert a referral
+
+Someone has been told about us by a producer they trust, and wants to check
+we're real before calling. Ten years of recommendations have had nowhere to
+point. A visitor should be able to answer four questions inside 30 seconds:
 
 1. What do they do?
 2. Is it for someone like me?
 3. Are they any good?
 4. What happens if I get in touch?
 
-Any page that doesn't help answer one of those is a page we don't need yet.
+### Job 2 — Get us through procurement ← **the reason this is urgent**
+
+End clients who've experienced the service at the QEII Centre ask us to
+support them at other venues, and their event manager then can't get us past
+finance. Not on price, not on capability — on the basic question of whether
+we're a real, verifiable company.
+
+That's work already won on merit and lost on paperwork. It's the highest-value
+thing this website does, and it's the reason the site is being built before
+the content calendar rather than alongside it.
+
+A blog post cannot get a supplier through procurement. A public liability
+certificate can.
+
+**Design consequence:** the reader we're building for is not only the event
+manager. It's also the finance or procurement person they have to convince,
+who will never read a case study and is looking for a company number, an
+insurance level and a signed policy. Both readers have to be served, and the
+second one is easily forgotten because they never make contact — they just
+say no.
+
+Any page that doesn't serve one of these two jobs is a page we don't need yet.
 
 ---
 
@@ -34,7 +58,13 @@ Any page that doesn't help answer one of those is a page we don't need yet.
 /blog                  Index
   /blog/<post>         Posts
 /contact               Form + direct details
+/credentials           Company info, insurance, accreditations, policies  ← procurement
 ```
+
+`/credentials` is not a legal footer page. It's a commercial page that
+directly unblocks revenue, it should be linked from the main navigation and
+the footer, and it needs to be findable by someone who was sent the domain and
+told "get what finance needs off there".
 
 Phase 2 (month 3+, only if the data justifies it): sector landing pages,
 resources/downloads, careers, FAQ hub, pricing.
@@ -100,6 +130,35 @@ them as *"a 1,600-delegate financial services conference, three halls, 11-hour
 get-in"*. For this audience the numbers and the constraints are the proof —
 the logo never was. Where a client has agreed to be named, name them.
 
+### Credentials *(the page that unblocks the stuck work)*
+
+Written for a procurement or finance reader, not a marketing one. Plain,
+complete, and downloadable — the event manager's real task is forwarding this
+to someone, so make that a single click.
+
+Contents:
+- Registered company name, company number, registered address, VAT number
+- **Public liability insurance** — level of cover, insurer, certificate as a
+  PDF. Corporate thresholds are usually £5m or £10m and venues often specify
+- **Employer's liability insurance** — same treatment
+- **Accreditations** held, with logos and membership numbers (PSA,
+  SafeContractor, CHAS, Constructionline, ISO 9001 / 14001)
+- **Health & safety policy** and the named person responsible
+- **RAMS** — state explicitly that we produce risk assessments and method
+  statements per event. Procurement teams search for that exact term
+- Sustainability / environmental policy
+- Equal opportunities, modern slavery, GDPR statements
+- Terms and conditions of business
+- Supplier onboarding contact — a named person and a direct email
+- **A single "Supplier information pack" PDF** containing all of the above
+
+Add a line at the top in plain English: *"Everything your procurement or
+finance team needs to set us up as a supplier. If something's missing, email
+[name] and you'll have it the same day."*
+
+That sentence is aimed at the event manager who is currently stuck, and it
+tells them the problem is solved.
+
 ### Contact
 Form with the fewest possible fields (name, email, one message box, and a
 "how did you hear about us?" dropdown — that field feeds the analytics loop
@@ -110,6 +169,9 @@ sentence saying who replies and how quickly.
 
 ## Technical requirements
 
+- **Every credentials document as a direct PDF link.** The event manager's
+  job is to forward them. Anything behind a form or a login doesn't get
+  forwarded, it gets abandoned.
 - **Analytics before launch, not after.** GA4 with key events configured
   (form submit, phone click, email click, 75% blog scroll), Search Console
   verified, sitemap submitted. Launching without these loses data that can't
@@ -138,4 +200,9 @@ sentence saying who replies and how quickly.
 - Internal links: every blog post links to at least one service page; every
   service page links to at least one case study.
 - Google Business Profile claimed and completed — it's often the highest-
-  converting "page" a small UK business has, and it isn't on their website.
+  converting "page" a UK business has, and it isn't on their website.
+- **Make the company findable by name.** Procurement checks Companies House,
+  searches the name, and looks for a matching website, address and phone
+  number. Consistency across the site, LinkedIn, Facebook, Google Business
+  Profile and Companies House is itself a legitimacy signal — mismatches are
+  exactly what a cautious finance team treats as a red flag.

@@ -545,6 +545,112 @@ quiet argues against us.
 - Is there any existing writing that sounds right? Even an email you were
   pleased with. Two samples is enough to calibrate the voice properly.
 
+## 5a. The actual bottleneck — CONFIRMED
+
+In your words:
+
+> *"We deliver events for companies via QEII. But when those clients go to
+> other venues they don't get the same service. We get asked if we can support
+> elsewhere, but as we have no presence it's hard for the event managers to get
+> past finance etc to say we are a real company."*
+
+**This is the single most important fact in the brief, and it changes the
+priority order of the whole plan.**
+
+### What it actually says
+
+The demand already exists. End clients experience the service at the QEII
+Centre, go elsewhere, find it isn't the same, and **come back and ask.** That
+is the warmest lead there is — a buyer who has already used us, already wants
+us, and is actively trying to give us work.
+
+And we lose them at the procurement gate.
+
+Not because of price, capability or competition. Because an event manager who
+wants to book us **cannot justify the supplier internally.** Finance or
+procurement asks the standard question — *who are these people?* — and there is
+nothing to point at. No website, no company information, no insurance
+documents, no policies. In a corporate procurement process, a supplier with no
+verifiable presence is not a cheap supplier or a risky supplier. It's a
+supplier that fails the form.
+
+### Why this reframes everything
+
+Everything to this point has been designed around **reach** — becoming known
+to agencies and in-house teams who haven't heard of us. That work is still
+right, and it's still route 2 to the £500k.
+
+But reach is the slow route, and it isn't the binding constraint. **The
+binding constraint is legitimacy**, and it's costing us work that has already
+been won on merit.
+
+| | Reach problem | Legitimacy problem |
+|---|---|---|
+| Who | People who've never heard of us | People actively trying to book us |
+| Fix | 6–12 months of content | A website and a credentials pack |
+| Cost of not fixing | Slower growth | **Losing work we've already earned** |
+| Priority | Important | **First** |
+
+**Consequence: the website comes before the content calendar, and the
+credentials come before the copy.** Not because content doesn't matter, but
+because a blog post cannot get a supplier through procurement and a public
+liability certificate can.
+
+### It also settles the "sounding small" question
+
+§4 covers not wanting to sound small. This is exactly where that bites — and
+it clarifies what the real risk was.
+
+Finance asking *"are these people a real company?"* is a legitimacy question
+wearing a size question's clothes. It isn't answered by implying a bigger
+team. It's answered by **documentation**: company number, VAT registration,
+insurance cover, accreditations, policies, named clients, a real address.
+
+A credentials page is the honest, verifiable, permanent answer to the
+sounding-small problem, and it's better than any amount of careful wording.
+
+### It also unlocks the suppressed 10%
+
+Direct end-client work sits at ~10% today, and §2 treated that as a
+deliberate positioning choice. It now looks more like a **symptom**. Those
+clients aren't uninterested — they're blocked. Removing the blocker may move
+that number on its own, without a single piece of content.
+
+That makes this route to the £500k unusually attractive: it's existing
+relationships, at new venues, with no competitive process to win. The only
+thing standing in the way is paperwork we haven't published.
+
+### ⛔ What we need to publish — and what I need from you
+
+The credentials pack is only as good as what we actually hold. Tell me which
+of these exist, and I'll build the page around them:
+
+**Certain to be required**
+- [ ] Company registration number and registered address
+- [ ] VAT number
+- [ ] **Public liability insurance** — level of cover (£5m and £10m are the
+      usual corporate thresholds; venues often specify)
+- [ ] **Employer's liability insurance**
+- [ ] Health & safety policy, and who's responsible for it
+- [ ] Capability to issue **RAMS** (risk assessments and method statements) —
+      say so explicitly, procurement looks for this term
+- [ ] Terms and conditions of business
+- [ ] Bank details / supplier onboarding contact
+
+**Frequently required, increasingly so**
+- [ ] Accreditations — **PSA**, SafeContractor, CHAS, Constructionline,
+      ISO 9001 / 14001, or any others held
+- [ ] Sustainability or environmental policy
+- [ ] Equal opportunities and modern slavery statements
+- [ ] GDPR / data protection statement
+- [ ] Named references a procurement team can actually call
+
+Anything not held that's commonly asked for is worth knowing now — some
+accreditations take months, and if they're gating work they should be started
+this week rather than after the website launches.
+
+---
+
 ## 6. Commercial targets — CONFIRMED
 
 **The job of marketing is to continue 50% year-on-year growth.**

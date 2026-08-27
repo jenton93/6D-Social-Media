@@ -2,6 +2,11 @@
 
 Sequenced so that nothing depends on something that doesn't exist yet.
 
+**Priority order changed once the procurement bottleneck came to light.** The
+website and credentials pack now come before everything else, because they
+unblock work that has already been won and is currently being lost at the
+finance gate. Content is the slower, second job.
+
 ---
 
 ## Weeks 1–2 — Foundations (no publishing)
@@ -9,6 +14,12 @@ Sequenced so that nothing depends on something that doesn't exist yet.
 The temptation is to start posting immediately. Don't. Two weeks of setup
 makes the following eleven weeks worth doing.
 
+- [ ] **Assemble the credentials pack** — company number, VAT, PL and EL
+      insurance certificates, H&S policy, RAMS confirmation, accreditations,
+      T&Cs. This is the highest-value task in the whole plan: it converts
+      demand that already exists. Start it on day one
+- [ ] Identify any accreditation commonly asked for that we don't hold —
+      some take months, so start them now rather than after launch
 - [ ] **Fill in `00-brand-brief.md`** — blocks everything else
 - [ ] Build the questions bank: 20 real client questions (`questions-bank.md`)
 - [ ] Voice calibration: 2 samples of existing writing that sound right
@@ -27,6 +38,9 @@ makes the following eleven weeks worth doing.
 
 ## Weeks 3–4 — Website live, content begins
 
+- [ ] **`/credentials` live first**, with the supplier information pack as a
+      single downloadable PDF. Then tell every stuck event manager it exists —
+      that's a same-week revenue conversation, not a marketing one
 - [ ] Website phase-1 pages live, including 3 case studies
 - [ ] Analytics verified — test a form submission end to end before trusting it
 - [ ] First 4 blog posts drafted (a month's buffer before publishing starts)
