@@ -333,39 +333,57 @@ a generator or will the house supply do?", "what happens if it fails?"*
 
 # Content, /services/content
 
-## The material that plays on the screens, made by the people running them
+## We make the content, not just play it
 
-Content usually comes from an agency or a freelance designer with no
-connection to the team operating the screens on the day. Then it arrives in
-the wrong aspect ratio, or the wrong codec, or forty minutes before doors.
+Most production companies put content on screens. They don't make it. So the
+material arrives from an agency or a freelance designer with no connection to
+the team running the show, and turns up in the wrong aspect ratio, or the
+wrong codec, or forty minutes before doors.
 
-We do both, so it doesn't.
+We design and build it ourselves.
 
-### What we do
+### What we make
 
-- **An upload portal** for your presenters. They send their slides to one
-  place, by a deadline, and we take it from there. No chasing attachments
-  round an inbox on the morning of the show
-- **Slide design**, built for the screen you're actually using rather than for
-  a laptop
-- **Slide fixing**, which is most of the job. Presenters send what they send.
-  We make it work on a 30-foot screen without changing what they wanted to say
-- **Intro videos and stings**
-- **Post-event editing**: the footage from the day, cut into something you can
-  use
-- **Full content design and management**, if you'd rather hand over the whole
-  thing
+- **Opening films and intro sequences.** The thing that sets the room up
+  before anyone speaks
+- **Presentation and slide design**, built for the screen it's going on rather
+  than for a laptop. A deck designed for a 30-foot LED wall is not the same
+  deck
+- **Stings, transitions and screen graphics** through the show
+- **Post-event edits.** The footage from the day cut into something you can
+  actually use afterwards, rather than three hours of raw recording nobody
+  watches
+- **Full content design and management** across an event, if you'd rather hand
+  over the whole thing
+
+⛔ *Anything missing? Motion graphics, animated award reveals, lower thirds,
+delegate-facing screens, social cut-downs?*
+
+### And we handle everyone else's
+
+Not all the content on a show is ours to make. Presenters send their own, and
+that's where most shows come unstuck.
+
+- **An upload portal.** Presenters send their slides to one place, by a
+  deadline. No chasing attachments round an inbox on the morning
+- **Slide fixing**, which is a bigger job than it sounds. Presenters send what
+  they send. We make it work on the screen without changing what they wanted
+  to say
+- Formats, aspect ratios and codecs sorted before the room opens
+
+### Why it matters that it's one team
+
+The people making the content are the people running the screens. So the
+format is right, the timing is right, and when a presenter turns up at 8am
+with a new version, the person fixing it is already in the room.
+
+It's also why the post-event edit is any good. We were there, we know which
+moment mattered, and we already have the footage.
 
 ### Can I take just this?
 
 Yes, and some clients do. One takes content from us and nothing else, for an
 event we don't otherwise touch.
-
-### Why it matters that it's the same team
-
-The people making the content are the people running the screens. So the
-format is right, the timing is right, and when a presenter turns up at 8am
-with a new version, the person fixing it is already in the room.
 
 ### How pricing works
 
@@ -373,6 +391,5 @@ with a new version, the person fixing it is already in the room.
 
 ### Questions we get asked
 
-⛔ *Three real ones from the questions bank. Likely candidates: "what if a
-presenter misses the deadline?", "can you work in our template?", "who owns
-the files afterwards?"*
+⛔ *Three real ones. Likely: "what if a presenter misses the deadline?", "can
+you work in our brand template?", "who owns the files afterwards?"*
