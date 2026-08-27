@@ -11,15 +11,15 @@ author: ⛔ Jenton or Christian
 publish_date: ⛔
 meta_title: Why we don't book crew from a list | 6D Group
 meta_description: A booking system can tell you someone can operate a desk. It can't tell you whether they can talk to a client, or spot a problem before it becomes one.
-voice_check: draft — read aloud
+voice_check: pass — approved by client 27 Aug 2026
 ---
 
-> **Cornerstone post, drafted from the voice note.** Almost all of this is
-> yours — I've cut the repetition and put it in order. If a sentence doesn't
-> sound like you, tell me which and I'll fix that one rather than rewriting
-> the lot.
+> **APPROVED — ready to publish.** Cornerstone post, drafted from the
+> 27 Aug voice note. Raw transcript at `content/raw/`.
 >
-> Raw transcript kept at `content/raw/` so we can see what got lost.
+> Three optional checks before it goes live, none blocking: is the
+> countdown-timer CEO identifiable (change a detail if so), swap `⛔` author
+> for a name, and set the publish date.
 
 ---
 
@@ -120,10 +120,89 @@ You don't get that from a list.
 
 ---
 
-⛔ **Check before publishing**
-1. The three crew types — is that how you'd describe them? They're the best
-   thing in the post and they should be exactly your framing
-2. The countdown timer — real example? If it's a specific client, is it
-   identifiable? Change a detail if so
-3. "We could probably use one too" — happy to keep? It's a good, disarming
-   line and it makes the rest read as considered rather than defensive
+## Social cut-downs
+
+*Written now, not later. Every one stands alone as a useful post — someone who
+doesn't click should still have got something.*
+
+---
+
+### LinkedIn — company page *(Slot A, Thursday)*
+
+Three people, all booked onto the same show, all fine on paper.
+
+The first ticks every box. Knows the kit, done events this size, worked the
+building before. He also can't talk to a client, and when the plan moves he
+can't move with it.
+
+The second doesn't really know the kit — but he'll spot the problem before
+anyone else has, find someone who can fix it, and leave the client calmer than
+before they asked.
+
+The third is quiet. Everything on the list gets done and nobody has to ask.
+
+A booking system can only see the first one. He's the only one it can measure.
+
+You need all three in the room, and none of it is on the form.
+
+New post on why we hand pick crew for every event 👇
+⛔ *link*
+
+*#eventprofs #eventproduction #liveevents*
+
+---
+
+### LinkedIn — director *(first person, in the week)*
+
+⛔ *Jenton or Christian*
+
+I've been on shows where every single person was qualified for their role and
+it was still a mess.
+
+Nobody had thought about the team as a team.
+
+You need someone who's good with a client. Someone who spots problems. Someone
+quiet who works through the list without being asked. They're rarely the same
+person, and there's no field on a booking form for any of it.
+
+Wrote up why we still pick crew by hand, even though it's slower.
+
+⛔ *link*
+
+---
+
+### Instagram *(carousel, 6 frames)*
+
+1. **"Three people. Same show. All fine on paper."**
+2. **Ticks every box.** Knows the kit. Done the size. Worked the room.
+   *Can't talk to a client. Can't adapt when the plan moves.*
+3. **Doesn't know the kit.** Picks it up in twenty minutes.
+   *Finds the problem first. Calms the client down.*
+4. **Quiet.** Sits at the back.
+   *Every job on the list, done, unasked.*
+5. **A booking system sees the first one.** It's the only one it can measure.
+6. **Crew are hand picked for the event.** 6D Group
+
+Caption: opening two lines of the post, then "full thing on the site, link in
+bio".
+
+⛔ *Photo option instead of text frames: a real get-in with crew visible. Much
+stronger if we have one.*
+
+---
+
+### Facebook *(warmer, plainer, link last)*
+
+There's a version of hiring event crew that works like a search filter — who's
+free, who's certified, what do they cost.
+
+It's efficient, and above a certain size you can't do it any other way. But it
+can only ever see one kind of person: the one who ticks the boxes on paper.
+
+The ones who calm a nervous client down, or spot the thing that's about to go
+wrong, or quietly work through every job without being asked — none of that
+fits in a form.
+
+We wrote about why we still pick crew by hand for every event.
+
+⛔ *link*
