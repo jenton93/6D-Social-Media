@@ -17,7 +17,7 @@ Most large shows need four or five of these. Most suppliers want to sell you
 all of them or none.
 
 We'd rather you took the parts that help. One department or all six, on one
-contract, with the same crew chief either way, so nobody spends the get-in
+quote, with the same crew chief either way, so nobody spends the get-in
 working out whose responsibility something is.
 
 **Set & Staging** · **Video** · **Lighting** · **Sound** · **Power** ·
@@ -276,7 +276,7 @@ need a separate comms system?"*
 *One of the two departments most clients source separately. This page has a job
 the others don't: explaining why it shouldn't be.*
 
-## Distribution and supply, on the same contract as everything else
+## Distribution and supply, on the same quote as everything else
 
 Power is usually somebody else's problem. Which means when it's wrong, it's
 also somebody else's problem, and you're the one standing in the room.

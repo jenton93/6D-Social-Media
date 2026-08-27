@@ -3,8 +3,9 @@
 **`6D-website-copy.pdf`** , the full site copy as a document, for sending to
 Christian or anyone else who needs to read it away from a browser.
 
-22 pages. Cover, then one section per site page, in the brand with Audiowide
-and Arimo embedded. Amber blocks are the outstanding gaps.
+17 pages. Title, then one section per site page, in the brand with Audiowide
+and Arimo embedded. Gap blocks are hidden in the PDF, so it reads as finished
+copy rather than a working document. The interactive preview still shows them.
 
 ## Regenerating it
 

@@ -37,7 +37,7 @@ video, power and content. Take one department or all six.
 
 **Ten years.** Every job from a recommendation.
 **Six departments.** Take one or all of them.
-**One contract**, however many you take.
+**One quote**, however many you take.
 
 <!-- Scale without headcount, per §4. Every figure is true and checkable, and
      "every job from a recommendation" is the strongest line on the page, nobody can manufacture it. -->
@@ -97,11 +97,11 @@ that help.
 **Video**: screens, playback, cameras.
 **Lighting**: where we started, and still what we're fussiest about.
 **Sound**: from a panel discussion to a room that fights you. `‹ASSUMED›`
-**Power**: distribution and supply, on the same contract as everything else.
+**Power**: distribution and supply, on the same quote as everything else.
 **Content**: the material that plays on the screens, made by the people
 running them.
 
-Take one. Take all six. It's one contract and one crew chief either way, and
+Take one. Take all six. It's one quote and one crew chief either way, and
 taking more of them often costs less than buying them separately, because the
 crew and the transport are shared.
 
