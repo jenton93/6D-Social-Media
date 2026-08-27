@@ -63,15 +63,19 @@ them accordingly.
 
 ## Exhibitions
 
-Both sides of the hall: exhibitor stands and organiser feature areas.
+**One stand for a single exhibitor, or forty stands for the organiser.**
 
-- **Exhibitor stands**, built and crewed
-- **Organiser features**: main stages, seminar theatres, registration and
-  entrance builds
+Both ends of that, and everything between.
+
+- **Exhibitor stands**, built and crewed. One is a job worth doing
+- **Organiser builds** across a whole show, at forty stands and up
+- **Seminar areas**: staging, screens, sound and lighting for the smaller
+  theatres
+- **Main room keynote**, which is a conference inside an exhibition and gets
+  treated like one
 - **Power distribution** across a hall
-- **Video and lighting** within the venue's rigging rules
-- Working inside the hall's build and break windows, which are usually the
-  hardest constraint on the job
+- Working inside the venue's build and break windows, usually the hardest
+  constraint on the job
 
 ## Product launches
 
