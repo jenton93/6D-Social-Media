@@ -60,6 +60,27 @@ conversation happens at the drawing stage rather than in the loading bay.
   and a full-width backdrop come off the same process
 - **Stock decking** in 4, 6 and 8ft lengths by 1, 2, 3 and 4ft, so most stage
   shapes come out of stock rather than out of a fabrication budget
+- **A stock panel system** in metric. Heights from 1800mm in 300mm steps,
+  widths from 300mm in 100mm steps. Between the two, almost any set size comes
+  out of panels we already own
+
+### The panels get used again
+
+That last point is worth spelling out, because it's the difference between a
+set that exists for one day and one that keeps working.
+
+A bespoke build is made, used once, and skipped. A stock panel system gets
+specified, built, struck, cleaned and used on the next show. Same look on your
+event, considerably less of it in a bin afterwards.
+
+We didn't do it for environmental reasons, we did it because it's a better way
+to run a workshop. But it is the environmental answer, and it's one we can
+actually evidence rather than claim. If you're being asked to report on the
+footprint of your event, a reused set is a real number and a bespoke one
+isn't.
+
+⛔ *Do we track how many times a panel gets used, or the reuse rate? A figure
+here would be genuinely unusual, and nobody else in this market has one.*
 
 ### Why the two together matter
 

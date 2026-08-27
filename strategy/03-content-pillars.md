@@ -211,6 +211,14 @@ without ever disclosing a payroll.
 - The warehouse: prep, testing, what a kit check actually looks like
 - Load-out at 2am. Unglamorous, and it's what people quietly respect
 - New kit in, with the reason it was bought rather than a spec sheet
+- **Sustainability, evidenced rather than claimed.** Two real, operational
+  examples exist and neither was done for green reasons: stock set panels that
+  get reused instead of bespoke builds that get skipped, and power designed
+  around fuel with logged consumption afterwards. Corporate clients are
+  increasingly asked to report event footprint and most of their suppliers
+  can't help. This is worth a blog post and probably a website thread, but it
+  must stay concrete. A "sustainability" page with no numbers on it reads as
+  greenwash and would undo the credibility of the real thing
 
 Native home is Instagram and Facebook for the texture, but **the crew bench
 and redundancy material belongs on the website too** — it's Job 3, and a
