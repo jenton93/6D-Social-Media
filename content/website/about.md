@@ -15,8 +15,8 @@ voice_check: client-edited 27 Aug 2026. Jenton's version
 
 Ten years ago, doing shows for people who'd been recommended us by someone else
 who'd worked with us. That's still how it works, every job we've ever had came
-from a recommendation. We've never advertised, and until now we've never had a
-website.
+from a recommendation. In ten years we never advertised, had a website, or even
+a business card.
 
 The lighting turned into set and staging, then video, then sound, power and the
 content that plays on the screens. Not because we set out to be a full-service
