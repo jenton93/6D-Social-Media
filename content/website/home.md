@@ -105,10 +105,12 @@ Take one. Take all six. It's one contract and one crew chief either way, and
 taking more of them often costs less than buying them separately, because the
 crew and the transport are shared.
 
-<!-- Set & Staging and Video lead, they're the front door (§1). Lighting sits
-     third but carries the origin, which is the credibility line. Power and
-     Content are called out because they're the two most people have to source
-     separately. -->
+<!-- Order: Set & Staging and Video first, they win the first job. Lighting
+     third, carrying the origin line. Power and Content called out because
+     they're the two most clients source separately.
+     No labels on the cards. "Front door" is internal funnel language and
+     "Since 2015" reads as odd on a public page. Neither means anything to a
+     producer. -->
 
 **[See what each department does]**
 
