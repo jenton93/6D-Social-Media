@@ -151,8 +151,12 @@ this world — explaining crew booking to them is explaining their own job. For
 the 90%, the version that works is *"we're the depth you don't have this
 month"*, not *"the big firms allocate badly"*.
 
-**This is the pillar that generates reach**, and it's native to the directors'
-personal profiles rather than the company page. It has to be arguable — if
+**This pillar lives on the directors' personal profiles, not the company
+page.** From a company, the argument reads as briefing against competitors.
+From a named person with twenty years in the job, it reads as a view — same
+words, different reception entirely. See `09-director-linkedin.md`, "The
+argument that only a director can make". The company page and website stick to
+the positive version. It has to be arguable — if
 nobody in the industry could disagree with it, it isn't a point of view.
 
 ---

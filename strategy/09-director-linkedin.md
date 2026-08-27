@@ -67,6 +67,62 @@ a graphic that says "TOP 5 TIPS".
 
 ---
 
+## The argument that only a director can make
+
+There's a view in this business worth airing — that clients buy size believing
+it buys backup, when what it actually buys is allocation. Pooled PMs who may
+not attend. A tech booked by a crew booker filling a gap. Kit specified from
+stock.
+
+**That view cannot go on the website or the company page.** From a company,
+it's a supplier briefing against competitors, and producers file that under
+*someone who'll do it about me next.*
+
+**From a director's personal profile it's a person with an opinion**, formed
+by twenty years of doing the job. Same content, completely different reading.
+That's not a loophole — it's genuinely how people receive things. A named
+individual saying what they've seen carries a different weight from a brand
+making a claim, and it's the main reason personal profiles out-reach company
+pages on this kind of material.
+
+### The register that makes it work
+
+Not competitor analysis. **Personal experience.**
+
+| Doesn't work | Works |
+|---|---|
+| "Large suppliers allocate PMs from a pool" | "I've walked into rooms where the client had never met their PM before that morning" |
+| "Their crew booking is a numbers game" | "A crew booker once asked me if I'd done conferences before. I'd done four in that building" |
+| "Big companies push kit from stock" | "You can usually tell a kit list that came off a stock sheet — there's a projector on it that's wrong for the room" |
+| "It's all about margin" | *(cut. No version of this reads as anything but bitter)* |
+
+The left column is an accusation about other people's businesses. The right
+column is something that happened, and lets the reader draw the conclusion.
+It's more persuasive precisely because it doesn't argue.
+
+### Three rules
+
+1. **Never name anyone.** Not Aztec, Encore, 4Wall, White, or a venue, or a
+   client. Describe the situation. Every reader who's lived it supplies the
+   names themselves
+2. **Always land somewhere constructive.** The post isn't "this industry is
+   broken". It's "this is why we do it the other way", or "this is what I'd
+   ask a supplier before booking them". Complaint without a point is just
+   complaint
+3. **Only tell stories you were actually in.** The specificity is the whole
+   value, and invented anecdotes in a market this small get recognised
+
+### Why this is the thing to start with
+
+Director posts need **no website, no photographs, no client permissions and no
+developer.** Everything else in this plan is waiting on something. This isn't.
+
+The material already exists — it's what gets said in the van on the way home.
+One voice note this week starts the only part of the strategy with zero
+dependencies, and it's also the highest-reach channel available.
+
+---
+
 ## Getting the words out of a busy director
 
 Nobody senior has time to write two posts a week, and the ones written to
