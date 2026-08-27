@@ -101,7 +101,23 @@ That combination gives the content a clear shape.
 | **The second sale** | Lighting, Sound, Power, Content | Added on later shows | Aimed at people who are already clients |
 | **The credential** | Lighting | Where we came from | Authority — see below |
 
-**The lighting heritage is an asset, and it's being under-used.**
+### ⚠️ Correction: don't aim second-sale content at lighting
+
+I previously identified lighting as the department to target with second-sale
+content, on the logic that it's under-bought and carries the origin story.
+
+**That was wrong. Lighting is currently the weakest of the six departments**
+(internal, 27 Aug). Driving demand at a department we can't yet serve as well
+as the others is the fastest way to damage a relationship we already have,
+and it would undercut the consistency argument the whole site is built on.
+
+**Aim the second-sale content at Power and Content instead.** Both are
+genuinely strong, both are normally sourced from separate suppliers, and both
+now have the best pages on the site. That's demand we can serve.
+
+Revisit lighting when it's back to the standard of the rest.
+
+**The lighting heritage is still an asset, but only as heritage.**
 
 Starting as a lighting company is exactly the kind of specific, unfakeable
 detail the voice guide keeps asking for. It earns the right to have opinions
@@ -109,8 +125,12 @@ about lighting that a staging company doesn't get to have. It's also a good
 origin story, and origin stories are one of the few "about us" formats that
 people actually read.
 
-Used properly it does two jobs at once: it makes lighting content credible,
-and it quietly supports the whole positioning — a company that came up through
+It belongs on the About page, where it explains why this is a technical
+company rather than an assembled one. It does **not** belong on the lighting
+service page as a capability claim, because a client who buys lighting
+expecting our best work would find out otherwise.
+
+Used this way it still supports the positioning — a company that came up through
 a technical discipline, rather than one assembled out of a kit catalogue.
 
 **The second-sale job is the most valuable content nobody writes.**

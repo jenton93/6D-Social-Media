@@ -170,34 +170,50 @@ mid-session?"*
 
 # Lighting, /services/lighting
 
-*This is where the company started. Say so, it's the most credible sentence
-available on any of these pages.*
+> **Internal note, not for publication.** Lighting is currently the weakest of
+> the six. So this page is written straight: what we do, accurately, with no
+> claim that it's our best work. The "where we started" story stays on the
+> About page as heritage, where it explains why we're a technical company. It
+> does *not* belong here as a capability claim, and the line about it still
+> being what we're fussiest about has been cut, because it isn't true and a
+> client would find that out.
+>
+> See `00-brand-brief.md` for the knock-on: don't aim second-sale content at
+> lighting.
 
-## Where we started
+## Lighting for the room and the camera
 
-6D began as a lighting company. Everything else grew around it.
+### What we do
 
-That's worth knowing for two reasons. It's why we're particular about lighting
-in a way a staging company usually isn't. And it's why, if you already use us
-for set or video, this is the department you're most likely not to be using
-and probably should be.
+- **LED fixtures throughout**
+- **Lighting plans designed for camera as well as for the audience.** A room
+  that looks right to the people in it and a room that films well are not the
+  same room, and awards and recorded conferences need both
+- **Rigging that complements the rest of the show.** The lighting positions
+  get worked out alongside the set, the screens and the PA rather than after
+  them, because they're all competing for the same points
 
-### The problem it solves
+### Why designing for camera matters
 
-⛔ *Your version.* `‹ASSUMED: a lit room and a lit show are different things,
-and most conference lighting is designed as the former›`
+More of every event ends up on film than used to. Recorded sessions, clips for
+internal comms, footage for next year's promotion. A rig lit only for the room
+gives you flat faces on camera and a set that photographs badly, which you
+find out weeks later when the edit arrives.
 
-### What you get
+Since we're often making the post-event content as well, we'd rather it looked
+right in the first place.
 
-⛔ *Deliverables.*
+### Can I take just this?
 
-### How it runs
-
-⛔ *Stages.*
+Yes.
 
 ### How pricing works
 
-*Same block as above.*
+*Same block as the other five pages.*
+
+### Questions we get asked
+
+⛔ *Three real ones.*
 
 ---
 ---
