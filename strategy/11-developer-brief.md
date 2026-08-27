@@ -6,24 +6,26 @@ each line traces back to a decision in `04-website-plan.md` or
 
 ---
 
-## In-house or Will at K9 Systems?
+## Status
 
-**Use Will.** The reasoning is capacity, not capability.
+**Will at K9 Systems has been engaged since January. He is waiting on copy.**
 
-The scarcest resource in this business is senior time, and it's the same
-resource that delivers high-margin production work, services the growth
-target, and records the voice notes the content plan runs on. Spending it on
-WordPress is the most expensive way to save money available.
+That's been the blocker for eight months, and it's worth naming why, because
+it changes how this gets handed over.
 
-There's a worse risk than cost. Building in-house means the site gets picked
-up between shows and put down again when September arrives — and a site that's
-perpetually 70% finished is *precisely* what "they don't really exist" looks
-like. The problem being solved here is absence. A half-built site doesn't fix
-it; in some ways it confirms it.
+Copy hasn't happened because writing it requires a long, uninterrupted sitting
+from the person with the least available time in the business — the same
+constraint that shows up everywhere else in this plan. Handing back a template
+with twelve blanks to fill in would produce the same result again.
 
-Build it once, properly, with someone whose job it is. Keep the in-house
-effort for the copy, the photos and the blog — which are the parts nobody
-external can do anyway.
+**So the approach is: everything gets written, including the parts I have to
+assume.** Assumptions are marked `‹ASSUMED›` and stated plainly. Correcting a
+wrong sentence takes thirty seconds; composing a right one from a blank page
+takes an afternoon that never comes.
+
+Anything still marked ⛔ is a fact I genuinely cannot invent — a company
+number, an insurance figure. Those are the only things needed before Will can
+start, and each is a lookup rather than a piece of writing.
 
 ---
 

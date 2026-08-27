@@ -11,9 +11,10 @@ primary_cta: Talk to us about a show
 voice_check: draft — not yet read aloud
 ---
 
-> **DRAFT 1.** Gaps marked ⛔ need your input. Everything else is written from
-> the brief and ready to argue with. Read it out loud before approving —
-> that's the test in `01-voice-and-tone.md` §6.
+> **DRAFT 2 — nothing left blank.** `‹ASSUMED›` means I've written what's most
+> likely true; correct it or delete the marker. ⛔ means a fact I can't invent.
+> Read it out loud before approving — that's the test in
+> `01-voice-and-tone.md` §6.
 
 ---
 
@@ -53,8 +54,9 @@ That isn't a failure of an in-house team. It's a Tuesday in September. The
 question is just who you call, and whether they'll still be the same people
 when you call again in March.
 
-⛔ *One line here naming the venues or types of show we work across, once we've
-agreed what can be said publicly.*
+Conferences, awards and large corporate events — most often in central London
+venues, working alongside the in-house team rather than around them.
+`‹ASSUMED›`
 
 ---
 
@@ -66,7 +68,7 @@ that help.
 **Set & Staging** — the physical build.
 **Video** — screens, playback, cameras.
 **Lighting** — where we started, and still what we're fussiest about.
-**Sound** — ⛔ *one line*
+**Sound** — from a panel discussion to a room that fights you. `‹ASSUMED›`
 **Power** — distribution and supply, on the same contract as everything else.
 **Content** — the material that plays on the screens, made by the people
 running them.
@@ -100,17 +102,31 @@ the same crew next time.
      "is anyone behind you?" without describing how anyone else operates —
      which matters, because Aztec is a client. -->
 
-⛔ *Crew bench line goes here — how many regular crew we work with and how long
-we've worked together. This is the most persuasive sentence on the page and I
-can't write it without the numbers.*
+We work with the same crew we've used for years — people we've chosen, not
+people a booker found on the day. On a large show that's a team of ⛔ *number*
+on site, and you'll recognise most of them from the last one.
+
+> ⛔ **This is the most persuasive sentence on the page and I need two numbers
+> for it:** roughly how many regular freelance crew you call on, and the crew
+> size on a typical large show. It's the answer to "is anyone behind you?" —
+> which is the objection that actually loses jobs.
 
 ---
 
 ## Recent work
 
-⛔ *Three case studies. Anonymised unless the client has agreed to be named:
-"1,600 delegates, three halls, 11-hour get-in" proves more to this reader than
-a logo does. Needs the permissions list.*
+⛔ **Three case studies.** Format them like this — anonymised unless the client
+has agreed to be named, because the numbers prove more to this reader than a
+logo does:
+
+> **A three-day conference for a professional services client**
+> 1,400 delegates · main auditorium plus two breakout rooms · 14-hour get-in ·
+> crew of 22 · the client's own content team on site from 7am
+>
+> *One sentence on what was difficult, and one on how it went.*
+
+Send me the numbers from three recent shows and I'll write them up. Rough
+figures are fine — nobody is auditing the delegate count.
 
 **[See more of our work]**
 
@@ -118,9 +134,17 @@ a logo does. Needs the permissions list.*
 
 ## Who we are
 
-⛔ *Two or three sentences and a photograph of the senior team. Names, what
-they do, how long they've been doing it. This page is read by people deciding
-whether to trust us with their reputation, so the people have to be visible.*
+6D started as a lighting company and grew into everything around it. Ten
+years on, the people who started it are still the people running the shows.
+`‹ASSUMED›`
+
+**Jenton Hollingum** and **Christian Murphy** run the company and run the
+shows. ⛔ *roles, and a line each on what they've done* `‹ASSUMED they're both
+client-facing on site›`
+
+⛔ *A photograph of the two of you. Doesn't need a photographer — a decent
+phone shot in the unit is better than a studio portrait, and more in keeping
+with everything else on the site.*
 
 **[More about us]**
 
@@ -131,7 +155,9 @@ whether to trust us with their reputation, so the people have to be visible.*
 Tell us about the show — the room, the date, and what's worrying you about it.
 You'll get a reply from the person who'd be running it, usually the same day.
 
-⛔ *Confirm: is same-day accurate? Only promise what always happens.*
+> ⛔ **Confirm before publishing: is same-day always true?** Only promise what
+> always happens — a missed promise on the contact page costs more than the
+> promise gains. "Within a day" is safer if there's any doubt.
 
 **[Talk to us about a show]**
 📞 0204 583 8080
@@ -142,6 +168,9 @@ You'll get a reply from the person who'd be running it, usually the same day.
 
 6D Group Ltd · ⛔ *registered address* · Company no. ⛔ · VAT no. ⛔
 Insurance and supplier information → /credentials
+
+⛔ *Four lookups, five minutes. These are load-bearing: they're most of what
+makes the site read as a real company rather than a page someone made.*
 
 ---
 

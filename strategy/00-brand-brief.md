@@ -544,6 +544,19 @@ quiet argues against us.
 
 ---
 
+## 5. Voice inputs — PARTIAL
+
+**Directors: Jenton Hollingum and Christian Murphy.**
+
+⛔ Still needed:
+- Roles, and one line each on background — needed for the About page
+- Which of you will post on LinkedIn (see `09-director-linkedin.md`)
+- Any topics off-limits: clients we can't mention, opinions we won't air
+- Two samples of existing writing that sound right — even an email you were
+  pleased with. Two is enough to calibrate the voice properly
+
+### Original section (for reference)
+
 ## ⛔ 5. Voice inputs
 
 - Who is the face of the business on LinkedIn? Founder, or the company page?

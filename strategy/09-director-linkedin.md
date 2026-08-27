@@ -14,9 +14,14 @@ people. If we only do one of these well, it should be this one.
 
 | Who | Posts | Role |
 |---|---|---|
-| Director A | 2 per week | Primary voice. Point of view + what they're seeing in the market |
-| Director B | 1 per week | Second voice. Different angle — operations, delivery, client-side |
+| **Jenton Hollingum** | 2 per week | Primary voice. Point of view, what's happening in the market |
+| **Christian Murphy** | 1 per week | Second voice. Different angle — delivery, on-site, client-side |
 | Company page | 3 per week | The record. Blog, proof, announcements |
+
+⛔ *Which of you actually wants to do this?* The split above is a starting
+assumption, not a decision. If one of you would rather not post at all, say so
+now and we'll put everything behind the other — one director posting properly
+beats two doing it reluctantly, and reluctance is legible in the writing.
 
 Two directors posting once or twice a week beats one director posting daily,
 because two voices reach two different networks and neither burns out.
