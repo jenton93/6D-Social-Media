@@ -9,6 +9,11 @@ The instinct is right and the idea is strong. It uses the one thing we have
 that's genuinely hard to copy — knowing what a show actually needs — and
 spends it on someone at the exact moment they're most exposed.
 
+It also follows directly from the principle in `00-brand-brief.md` §7: **no
+company is right for every event, and no client is right for every company.**
+If we're not the right fit for the show they're moving to, helping them buy it
+well is simply what follows from believing that.
+
 It also directly addresses the demand we already know exists: clients leave
 the building, don't get the same service, and come back asking. This meets
 them *before* the disappointment rather than after it.
@@ -38,30 +43,17 @@ kind of thing people repeat to colleagues afterwards.
 bid. One of those is worth more over five years than a single job — which is
 exactly the argument being made here.
 
-## 2. ⚠️ Talk to QEII Live first
+## 2. ✅ QEII Live — settled
 
-This is the one to sort before offering it to anybody.
+Conversation already had, and they're comfortable. That was the main risk and
+it's closed.
 
-QEII Live is a client and one of the strongest credentials we have. A client
-of theirs leaves the building, and we follow them out and quote them directly.
-However fair that is, it can look like disintermediation — and if they hear
-about it from their client rather than from us, it looks worse.
+Worth still exploring the stronger version: **offer it jointly**, as something
+QEII Live extends to departing clients with us delivering it. Makes them look
+good, keeps us inside the relationship, and turns a courtesy into a shared
+service. One conversation.
 
-The defence is genuinely good, so make it in advance rather than afterwards:
-
-- The event is at another venue. QEII Live **can't** service it — there's no
-  work being taken from them
-- The client keeps having a good experience with the people they associate
-  with the QEII, which reflects well on the building
-- We'd rather they knew and were comfortable than found out sideways
-
-There's an even better version available: **do it jointly.** Offer it as
-something QEII Live extends to their departing clients, with us delivering it.
-That makes them look good, keeps us inside the relationship, and removes the
-awkwardness entirely. ⛔ *Worth exploring — costs one conversation.*
-
-Same principle applies to any agency or in-house team whose client we'd
-follow. Ask first.
+Same rule for any agency or in-house team whose client we'd follow: ask first.
 
 ## 3. "Ripping them off" can never be the external framing
 

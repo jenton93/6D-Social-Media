@@ -34,6 +34,15 @@ Every page and post declares one in front matter:
 
 They succeed on different timescales. Never compare their metrics.
 
+## The principle underneath everything
+
+> *"No company is the right fit for all events. No client is the right fit for
+> all companies. We know that and live by that."*
+
+This is why we never brief against competitors — not tactics, genuine belief.
+Sometimes the other supplier is the right answer. It also explains pick and
+mix, the handover offer, and why turning work down is fine.
+
 ## Hard rules — these are expensive to get wrong
 
 1. **Never state or imply headcount.** Perceived capacity is a screening

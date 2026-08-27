@@ -78,6 +78,18 @@ and nobody has to ask you the same questions twice.
 
 ---
 
+## What we think about the work
+
+No company is the right fit for every event. No client is the right fit for
+every company. We know that, and we work like we know it.
+
+It's why we'll tell you when something won't work, why you can take one
+department instead of six, and why — if you're taking an event somewhere we're
+not the right answer for — we'd still rather help you buy it well than say
+nothing.
+
+---
+
 ## How we work
 
 **Take one department or all six.** Most suppliers want the whole show. We'd

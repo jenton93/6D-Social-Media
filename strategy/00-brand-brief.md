@@ -1105,6 +1105,52 @@ mouth apart from marketing, and every number in the review becomes an opinion.
 
 ---
 
+## 7. The principle underneath all of it
+
+> *"No company is the right fit for all events. No client is the right fit for
+> all companies. We know that and live by that."*
+
+This belongs near the front of the brief rather than the back, because it
+quietly explains almost every other position in it.
+
+**It makes the competitor stance genuine rather than diplomatic.** The rule
+against briefing against other suppliers (§3, §5b) has been justified so far
+on tactical grounds — producers distrust it, it costs relationships. But the
+real reason is simpler: **sometimes the other supplier is the right answer.**
+Believing that is what makes the restraint credible instead of merely polite,
+and readers can tell the difference.
+
+**It's the honest form of "we're not the cheapest."** Not a boast about
+quality. A statement that fit matters more than price, in both directions.
+
+**It justifies pick and mix.** If no supplier is right for everything, a
+client should be able to take the departments where we're the right answer and
+go elsewhere for the rest. The commercial model follows from the belief.
+
+**It justifies the handover offer** (`12-the-handover-offer.md`). Helping a
+client buy well from someone else is only strange if you think every job
+should be yours.
+
+**And it permits turning work down** — which is worth saying, because a
+company that never declines anything is telling you something about how busy
+it is.
+
+### How to use it
+
+Sparingly, and never as a slogan. It's a belief that should be *visible in
+behaviour* rather than stated repeatedly — the handover offer demonstrates it
+better than any sentence could.
+
+One place it belongs explicitly: the **About page**, in something close to
+these words. It's disarming, it's unusual for a supplier to say, and it makes
+everything else on the page read as more honest.
+
+⛔ *A director post on this would work — the honest version of "we don't win
+everything, and we don't want to". Needs an example of a job we turned down or
+pointed elsewhere, or it's just a nice sentiment.*
+
+---
+
 ## The 20 questions that become the content
 
 Once sections 1–6 are answered, the fastest route to a year of content is to
