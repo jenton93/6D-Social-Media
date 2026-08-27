@@ -25,7 +25,7 @@ working out whose responsibility something is.
 
 *[Six cards linking to the pages below]*
 
-### Why it's built this way
+### How it works
 
 Take one department and it's priced as one. Nothing gets added because you
 didn't take the other five.
@@ -38,19 +38,15 @@ of transport on your budget.
 And it's simpler. One supplier to brief, one invoice, and nobody arguing about
 whose problem it is when something goes wrong at 4pm.
 
-### How pricing works
-
-*This block is the same on all six department pages.*
-
 Every event is quoted individually. The room, the get-in window and the crew
-days move the number more than the kit list does.
-
-We quote for the show you've described, including the parts that are easy to
-leave off: rehearsal time, crew numbers, spares, and the get-in hours the
-venue will actually give you.
+days move the number more than the kit list does. We quote for the show you've
+described, including the parts that are easy to leave off: rehearsal time,
+crew numbers, spares, and the get-in hours the venue will actually give you.
 
 If our number comes in higher than another, it's usually one of those. Ask
 both of us what's included, and the difference explains itself.
+
+*This whole block repeats on all six department pages.*
 
 ---
 ---
@@ -111,9 +107,9 @@ build that lands and one that runs into the small hours.
 
 Yes, and set and staging is where most first jobs with us start.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
@@ -170,9 +166,9 @@ racked up and running.
 
 Yes, and video is one of the two departments most often taken first.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
@@ -222,9 +218,9 @@ right in the first place.
 
 Yes.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
@@ -272,9 +268,9 @@ power page: checkable and not universal.*
 
 Yes.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
@@ -333,9 +329,9 @@ revisited.
 Yes. It's one of the departments most often taken on its own, usually by
 someone who's been let down on it before.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
@@ -399,9 +395,9 @@ moment mattered, and we already have the footage.
 Yes, and some clients do. One takes content from us and nothing else, for an
 event we don't otherwise touch.
 
-### How pricing works
+### How it works
 
-*Same block as the other five pages.*
+*Same block as the services overview.*
 
 ### Questions we get asked
 
