@@ -1,0 +1,532 @@
+<title>6D Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Audiowide&family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+
+<style>
+:root{
+  --ground:#ffffff;
+  --raised:#f5f8f7;
+  --ink:#0c110f;
+  --muted:#5b6b65;
+  --accent:#00895f;
+  --accent-bright:#00c98d;
+  --hairline:#e992e9;
+  --hairline:#e2e9e6;
+  --deep:#0c110f;
+  --deep-ink:#eef3f1;
+  --deep-muted:#94a49e;
+  --flag:#8a5a00;
+  --flag-bg:#fff6e6;
+  --maxw:1120px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0c110f;
+    --raised:#151c19;
+    --ink:#eef3f1;
+    --muted:#94a49e;
+    --accent:#00c98d;
+    --accent-bright:#00e5a0;
+    --hairline:#232d29;
+    --deep:#050807;
+    --deep-ink:#eef3f1;
+    --deep-muted:#94a49e;
+    --flag:#f0b95c;
+    --flag-bg:#241c0c;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0c110f;
+  --raised:#151c19;
+  --ink:#eef3f1;
+  --muted:#94a49e;
+  --accent:#00c98d;
+  --accent-bright:#00e5a0;
+  --hairline:#232d29;
+  --deep:#050807;
+  --deep-ink:#eef3f1;
+  --deep-muted:#94a49e;
+  --flag:#f0b95c;
+  --flag-bg:#241c0c;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--ground);
+  color:var(--ink);
+  font-family:Arimo,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size:17px;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{text-wrap:balance;margin:0}
+p{margin:0}
+a{color:inherit}
+
+/* ---------- chrome ---------- */
+.bar{
+  position:sticky;top:0;z-index:40;
+  background:var(--ground);
+  border-bottom:1px solid var(--hairline);
+}
+.bar-in{
+  max-width:var(--maxw);margin:0 auto;padding:0 22px;
+  display:flex;align-items:center;gap:26px;min-height:64px;flex-wrap:wrap;
+}
+.mark{
+  font-family:Audiowide,Impact,sans-serif;
+  font-size:19px;letter-spacing:.02em;
+  display:flex;align-items:center;gap:9px;
+  text-decoration:none;
+}
+.mark .ring{
+  width:26px;height:26px;border-radius:50%;
+  border:1.5px solid var(--accent);
+  display:grid;place-items:center;
+  font-size:10px;color:var(--accent);
+  font-family:Audiowide,sans-serif;
+}
+nav{display:flex;gap:2px;flex-wrap:wrap;margin-left:auto}
+nav button{
+  font:inherit;font-size:14px;
+  background:none;border:0;cursor:pointer;
+  color:var(--muted);
+  padding:8px 11px;border-radius:5px;
+}
+nav button:hover{color:var(--ink);background:var(--raised)}
+nav button[aria-current="true"]{color:var(--ink);box-shadow:inset 0 -2px 0 var(--accent)}
+nav button:focus-visible,.tog:focus-visible,.mark:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.tog{
+  font:inherit;font-size:12.5px;cursor:pointer;
+  background:var(--raised);color:var(--muted);
+  border:1px solid var(--hairline);border-radius:20px;
+  padding:5px 13px;
+}
+.tog[aria-pressed="true"]{color:var(--flag);border-color:var(--flag);background:var(--flag-bg)}
+
+.note{
+  background:var(--raised);border-bottom:1px solid var(--hairline);
+  font-size:13px;color:var(--muted);
+}
+.note div{max-width:var(--maxw);margin:0 auto;padding:9px 22px}
+
+/* ---------- layout ---------- */
+.page{display:none}
+.page.on{display:block}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+section{padding:58px 0;border-bottom:1px solid var(--hairline)}
+section:last-child{border-bottom:0}
+.narrow{max-width:65ch}
+
+.eyebrow{
+  font-family:Audiowide,sans-serif;font-size:11px;
+  letter-spacing:.13em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:16px;
+}
+h2{font-size:clamp(25px,3.4vw,34px);line-height:1.18;letter-spacing:-.01em;margin-bottom:20px}
+h3{font-size:19px;margin-bottom:9px;letter-spacing:-.005em}
+.lede{font-size:19px;color:var(--muted);line-height:1.62}
+.stack>*+*{margin-top:17px}
+
+/* ---------- hero ---------- */
+.hero{
+  background:var(--deep);color:var(--deep-ink);
+  padding:74px 0 0;border-bottom:0;
+}
+.hero h1{
+  font-family:Audiowide,Impact,sans-serif;
+  font-size:clamp(34px,6.4vw,68px);
+  line-height:1.05;letter-spacing:-.015em;
+  margin-bottom:26px;
+}
+.hero h1 em{font-style:normal;color:var(--accent-bright)}
+.hero p{color:var(--deep-muted);font-size:19px;max-width:52ch}
+.rule{height:2px;background:var(--accent-bright);width:74px;margin:30px 0}
+.depts{
+  display:flex;flex-wrap:wrap;gap:9px 22px;
+  font-size:13.5px;color:var(--deep-muted);
+  margin-top:30px;padding-bottom:52px;
+}
+.depts b{color:var(--deep-ink);font-weight:500}
+
+.stats{
+  background:var(--deep);color:var(--deep-ink);
+  border-top:1px solid rgba(255,255,255,.09);
+  padding:0 0 60px;
+}
+.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:0;padding-top:34px}
+.stat{padding:6px 26px 6px 0}
+.stat b{
+  display:block;font-family:Audiowide,sans-serif;
+  font-size:27px;color:var(--accent-bright);margin-bottom:5px;
+  font-variant-numeric:tabular-nums;
+}
+.stat span{font-size:14.5px;color:var(--deep-muted)}
+
+/* ---------- pieces ---------- */
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:34px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1px;background:var(--hairline);border:1px solid var(--hairline)}
+.grid3 .cell{display:flex;flex-direction:column}
+.cell{background:var(--ground);padding:24px}
+.cell h3{font-size:16px}
+.cell p{font-size:15px;color:var(--muted);margin-top:7px}
+.cell .tag{font-size:11.5px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;margin-top:13px;display:block}
+
+.steps{counter-reset:s;display:grid;gap:1px;background:var(--hairline);border:1px solid var(--hairline)}
+.step{background:var(--ground);padding:22px 24px 22px 68px;position:relative}
+.step::before{
+  counter-increment:s;content:counter(s);
+  position:absolute;left:24px;top:22px;
+  font-family:Audiowide,sans-serif;font-size:15px;color:var(--accent);
+}
+.step h3{font-size:16.5px}
+.step p{font-size:15px;color:var(--muted);margin-top:6px}
+
+.quote{
+  border-left:2px solid var(--accent);
+  padding:3px 0 3px 22px;
+  font-size:20px;line-height:1.5;
+}
+.credits{display:flex;flex-wrap:wrap;gap:10px}
+.credit{
+  border:1px solid var(--hairline);border-radius:3px;
+  padding:8px 14px;font-size:14px;color:var(--muted);
+}
+.cta{
+  background:var(--raised);border:1px solid var(--hairline);
+  padding:30px;display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between;
+}
+.btn{
+  background:var(--accent);color:#fff;text-decoration:none;
+  font-size:15px;font-weight:600;padding:12px 22px;border-radius:4px;
+  display:inline-block;
+}
+:root[data-theme="dark"] .btn,:root:not([data-theme="light"]) .btn{color:#05100c}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .btn{color:#fff}}
+.tel{font-family:Audiowide,sans-serif;font-size:19px;white-space:nowrap}
+
+/* ---------- gap flags ---------- */
+.gap{
+  display:none;
+  background:var(--flag-bg);color:var(--flag);
+  border-left:2px solid var(--flag);
+  padding:9px 13px;font-size:13.5px;line-height:1.5;
+  margin-top:13px;
+}
+body.gaps .gap{display:none}
+.gap b{font-weight:700}
+
+footer{background:var(--deep);color:var(--deep-muted);font-size:13.5px;padding:34px 0}
+footer .wrap{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between}
+
+@media(max-width:640px){
+  section{padding:42px 0}
+  .hero{padding-top:48px}
+  .bar-in{min-height:56px;gap:14px}
+  nav{margin-left:0;width:100%;padding-bottom:8px}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="bar">
+  <div class="bar-in">
+    <a class="mark" href="#" onclick="go('home');return false"><span class="ring">6D</span>6D&nbsp;GROUP</a>
+    <nav id="nav"></nav>
+  </div>
+</div>
+
+<!-- ================= HOME ================= -->
+<div class="page on" id="home">
+  <div class="hero">
+    <div class="wrap">
+      <h1><em>Event production.</em></h1>
+      <p>Set and staging, lighting, sound, video, power and content.</p>
+      <div class="depts">
+        <b>Set &amp; Staging</b><b>Lighting</b><b>Sound</b><b>Video</b><b>Power</b><b>Content</b>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="wrap">
+      <div class="stat-grid">
+        <div class="stat"><b>10 years</b><span>Every job from a recommendation</span></div>
+        <div class="stat"><b>6 departments</b><span>Set, lighting, sound, video, power, content</span></div>
+        <div class="stat"><b>1 quote</b><span>However many departments you take</span></div>
+      </div>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">Who we work with</div>
+      <h2>Agencies and in-house AV teams, mostly</h2>
+      <p class="lede">Usually when a show has got bigger than what you'd normally handle on your own.</p>
+      <p>That isn't a failure of an in-house team. It's a Tuesday in September. The question is just who you call, and whether they'll still be the same people when you call again in March.</p>
+      <div class="gap"><b>⛔ Needs:</b> one line naming the venues or types of show we work across, once we've agreed what can be said publicly.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="narrow stack" style="margin-bottom:30px">
+        <div class="eyebrow">Six departments</div>
+        <h2>Take what you need</h2>
+        <p class="lede">Most suppliers want the whole show or nothing. We'd rather you took the bits that help.</p>
+      </div>
+      <div class="grid3">
+        <div class="cell"><h3>Set &amp; Staging</h3><p>The physical build.</p></div>
+        <div class="cell"><h3>Video</h3><p>Screens, playback, cameras.</p></div>
+        <div class="cell"><h3>Lighting</h3><p>Where we started. Everything else grew around it.</p></div>
+        <div class="cell"><h3>Sound</h3><p>From a panel discussion to a room that fights you.</p></div>
+        <div class="cell"><h3>Power</h3><p>Distribution and supply, on the same quote as everything else.</p></div>
+        <div class="cell"><h3>Content</h3><p>The material that plays on the screens, made by the people running them.</p></div>
+      </div>
+      <div class="narrow" style="margin-top:26px">
+        <p>One quote and one crew chief, however many of them you take.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">The people on your show</div>
+      <h2>One of us is on every show</h2>
+      <p>Not a project manager assigned the week before. The person who quoted it, in the room, for the whole thing.</p>
+      <h3 style="margin-top:14px">Crew are hand picked for the event</h3>
+      <p>We don't put people we don't know into critical roles.</p>
+      <p>After that it's about what the team needs rather than who's available. Every room has someone you trust in it. Someone who's good with a client. Someone who solves problems. Someone quiet who works through the list without being asked. Those are different people, and a team needs all of them.</p>
+      <p>None of that is on a booking form. A form can tell you someone can operate a desk. It can't tell you how they'll be with your client at 4pm when the running order moves.</p>
+      <div class="gap"><b>⛔ Needs:</b> swap in a real per-show crew figure. Never an annual or total crew number, a hundred names across a year reads as a pool, which is the model we're arguing against.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="narrow stack" style="margin-bottom:24px">
+        <div class="eyebrow">Case studies</div>
+        <h2>Shows we've delivered</h2>
+      </div>
+      <div class="grid3">
+        <div class="cell"><div style="background:var(--raised);border:1px dashed var(--hairline);aspect-ratio:16/10;display:grid;place-items:center;color:var(--muted);font-size:13px;margin-bottom:14px">Photograph of the show</div><h3 style="color:var(--flag)">[Show type, and roughly who for]</h3><p style="color:var(--flag);font-variant-numeric:tabular-nums">[delegates · rooms · get-in hours · crew · days on site]</p><p style="margin-top:8px;color:var(--flag)">[One line on what was delivered.]</p><span class="tag">Read the full story</span></div>
+        <div class="cell"><div style="background:var(--raised);border:1px dashed var(--hairline);aspect-ratio:16/10;display:grid;place-items:center;color:var(--muted);font-size:13px;margin-bottom:14px">Photograph of the show</div><h3 style="color:var(--flag)">[Show type, and roughly who for]</h3><p style="color:var(--flag);font-variant-numeric:tabular-nums">[delegates · rooms · get-in hours · crew · days on site]</p><p style="margin-top:8px;color:var(--flag)">[One line on what was delivered.]</p><span class="tag">Read the full story</span></div>
+        <div class="cell"><div style="background:var(--raised);border:1px dashed var(--hairline);aspect-ratio:16/10;display:grid;place-items:center;color:var(--muted);font-size:13px;margin-bottom:14px">Photograph of the show</div><h3 style="color:var(--flag)">[Show type, and roughly who for]</h3><p style="color:var(--flag);font-variant-numeric:tabular-nums">[delegates · rooms · get-in hours · crew · days on site]</p><p style="margin-top:8px;color:var(--flag)">[One line on what was delivered.]</p><span class="tag">Read the full story</span></div>
+      </div>
+      <div class="narrow">
+        <div class="gap"><b>⛔ What I need per show, and it's simpler than before:</b> a photograph, the event type and roughly who for, people in the room, rooms or spaces, get-in hours, crew on site, days on site.<br><br><b>The picture does most of the work.</b> Numbers prove scale, the photo proves it happened, and neither needs a story attached. No account of how difficult it was, because it wasn't, and framing routine work as a struggle undersells it.<br><br><b>Anonymised is fine.</b> "1,600 delegates, three halls, 11-hour get-in" proves more to this reader than a logo does, and needs nobody's permission.</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="cta">
+        <div>
+          <h3>Tell us about the show</h3>
+          <p style="color:var(--muted);font-size:15px;margin-top:5px">The room, the date, and the idea.</p>
+        </div>
+        <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
+          <span class="tel">0204 583 8080</span>
+          <a class="btn" href="#" onclick="go('contact');return false">Talk to us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- ================= WHAT WE DO ================= -->
+<div class="page" id="what">
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">What we do</div>
+      <h2>Six kinds of event, six departments</h2>
+      <p class="lede">Conferences, awards, exhibitions, product launches, festivals and install.</p>
+      <div class="gap"><b>All six equal, by request.</b> Nothing here signals which we do most of.<br><br><b>No client names on this page</b>, deliberately. It's about what we do in each space, not who we've done it for. Credits live on the work page, which keeps every permission question off this one.</div>
+    </div>
+  </section>
+  <section>
+    <div class="wrap">
+      <div class="grid3">
+        <div class="cell"><h3>Conferences</h3><p style="margin-top:8px"><b style="color:var(--ink)">Multi-day, multi-room, and a running order that moves.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Production management across the whole show, including rooms we aren't supplying</li><li>Set, staging, video, lighting, sound and power, together or separately</li><li>Plenary, breakouts, catering and registration running at once</li><li>Presenter slides in through one upload portal, formatted and ready in the room</li><li>Rehearsals, with someone senior there when the order changes</li><li>The get-in planned around the venue's window, not ours</li></ul><div class="gap"><b>⛔</b> Largest conference: delegates, rooms, get-in hours, crew.</div></div>
+        <div class="cell"><h3>Awards</h3><p style="margin-top:8px"><b style="color:var(--ink)">A show that has to look like television, then strike while the party's on.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Set and staging built for the camera position as much as the room</li><li>Show-calling and playback: VTs, walk-ons, stings, trophy moments</li><li>Lighting designed for camera, not just for the audience</li><li>Content made in house, so the graphics and the screens are one team</li><li>A load-out that starts in the main room while a few hundred people are still in the foyer</li><li>The strike planned like part of the show: crew routes, what comes down when, where the trucks sit</li></ul><div class="gap"><b>⛔</b> An example, named or anonymised.</div></div>
+        <div class="cell"><h3>Exhibitions</h3><p style="margin-top:8px"><b style="color:var(--ink)">One stand for an exhibitor, or forty stands for the organiser.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Exhibitor stands, built and crewed. One is a job worth doing</li><li>Organiser builds across a whole show, at forty stands and up</li><li>Seminar areas: staging, screens, sound and lighting</li><li>Main room keynote, which is a conference inside an exhibition</li><li>Power distribution across a hall</li><li>Working inside the venue's build and break windows, usually the hardest constraint on the job</li></ul></div>
+        <div class="cell"><h3>Product launches</h3><p style="margin-top:8px"><b style="color:var(--ink)">Short, high-stakes, and usually built to someone else's creative concept.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Built to your designer's drawings, or ours</li><li>An early answer on what the room will and won't allow</li><li>Single-day builds and short lead times</li><li>Set, video, lighting and content delivered together</li><li>Content produced alongside the technical build rather than after it</li></ul><div class="gap"><b>⛔</b> Thinner than the others because I know least about it. Two lines on what you actually bring to a launch and it matches the rest.</div></div>
+        <div class="cell"><h3>Festivals</h3><p style="margin-top:8px"><b style="color:var(--ink)">Two different jobs, and we do both.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Crew and production management into large public festivals, slotting into an existing structure without needing to run it</li><li>Corporate events in a festival format, delivered end to end</li><li>Recognition and reward events built as a festival rather than a dinner</li><li>Multiple stages or areas across an outdoor or semi-outdoor site</li><li>Power distribution and supply across the site, and kit specified for weather</li></ul></div>
+        <div class="cell"><h3>Install</h3><p style="margin-top:8px"><b style="color:var(--ink)">Permanent and semi-permanent systems, specified by people who run live events.</b></p><ul style="color:var(--muted);font-size:14.5px;padding-left:18px;line-height:1.65;margin-top:10px"><li>Video, lighting, sound and power installed to stay</li><li>Designed from a live events base, so the room works when an event runs in it</li><li>Rigging positions, control positions and power planned for temporary rigs as well as the installed system</li><li>The failure we're brought in to avoid: a spec that's technically correct and falls over the first time someone runs a real show in the space</li></ul><div class="gap"><b>⛔</b> One concrete example of what a non-events integrator misses would land this.</div></div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="wrap narrow stack">
+      <h3>Tell us about the show</h3>
+      <p>The room, the date, and the idea.</p>
+      <p><a class="btn" href="#" onclick="go('contact');return false">Talk to us about a show</a></p>
+    </div>
+  </section>
+</div>
+
+<!-- ================= SERVICES ================= -->
+<div class="page" id="services">
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">Services</div>
+      <h2>Six departments. Take what you need.</h2>
+      <p class="lede">Most large shows need four or five of these. Most suppliers want to sell you all of them or none.</p>
+      <p>We'd rather you took the parts that help. One department or all six, on one quote, with the same crew chief either way, so nobody spends the get-in working out whose responsibility something is.</p>
+      <h3 style="margin-top:14px">How it works</h3>
+      <p>Take one department and it's priced as one. Nothing gets added because you didn't take the other five.</p>
+      <p>Take more and it often costs less than buying the same departments from separate suppliers, because one crew and one set of vehicles cover several of them. Three suppliers sending three vans to the same loading bay is three lots of transport on your budget.</p>
+      <p>And it's simpler. One supplier to brief, one invoice, and nobody arguing about whose problem it is when something goes wrong at 4pm.</p>
+      <p>Every event is quoted individually. The room, the get-in window and the crew days move the number more than the kit list does. We quote for the show you've described, including the parts that are easy to leave off: rehearsal time, crew numbers, spares, and the get-in hours the venue will actually give you.</p>
+      <p>If our number comes in higher than another, it's usually one of those. Ask both of us what's included, and the difference explains itself.</p>
+      <div class="gap"><b>No published prices</b>, and nothing about rate differences between trade and direct. True, normal in the industry, and not talked about. This block is the same on all six service pages.<br><br><b>The shared crew and transport point is the strong one.</b> It's a genuine efficiency rather than a discount, and it's checkable by anyone who's paid three suppliers to send three vans to the same loading bay. State both halves though: the saving is real, and so is the freedom to take one department without penalty. Only saying the first reads as an upsell.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="grid3">
+        <div class="cell"><h3>Set &amp; Staging</h3><p><b style="color:var(--ink)">Drawn and built in the same building.</b> In-house drawing office and workshop, so the thing on the drawing is the thing that turns up.</p><p style="margin-top:10px">CNC and custom build. Large format print <b style="color:var(--ink)">from 30cm to 30m</b>. Stock decking in 4, 6 and 8ft by 1, 2, 3 and 4ft, plus a metric stock panel system, heights from 1800mm in 300mm steps and widths from 300mm in 100mm steps, so almost any set size comes out of panels we already own.</p><p style="margin-top:10px"><b style="color:var(--ink)">And the panels get used again.</b> A bespoke build is made, used once and skipped. Stock panels get struck, cleaned and used on the next show. We didn't do it for environmental reasons, we did it because it's a better way to run a workshop, but it is the environmental answer and it's one we can evidence rather than claim.</p><span class="tag">Drafted</span></div>
+        <div class="cell"><h3>Video</h3><p>Screens, playback and cameras, designed with an understanding of <b style="color:var(--ink)">colour space, resolution and viewing distance</b>. The screen size comes from the room, not from the budget.</p><p style="margin-top:10px">LED, top of the range Analog Way switchers, fibre transmission. <b style="color:var(--ink)">Designed with redundancy as standard</b>, not as an upgrade you can decline.</p><span class="tag">Drafted</span></div>
+        <div class="cell"><h3>Lighting</h3><p>LED fixtures throughout. Lighting plans designed for camera as well as for the audience, because a room that looks right to the people in it and a room that films well are not the same room.</p><p style="margin-top:10px">Rigging worked out alongside the set, the screens and the PA rather than after them, since they're all competing for the same points.</p><span class="tag">Drafted</span></div>
+        <div class="cell"><h3>Sound</h3><p><b style="color:var(--ink)">Calculated audio, not fly and hope.</b> The PA gets modelled against the room before anything is hung: coverage, levels front and back, and where the reflections land.</p><p style="margin-top:10px">d&amp;b PA, digital radio mics, digital desks. And we understand rigging, which is a structural job before it's an audio one, so the system ends up where the coverage needs it rather than where it was easy to hang.</p><span class="tag">Drafted</span></div>
+        <div class="cell"><h3>Power</h3><p>Usually somebody else's problem, which means when it's wrong, it's also somebody else's problem, and you're the one standing in the room.</p><p style="margin-top:10px"><b style="color:var(--ink)">BS7909 electricians.</b> The standard for temporary electrical systems at events, and what venues and insurers look for. Not everyone supplying event power works to it.</p><p style="margin-top:10px"><b style="color:var(--ink)">Power designed around fuel, not just capacity.</b> Generators sized and staged for the load they'll actually see, rather than idling at a fraction of capacity for three days burning diesel. Distribution with RCBOs throughout. Power logging where it's needed, and post-event analytics: what the event actually drew, when, and where.</p><span class="tag">Drafted</span></div>
+        <div class="cell"><h3>Content</h3><p><b style="color:var(--ink)">We make the content as well as run the screens.</b> Content usually arrives from someone with no connection to the team running the show, which is how it ends up in the wrong format, or forty minutes before doors.</p><p style="margin-top:10px">Opening films and intro sequences. Presentation and slide design built for the screen it's going on rather than for a laptop. Stings, transitions and screen graphics. Post-event edits cut into something usable. Full content design and management across an event if you'd rather hand over the whole thing.</p><p style="margin-top:10px">And we handle everyone else's: an upload portal for presenters, slide fixing, and formats sorted before the room opens.</p><span class="tag">Drafted</span></div>
+      </div>
+      <div class="narrow">
+        <div class="gap"><b>✅ All six service pages drafted.</b> Each still needs three real client questions from the questions bank. They use one repeating template, so it's six fill-ins rather than six blank pages, probably one sitting with both of you. Each needs: what's actually covered, deliverables, lead time, and three real questions clients ask.<br><br><b>Hemming Group buy Content and nothing else</b>, that's the proof pick-and-mix works, and worth saying on the Content page if they'll allow it.</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- ================= HOW WE WORK ================= -->
+<div class="page" id="how">
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">How we work</div>
+      <h2>Six steps. Same six every time.</h2>
+      <p class="lede">Whether you're taking one department or all of them.</p>
+    </div>
+  </section>
+  <section>
+    <div class="wrap">
+      <div class="steps">
+        <div class="step"><h3>Work out the objectives</h3><p>What the event is actually for, and how you'll know it worked. Sounds obvious. It's the step most often skipped, and it's the reason shows end up with a set that photographs badly for an event whose whole point was the photographs.</p></div>
+        <div class="step"><h3>Speak to the team</h3><p>Yours and ours. The people who'll be in the room on the day, not just the people signing it off. This is where we find out about the presenter who won't use a lectern, the sponsor expecting a logo nobody mentioned, and the CEO who doesn't want a countdown timer but needs one, because without it he runs over.</p></div>
+        <div class="step"><h3>Site visit</h3><p>We go and look at the room. Not a floor plan. The room. Where the power is, what the load-in actually involves, how high the ceiling really is, and what the venue will and won't let you rig from.</p></div>
+        <div class="step"><h3>Design the event, and make the content</h3><p>Drawings, plots, kit lists and schedules, plus the material that plays on the screens. Doing both together is the part most suppliers can't. When the people building the screens are the people making what goes on them, the content arrives in the right format, at the right time, and looks right in the actual room rather than on a designer's monitor.</p></div>
+        <div class="step"><h3>The event runs</h3><p>Get-in, rehearse, show, strike. The person who quoted it is the person running it, and the crew are the crew you met beforehand.</p></div>
+        <div class="step"><h3>Collate and edit the post-event content</h3><p>You leave with something usable. Most production companies pack the trucks and go. We edit the footage from the day into something you can actually use afterwards, so the event carries on being useful after the room is empty.</p></div>
+      </div>
+      <div class="narrow">
+        <div class="gap"><b>⛔ Step 3:</b> is a site visit standard on every job, or only above a certain size? Only promise what always happens.<br><br><b>⛔ Step 6:</b> worth listing what that typically includes, highlights, full session recordings, social cut-downs?</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- ================= ABOUT ================= -->
+<div class="page" id="about">
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">About</div>
+      <h2>We started as a lighting company</h2>
+      <p>Ten years ago, doing shows for people who'd been recommended us by someone else who'd worked with us. That's still how it works. Every job we've ever had came from a recommendation.</p>
+      <p>For the first ten years we never advertised, had a website, or even a business card.</p>
+      <p>That's changing. You're reading the website.</p>
+      <p>The lighting turned into set and staging, then video, then sound, power and the content that plays on the screens. Not because we set out to be a full-service company but clients kept asking whether we could handle the next bit as well, and it was easier for everyone when we could.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <h2>What we actually do</h2>
+      <p>Production management. Events of every size, and the bigger ones are where the experience shows.</p>
+      <p>The kit matters, and we keep buying it. But what people are really buying is someone who has run a show this size before, knows what fails and when, and can make a decision at 4pm without ringing anyone for permission.</p>
+      <p>Most of our work comes through agencies and in-house AV teams, usually when a show has grown past what they'd normally handle themselves. That's not a failure of an in-house team. It happens every September. The only question is who you call, and whether they'll be the same people next time.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">The principle</div>
+      <div class="quote">No company is the right fit for every event. No client is the right fit for every company. We know that, and we work like we know it.</div>
+      <p>It's why we'll tell you when something won't work, why you can take one department instead of six, and why if you're taking an event somewhere we're not the right answer for we'd still rather help you buy it well than say nothing.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <h2>How we crew a show</h2>
+      <p>One of us is on every show. Not a project manager allocated the week before. Whoever quoted it, in the room, start to finish.</p>
+      <p>Behind that is a crew we build per show. We don't put people we don't know into critical roles, and we don't book from a list of who happens to be free.</p>
+      <p>What we're looking for is harder to write down than a kit qualification. In every room there's someone we trust, someone who's good with the client, and someone who solves problems. They're rarely the same person, and a booking form has no field for any of it.</p>
+      <p>The crew are an extension of whoever's been behind your event for the last three months or five years. On a repeat show that's the whole point: the things that worked last year happen again, the things that didn't get changed, and nobody has to ask you the same questions twice.</p>
+      <div class="gap"><b>No director photos or roles.</b> Client decision. Heading changed from "Who you'll actually deal with", which promised people this section doesn't introduce.<br><br><b>One consequence:</b> proving there are real people behind the company now falls almost entirely to LinkedIn, the company page and both director profiles. Anyone checking us out goes there next, so those profiles need to be complete, current and clearly attached to 6D Group Ltd.<br><br>"One of us is on every show" still does useful work here. It says there are senior people and that they turn up, without naming them.</div>
+    </div>
+  </section>
+</div>
+
+<!-- ================= CONTACT ================= -->
+<div class="page" id="contact">
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">Contact</div>
+      <h2>Tell us about the show</h2>
+      <p class="lede">The room, the date, and the idea. That's usually enough to have a useful conversation.</p>
+      <p>You'll get a reply from the person who'd be running it.</p>
+      <p class="tel" style="font-size:26px;margin-top:8px">0204 583 8080</p>
+      <p style="color:var(--muted)">Info@6d-group.com</p>
+      <div class="gap"><b>⛔ How quickly, honestly?</b> "Same day" and "within a day" are both fine, only put what always happens. A missed promise on this page costs more than the promise gains.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <h3>Form fields, these five only</h3>
+      <p style="color:var(--muted)">Name · Email · Company · Tell us about the show · <b style="color:var(--accent)">How did you hear about us?</b></p>
+      <div class="gap"><b>The last field is not optional.</b> This business has always grown by word of mouth, without it there's no way to tell word of mouth apart from marketing, and every number in the monthly review becomes an opinion. Options: a recommendation · met you at an event · worked with you before · search · LinkedIn · other.</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow stack">
+      <div class="eyebrow">Credentials</div>
+      <h2>Everything your finance team needs</h2>
+      <p>Company registration, VAT, public and employers' liability certificates, health &amp; safety policy, RAMS, accreditations and terms, as one downloadable pack.</p>
+      <p style="margin-top:14px"><b>BS7909 electricians</b>, the standard for temporary electrical systems at events. Worth stating explicitly: it's what venues and insurers look for, and not everyone supplying event power works to it.</p>
+      <div class="gap"><b>✅ Will already has the company documents.</b> This page is a layout for material that exists, not a list of requests.<br><br>Originally 23 lookups. Company number, VAT, registered address, PL and EL cover levels and insurers, H&amp;S policy and named responsible person, whether RAMS are issued per event, T&amp;Cs, and any accreditations held (PSA, SafeContractor, CHAS, Constructionline, ISO).<br><br>Keep it in proportion: nobody is rejecting us over a missing certificate, they're rejecting us over nothing coming up in a search. Worth a day, not a project.</div>
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>6D Group Ltd · Design · Produce · Create</span>
+    <span>0204 583 8080 · Info@6d-group.com</span>
+  </div>
+</footer>
+
+<script>
+var PAGES=[["home","Home"],["what","What we do"],["services","Services"],["how","How we work"],["about","About"],["contact","Contact"]];
+var nav=document.getElementById('nav');
+PAGES.forEach(function(p){
+  var b=document.createElement('button');
+  b.textContent=p[1];b.dataset.id=p[0];
+  b.onclick=function(){go(p[0])};
+  nav.appendChild(b);
+});
+function go(id){
+  document.querySelectorAll('.page').forEach(function(el){el.classList.toggle('on',el.id===id)});
+  nav.querySelectorAll('button').forEach(function(b){
+    b.setAttribute('aria-current',b.dataset.id===id?'true':'false');
+  });
+  window.scrollTo(0,0);
+}
+go('home');
+
+</script>

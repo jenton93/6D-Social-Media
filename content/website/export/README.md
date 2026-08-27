@@ -23,4 +23,15 @@ expanded, gaps forced visible and print styles added. Fonts are inlined as
 base64 rather than linked, because the Google Fonts request fails through the
 proxy and the document silently falls back to system fonts otherwise.
 
-Interactive version: the artifact link in the chat.
+## The two links
+
+| | For | Shows gaps |
+|---|---|---|
+| **Working preview** | Jenton and Christian | Yes, with a toggle |
+| **Clean version** | Sending onward: Will, a client, anyone else | No |
+
+`6D-website-clean.html` is the same copy with the drafting chrome stripped:
+no gap blocks, no toggle, no draft banner. It's the one to share.
+
+Artifacts are private until shared. Use the share menu on the page itself to
+make either one viewable, then send that link.
