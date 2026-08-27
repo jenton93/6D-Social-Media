@@ -65,25 +65,65 @@ either side of them when something doesn't work. That is a real, defensible
 position, and it's very likely the spine of the whole content strategy — the
 strapline already says it: **Design · Produce · Create**.
 
+### How it's actually sold — "pick and mix"
+
+In your words: *"Customers take a part of the package, but each event our
+clients will take some or all of the departments. It's a bit like pick and
+mix."*
+
+That sentence is the positioning, and it should survive more or less intact
+into the website and the profiles. It describes something most of the market
+can't offer:
+
+- A single-discipline supplier can only sell you the one thing they do
+- A full-service house usually wants the whole show or nothing
+- 6D lets a client take lighting this month, all six next month, and it still
+  works as one system because it's one company, one contract, one crew chief
+
+The commercial consequence matters more than the copy: **every job is a
+chance to sell one more department next time.** That gives the content a job
+beyond lead generation — showing existing clients the departments they aren't
+buying yet. Expect that to become a content pillar of its own.
+
 ⛔ Still needed on this section:
-- Which of the six brings in the most revenue, and which do we want more of?
-- Do we do **dry hire** (kit out the door, client crews it) as well as fully
-  crewed production? They're different businesses with different buyers
-- Do we take on **full-show production** — i.e. we're the lead technical
-  supplier — or mostly work as a sub-supplier to a production company?
-- Typical project value and duration, and is any of it retained?
+- Which department gets bought *first* most often? That's the front door, and
+  it's where the website and the top-of-funnel content should point
+- Which department is most under-bought relative to capacity? That's the one
+  the content should work hardest on
+- Typical project value, and the split between crewed and dry hire revenue
+- How far ahead do clients book? (Sets how far ahead content has to run)
 
 ---
 
-## ⛔ 2. Who buys it
+## 2. Who buys it — CONFIRMED IN OUTLINE
 
-For each of the top 2–3 customer types:
+**All four buyer types, and the model is both crewed production and dry hire.**
 
-- Job title / role, and company type and size
-- What's happening in their week when they decide they need us?
-- What do they try first before calling someone like us?
-- Who else is in the room when the decision gets made?
-- What would make them say no?
+| Buyer | What they're buying | What the content has to do |
+|---|---|---|
+| **Event & creative agencies** | A technical partner who won't embarrass them in front of their client | Prove reliability and discretion. They need to trust us with their reputation |
+| **End clients direct** | Someone to take the whole technical problem away | Educate. They don't know what they don't know, and price needs framing |
+| **Other production companies** | Kit and crew, cross-hire | Availability, condition, competence. Trade-to-trade, no marketing gloss |
+| **Venues, festivals & promoters** | A supplier who knows the building or the site | Show we've worked the room. Very location-specific |
+
+**Primary event type: corporate conferences and awards.**
+
+That's a significant strategic fact, because it makes the business seasonal in
+a predictable way — UK corporate events peak roughly September–November and
+February–March, with a dead July/August and a dead late December. Content has
+to be published *ahead* of the booking cycle, not during the busy season when
+nobody has time to write it. See `05-blog-plan.md`.
+
+It also confirms LinkedIn as the right primary channel: agency producers,
+event managers and internal comms leads all live there.
+
+⛔ Still needed on this section:
+- Which of the four is the biggest share of revenue today, and which do you
+  *want* to grow? They pull the content in different directions and we should
+  pick deliberately rather than serve all four equally
+- For the agency buyer: is it a handful of agencies doing repeat work, or a
+  long tail? Repeat relationships change the strategy completely
+- For the direct buyer: what job title signs it off?
 
 ## ⛔ 3. The market
 
